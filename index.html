@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Flora Ayiti — Haiti Plant Inventory</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <a class="logo" href="#"><span>🌿</span><div><b>Flora Ayiti</b><small data-i18n="tagline">Haiti's plant diversity</small></div></a>
+  <nav><a href="#inventory" data-i18n="navInventory">Inventory</a><a href="#about" data-i18n="navAbout">About</a></nav>
+  <select id="language"><option value="en">English</option><option value="ht">Kreyòl</option><option value="fr">Français</option></select>
+</header>
+
+<section class="hero">
+  <div class="hero-inner">
+    <span class="pill" data-i18n="pill">HAITI PLANT INVENTORY</span>
+    <h1 data-i18n="heroTitle">Discover the plants of Haiti.</h1>
+    <p data-i18n="heroText">A growing multilingual inventory connecting local knowledge with scientific names and botanical information.</p>
+    <div class="searchbar">
+      <input id="search" type="search" data-i18n-placeholder="searchPlaceholder">
+      <button id="clear" aria-label="Clear">×</button>
+    </div>
+  </div>
+</section>
+
+<section class="stats">
+  <div><strong id="plantCount">0</strong><span data-i18n="statPlants">plants</span></div>
+  <div><strong id="familyCount">0</strong><span data-i18n="statFamilies">families</span></div>
+  <div><strong>3</strong><span data-i18n="statLanguages">languages</span></div>
+</section>
+
+<main id="inventory">
+  <div class="section-head">
+    <div><span class="eyebrow" data-i18n="eyebrow">Explore</span><h2 data-i18n="inventoryTitle">Plant inventory</h2></div>
+    <div class="filters">
+      <select id="familyFilter"><option value="" data-i18n="allFamilies">All families</option></select>
+      <select id="useFilter"><option value="" data-i18n="allUses">All uses</option></select>
+    </div>
+  </div>
+  <p id="resultText" class="result"></p>
+  <div id="plants" class="grid"></div>
+</main>
+
+<section id="about" class="about">
+  <div><span class="eyebrow" data-i18n="aboutEyebrow">The idea</span><h2 data-i18n="aboutTitle">Local names. Scientific knowledge. Haiti.</h2></div>
+  <p data-i18n="aboutText">Flora Ayiti is designed to document Haiti's plant diversity while preserving the names and knowledge used by local communities. The inventory can grow gradually and each record can be checked and improved over time.</p>
+</section>
+
+<div id="modal" class="modal hidden"><div class="modal-card"><button id="close" class="close">×</button><div id="profile"></div></div></div>
+<footer>🌿 <b>Flora Ayiti</b> · <span data-i18n="footer">Prototype — demonstration information should be verified before publication.</span></footer>
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,727 @@
+[
+  {
+    "name": {
+      "en": "Mango",
+      "ht": "Mango",
+      "fr": "Manguier"
+    },
+    "scientific": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "local": [
+      "Mango"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Shade"
+      ],
+      "ht": [
+        "Manje",
+        "Lonbraj"
+      ],
+      "fr": [
+        "Alimentation",
+        "Ombrage"
+      ]
+    },
+    "icon": "🥭",
+    "description": {
+      "en": "A tropical fruit tree valued for its edible fruit.",
+      "ht": "Yon pye bwa fwi twopikal yo apresye pou fwi li.",
+      "fr": "Un arbre fruitier tropical apprécié pour son fruit comestible."
+    }
+  },
+  {
+    "name": {
+      "en": "Papaya",
+      "ht": "Papay",
+      "fr": "Papayer"
+    },
+    "scientific": "Carica papaya",
+    "family": "Caricaceae",
+    "local": [
+      "Papay"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food"
+      ],
+      "ht": [
+        "Manje"
+      ],
+      "fr": [
+        "Alimentation"
+      ]
+    },
+    "icon": "🍈",
+    "description": {
+      "en": "A fast-growing tropical plant producing edible fruit.",
+      "ht": "Yon plant twopikal ki grandi vit e ki bay fwi manjab.",
+      "fr": "Une plante tropicale à croissance rapide produisant un fruit comestible."
+    }
+  },
+  {
+    "name": {
+      "en": "Coconut palm",
+      "ht": "Kokoye",
+      "fr": "Cocotier"
+    },
+    "scientific": "Cocos nucifera",
+    "family": "Arecaceae",
+    "local": [
+      "Kokoye"
+    ],
+    "region": {
+      "en": "Coastal areas",
+      "ht": "Zòn kotyè",
+      "fr": "Zones côtières"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Oil",
+        "Fiber"
+      ],
+      "ht": [
+        "Manje",
+        "Lwil",
+        "Fib"
+      ],
+      "fr": [
+        "Alimentation",
+        "Huile",
+        "Fibres"
+      ]
+    },
+    "icon": "🥥",
+    "description": {
+      "en": "A palm cultivated in tropical coastal environments.",
+      "ht": "Yon pye palmis yo kiltive nan anviwònman twopikal kotyè.",
+      "fr": "Un palmier cultivé dans les milieux tropicaux côtiers."
+    }
+  },
+  {
+    "name": {
+      "en": "Avocado",
+      "ht": "Zaboka",
+      "fr": "Avocatier"
+    },
+    "scientific": "Persea americana",
+    "family": "Lauraceae",
+    "local": [
+      "Zaboka"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food"
+      ],
+      "ht": [
+        "Manje"
+      ],
+      "fr": [
+        "Alimentation"
+      ]
+    },
+    "icon": "🥑",
+    "description": {
+      "en": "A fruit tree producing avocado.",
+      "ht": "Yon pye bwa fwi ki bay zaboka.",
+      "fr": "Un arbre fruitier produisant l'avocat."
+    }
+  },
+  {
+    "name": {
+      "en": "Breadfruit",
+      "ht": "Lam veritab",
+      "fr": "Arbre à pain"
+    },
+    "scientific": "Artocarpus altilis",
+    "family": "Moraceae",
+    "local": [
+      "Lam veritab"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food"
+      ],
+      "ht": [
+        "Manje"
+      ],
+      "fr": [
+        "Alimentation"
+      ]
+    },
+    "icon": "🌳",
+    "description": {
+      "en": "A tropical tree whose starchy fruit is used as food.",
+      "ht": "Yon pye bwa twopikal ki bay yon fwi ki gen anpil lanmidon pou manje.",
+      "fr": "Un arbre tropical dont le fruit riche en amidon est utilisé comme aliment."
+    }
+  },
+  {
+    "name": {
+      "en": "Cassava",
+      "ht": "Manyòk",
+      "fr": "Manioc"
+    },
+    "scientific": "Manihot esculenta",
+    "family": "Euphorbiaceae",
+    "local": [
+      "Manyòk"
+    ],
+    "region": {
+      "en": "Cultivated across Haiti",
+      "ht": "Kiltive nan anpil zòn ann Ayiti",
+      "fr": "Cultivé dans de nombreuses régions d'Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Starch"
+      ],
+      "ht": [
+        "Manje",
+        "Lanmidon"
+      ],
+      "fr": [
+        "Alimentation",
+        "Amidon"
+      ]
+    },
+    "icon": "🌿",
+    "description": {
+      "en": "A major tropical root crop used as food and for starch products.",
+      "ht": "Yon rekòt rasin twopikal enpòtan yo itilize pou manje ak pwodwi lanmidon.",
+      "fr": "Une culture tropicale à racines importante pour l'alimentation et les produits amylacés."
+    }
+  },
+  {
+    "name": {
+      "en": "Plantain",
+      "ht": "Bannann",
+      "fr": "Bananier plantain"
+    },
+    "scientific": "Musa × paradisiaca",
+    "family": "Musaceae",
+    "local": [
+      "Bannann"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food"
+      ],
+      "ht": [
+        "Manje"
+      ],
+      "fr": [
+        "Alimentation"
+      ]
+    },
+    "icon": "🍌",
+    "description": {
+      "en": "A banana relative cultivated for cooking fruit.",
+      "ht": "Yon plant ki sanble ak bannann, yo kiltive l pou fwi yo kwit.",
+      "fr": "Un proche du bananier cultivé pour ses fruits à cuire."
+    }
+  },
+  {
+    "name": {
+      "en": "Cocoa",
+      "ht": "Kakao",
+      "fr": "Cacaoyer"
+    },
+    "scientific": "Theobroma cacao",
+    "family": "Malvaceae",
+    "local": [
+      "Kakao"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Beverage"
+      ],
+      "ht": [
+        "Manje",
+        "Bwason"
+      ],
+      "fr": [
+        "Alimentation",
+        "Boisson"
+      ]
+    },
+    "icon": "🍫",
+    "description": {
+      "en": "A tropical tree cultivated for seeds used in cocoa products.",
+      "ht": "Yon pye bwa twopikal yo kiltive pou grenn ki sèvi nan pwodwi kakawo.",
+      "fr": "Un arbre tropical cultivé pour ses graines utilisées dans les produits à base de cacao."
+    }
+  },
+  {
+    "name": {
+      "en": "Coffee",
+      "ht": "Kafe",
+      "fr": "Caféier"
+    },
+    "scientific": "Coffea arabica",
+    "family": "Rubiaceae",
+    "local": [
+      "Kafe"
+    ],
+    "region": {
+      "en": "Mountain regions",
+      "ht": "Zòn montay",
+      "fr": "Régions montagneuses"
+    },
+    "uses": {
+      "en": [
+        "Beverage",
+        "Economic crop"
+      ],
+      "ht": [
+        "Bwason",
+        "Rekòt ekonomik"
+      ],
+      "fr": [
+        "Boisson",
+        "Culture économique"
+      ]
+    },
+    "icon": "☕",
+    "description": {
+      "en": "A coffee species associated with highland cultivation.",
+      "ht": "Yon espès kafe ki asosye ak kiltivasyon nan zòn ki wo.",
+      "fr": "Une espèce de café associée à la culture en altitude."
+    }
+  },
+  {
+    "name": {
+      "en": "Sugarcane",
+      "ht": "Kann",
+      "fr": "Canne à sucre"
+    },
+    "scientific": "Saccharum officinarum",
+    "family": "Poaceae",
+    "local": [
+      "Kann"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Sugar"
+      ],
+      "ht": [
+        "Manje",
+        "Sik"
+      ],
+      "fr": [
+        "Alimentation",
+        "Sucre"
+      ]
+    },
+    "icon": "🎋",
+    "description": {
+      "en": "A tall grass cultivated for sugar and juice.",
+      "ht": "Yon gwo zèb yo kiltive pou sik ak ji.",
+      "fr": "Une grande graminée cultivée pour le sucre et le jus."
+    }
+  },
+  {
+    "name": {
+      "en": "Maize",
+      "ht": "Mayi",
+      "fr": "Maïs"
+    },
+    "scientific": "Zea mays",
+    "family": "Poaceae",
+    "local": [
+      "Mayi"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Feed"
+      ],
+      "ht": [
+        "Manje",
+        "Manje bèt"
+      ],
+      "fr": [
+        "Alimentation",
+        "Alimentation animale"
+      ]
+    },
+    "icon": "🌽",
+    "description": {
+      "en": "An important cereal crop used for food and animal feed.",
+      "ht": "Yon sereyal enpòtan yo itilize pou manje ak manje bèt.",
+      "fr": "Une céréale importante utilisée pour l'alimentation humaine et animale."
+    }
+  },
+  {
+    "name": {
+      "en": "Common bean",
+      "ht": "Pwa",
+      "fr": "Haricot commun"
+    },
+    "scientific": "Phaseolus vulgaris",
+    "family": "Fabaceae",
+    "local": [
+      "Pwa"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Protein crop"
+      ],
+      "ht": [
+        "Manje",
+        "Sous pwoteyin"
+      ],
+      "fr": [
+        "Alimentation",
+        "Source de protéines"
+      ]
+    },
+    "icon": "🫘",
+    "description": {
+      "en": "A widely cultivated legume providing edible seeds.",
+      "ht": "Yon legim yo kiltive anpil ki bay grenn manjab.",
+      "fr": "Une légumineuse largement cultivée pour ses graines comestibles."
+    }
+  },
+  {
+    "name": {
+      "en": "Sweet potato",
+      "ht": "Patat",
+      "fr": "Patate douce"
+    },
+    "scientific": "Ipomoea batatas",
+    "family": "Convolvulaceae",
+    "local": [
+      "Patat"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food"
+      ],
+      "ht": [
+        "Manje"
+      ],
+      "fr": [
+        "Alimentation"
+      ]
+    },
+    "icon": "🍠",
+    "description": {
+      "en": "A tropical root crop with edible storage roots.",
+      "ht": "Yon rekòt rasin twopikal ki gen rasin depo manjab.",
+      "fr": "Une culture tropicale à racines de réserve comestibles."
+    }
+  },
+  {
+    "name": {
+      "en": "Pineapple",
+      "ht": "Anana",
+      "fr": "Ananas"
+    },
+    "scientific": "Ananas comosus",
+    "family": "Bromeliaceae",
+    "local": [
+      "Anana"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Beverage"
+      ],
+      "ht": [
+        "Manje",
+        "Bwason"
+      ],
+      "fr": [
+        "Alimentation",
+        "Boisson"
+      ]
+    },
+    "icon": "🍍",
+    "description": {
+      "en": "A tropical crop producing a distinctive edible fruit.",
+      "ht": "Yon rekòt twopikal ki bay yon fwi manjab ki gen fòm espesyal.",
+      "fr": "Une culture tropicale produisant un fruit comestible caractéristique."
+    }
+  },
+  {
+    "name": {
+      "en": "Guava",
+      "ht": "Gwayav",
+      "fr": "Goyavier"
+    },
+    "scientific": "Psidium guajava",
+    "family": "Myrtaceae",
+    "local": [
+      "Gwayav"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Fruit"
+      ],
+      "ht": [
+        "Manje",
+        "Fwi"
+      ],
+      "fr": [
+        "Alimentation",
+        "Fruit"
+      ]
+    },
+    "icon": "🍐",
+    "description": {
+      "en": "A small tropical tree producing aromatic fruit.",
+      "ht": "Yon ti pye bwa twopikal ki bay fwi santi bon.",
+      "fr": "Un petit arbre tropical produisant un fruit aromatique."
+    }
+  },
+  {
+    "name": {
+      "en": "Tamarind",
+      "ht": "Tamaren",
+      "fr": "Tamarinier"
+    },
+    "scientific": "Tamarindus indica",
+    "family": "Fabaceae",
+    "local": [
+      "Tamaren"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Beverage"
+      ],
+      "ht": [
+        "Manje",
+        "Bwason"
+      ],
+      "fr": [
+        "Alimentation",
+        "Boisson"
+      ]
+    },
+    "icon": "🌳",
+    "description": {
+      "en": "A long-lived tropical tree with edible acidic fruit pulp.",
+      "ht": "Yon pye bwa twopikal ki viv lontan e ki gen kaka fwi asid ki manjab.",
+      "fr": "Un arbre tropical longévif dont la pulpe de fruit acidulée est comestible."
+    }
+  },
+  {
+    "name": {
+      "en": "Moringa",
+      "ht": "Moringa",
+      "fr": "Moringa"
+    },
+    "scientific": "Moringa oleifera",
+    "family": "Moringaceae",
+    "local": [
+      "Moringa"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Traditional uses"
+      ],
+      "ht": [
+        "Manje",
+        "Itilizasyon tradisyonèl"
+      ],
+      "fr": [
+        "Alimentation",
+        "Usages traditionnels"
+      ]
+    },
+    "icon": "🌿",
+    "description": {
+      "en": "A drought-tolerant tree whose leaves and pods are used as food in many regions.",
+      "ht": "Yon pye bwa ki sipòte sechrès; yo itilize fèy ak gous li kòm manje nan anpil zòn.",
+      "fr": "Un arbre tolérant à la sécheresse dont les feuilles et les gousses sont utilisées comme aliment dans de nombreuses régions."
+    }
+  },
+  {
+    "name": {
+      "en": "Neem",
+      "ht": "Nèm",
+      "fr": "Neem"
+    },
+    "scientific": "Azadirachta indica",
+    "family": "Meliaceae",
+    "local": [
+      "Nèm"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Shade",
+        "Traditional uses"
+      ],
+      "ht": [
+        "Lonbraj",
+        "Itilizasyon tradisyonèl"
+      ],
+      "fr": [
+        "Ombrage",
+        "Usages traditionnels"
+      ]
+    },
+    "icon": "🌿",
+    "description": {
+      "en": "A hardy tree widely planted in tropical and subtropical areas.",
+      "ht": "Yon pye bwa rezistan yo plante nan anpil zòn twopikal ak subtwopikal.",
+      "fr": "Un arbre robuste planté dans de nombreuses régions tropicales et subtropicales."
+    }
+  },
+  {
+    "name": {
+      "en": "Aloe vera",
+      "ht": "Aloès",
+      "fr": "Aloe vera"
+    },
+    "scientific": "Aloe vera",
+    "family": "Asphodelaceae",
+    "local": [
+      "Aloès"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Ornamental",
+        "Traditional uses"
+      ],
+      "ht": [
+        "Dekorasyon",
+        "Itilizasyon tradisyonèl"
+      ],
+      "fr": [
+        "Ornement",
+        "Usages traditionnels"
+      ]
+    },
+    "icon": "🌵",
+    "description": {
+      "en": "A succulent plant cultivated in warm climates and used traditionally in many communities.",
+      "ht": "Yon plant sukilan yo kiltive nan klima cho e anpil kominote itilize l tradisyonèlman.",
+      "fr": "Une plante succulente cultivée dans les climats chauds et utilisée traditionnellement dans de nombreuses communautés."
+    }
+  },
+  {
+    "name": {
+      "en": "Hibiscus",
+      "ht": "Gwo flè",
+      "fr": "Hibiscus"
+    },
+    "scientific": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "local": [
+      "Gwo flè"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Ornamental"
+      ],
+      "ht": [
+        "Dekorasyon"
+      ],
+      "fr": [
+        "Ornement"
+      ]
+    },
+    "icon": "🌺",
+    "description": {
+      "en": "A flowering shrub commonly grown as an ornamental plant in warm climates.",
+      "ht": "Yon ti pyebwa flè yo grandi anpil pou dekorasyon nan klima cho.",
+      "fr": "Un arbuste fleuri couramment cultivé comme plante ornementale dans les climats chauds."
+    }
+  }
+]
