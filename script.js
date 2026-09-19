@@ -24,25 +24,55 @@ function categoryOf(p){
 }
 function emoji(p){return p.icon||"🌿"}
 
+async function commonsSearch(query, limit=20){
+ try{
+  const url=`https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(query)}&gsrnamespace=6&gsrlimit=${limit}&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=900&format=json&origin=*`;
+  const r=await fetch(url); if(!r.ok)return [];
+  const data=await r.json();
+  return Object.values(data.query?.pages||{}).map(page=>({
+    title:page.title||"",
+    src:page.imageinfo?.[0]?.thumburl||page.imageinfo?.[0]?.url||""
+  })).filter(x=>x.src);
+ }catch(e){ console.warn('Commons search failed',query,e); return []; }
+}
+
+function imageTitleScore(title, kind, scientific){
+ const t=normalize(title);
+ const bad=["book","books","cover","magazine","poster","stamp","illustration","drawing","diagram","map","logo","icon","symbol","painting","watercolor","sketch","herbarium","specimen sheet","scan","screenshot","bottle","package","packaging","label","product box","advertisement","advertising","recipe","cookbook","chocolate bar","coffee cup","juice bottle"];
+ if(bad.some(x=>t.includes(x)))return -1000;
+ let score=0;
+ const sci=normalize(scientific).split(" ").filter(Boolean);
+ score += sci.reduce((n,w)=>n+(t.includes(w)?3:0),0);
+ if(kind==="whole") score += /(tree|plant|palm|shrub|field|forest|cultivation|grove|crop)/.test(t)?8:0;
+ if(kind==="fruit") score += /(fruit|pod|pods|berry|berries|cherries|cherry|coconut|root|roots|bean|beans|stalk|stalks|seed|seeds)/.test(t)?10:0;
+ if(kind==="leaf") score += /(leaf|leaves|flower|flowers|blossom|blossoms)/.test(t)?10:0;
+ if(/file:/.test(t))score+=1;
+ return score;
+}
+
 async function commonsImages(p){
  const key=p.scientific;
  if(imageCache.has(key)) return imageCache.get(key);
- const queries=p.imageQueries||[`${p.scientific} whole plant`,`${p.scientific} fruit`,`${p.scientific} leaves flower`];
- const results=[]; const seen=new Set();
- for(const q of queries){
-  try{
-   const url=`https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(q)}&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url&iiurlwidth=900&format=json&origin=*`;
-   const r=await fetch(url); if(!r.ok) continue;
-   const data=await r.json();
-   for(const page of Object.values(data.query?.pages||{})){
-    const src=page.imageinfo?.[0]?.thumburl||page.imageinfo?.[0]?.url;
-    if(src&&!seen.has(src)){seen.add(src);results.push(src);if(results.length>=3)break;}
-   }
-  }catch(e){console.warn('Image search failed',q,e)}
-  if(results.length>=3)break;
+ const defaults=[
+  {kind:"whole", queries:[`${p.scientific} whole plant`,`${p.scientific} tree plant`]},
+  {kind:"fruit", queries:[`${p.scientific} fruit`,`${p.scientific} pod fruit seeds`]},
+  {kind:"leaf", queries:[`${p.scientific} leaves`,`${p.scientific} flowers leaves`]}
+ ];
+ const groups=[];
+ for(const group of defaults){
+  let candidates=[];
+  for(const q of group.queries){
+   candidates.push(...await commonsSearch(q,20));
+  }
+  const unique=[...new Map(candidates.filter(x=>x.src).map(x=>[x.src,x])).values()];
+  unique.sort((a,b)=>imageTitleScore(b.title,group.kind,p.scientific)-imageTitleScore(a.title,group.kind,p.scientific));
+  const good=unique.filter(x=>imageTitleScore(x.title,group.kind,p.scientific)>0);
+  groups.push(good[0]?.src||unique[0]?.src||"");
  }
+ const results=[...new Set(groups.filter(Boolean))];
  imageCache.set(key,results); return results;
 }
+
 function imageBox(p,profile=false){
  const safe=normalize(p.scientific).replace(/[^a-z0-9]+/g,'-');
  if(profile) return `<div class="profile-gallery" data-gallery-profile="${safe}"><div class="gallery-loading"><span class="placeholder">${emoji(p)}</span></div></div>`;
