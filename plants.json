@@ -54,13 +54,22 @@
     },
     "uses": {
       "en": [
-        "Food"
+        "Fresh fruit",
+        "Juice, jam and desserts",
+        "Leaves and seeds (documented traditional uses)",
+        "Food and household use"
       ],
       "ht": [
-        "Manje"
+        "Fwi fre",
+        "Ji, konfiti ak desè",
+        "Fèy ak grenn (itilizasyon tradisyonèl ki dokimante)",
+        "Manje ak itilizasyon nan kay"
       ],
       "fr": [
-        "Alimentation"
+        "Fruit frais",
+        "Jus, confitures et desserts",
+        "Feuilles et graines (usages traditionnels documentés)",
+        "Alimentation et usages domestiques"
       ]
     },
     "icon": "🍈",
@@ -68,7 +77,12 @@
       "en": "A fast-growing tropical plant producing edible fruit.",
       "ht": "Yon plant twopikal ki grandi vit e ki bay fwi manjab.",
       "fr": "Une plante tropicale à croissance rapide produisant un fruit comestible."
-    }
+    },
+    "imageQueries": [
+      "Carica papaya whole plant",
+      "Carica papaya fruit",
+      "Carica papaya leaves flower"
+    ]
   },
   {
     "name": {
@@ -88,19 +102,25 @@
     },
     "uses": {
       "en": [
-        "Food",
-        "Oil",
-        "Fiber"
+        "Coconut water (drink)",
+        "Coconut flesh (food)",
+        "Coconut oil (food and cosmetics)",
+        "Leaves and fiber (crafts, roofing and household uses)",
+        "Shell (fuel and crafts)"
       ],
       "ht": [
-        "Manje",
-        "Lwil",
-        "Fib"
+        "Dlo kokoye (bwason)",
+        "Vyann kokoye (manje)",
+        "Lwil kokoye (manje ak kosmetik)",
+        "Fèy ak fib (atizana, kouvèti ak itilizasyon nan kay)",
+        "Koki (konbistib ak atizana)"
       ],
       "fr": [
-        "Alimentation",
-        "Huile",
-        "Fibres"
+        "Eau de coco (boisson)",
+        "Chair de coco (alimentation)",
+        "Huile de coco (alimentation et cosmétiques)",
+        "Feuilles et fibres (artisanat, toiture et usages domestiques)",
+        "Coque (combustible et artisanat)"
       ]
     },
     "icon": "🥥",
@@ -108,7 +128,12 @@
       "en": "A palm cultivated in tropical coastal environments.",
       "ht": "Yon pye palmis yo kiltive nan anviwònman twopikal kotyè.",
       "fr": "Un palmier cultivé dans les milieux tropicaux côtiers."
-    }
+    },
+    "imageQueries": [
+      "Cocos nucifera whole palm",
+      "Cocos nucifera coconut fruit",
+      "Cocos nucifera leaves flower"
+    ]
   },
   {
     "name": {
@@ -196,16 +221,25 @@
     },
     "uses": {
       "en": [
-        "Food",
-        "Starch"
+        "Roots (staple food)",
+        "Cassava flour / farina",
+        "Kasav and other cassava foods",
+        "Leaves (cooked as food in some traditions)",
+        "Animal feed and starch products"
       ],
       "ht": [
-        "Manje",
-        "Lanmidon"
+        "Rasin (manje prensipal)",
+        "Farinn manyòk",
+        "Kasav ak lòt manje ki fèt ak manyòk",
+        "Fèy (kwit kòm manje nan kèk tradisyon)",
+        "Manje bèt ak pwodwi lanmidon"
       ],
       "fr": [
-        "Alimentation",
-        "Amidon"
+        "Racines (aliment de base)",
+        "Farine de manioc",
+        "Kasav et autres préparations",
+        "Feuilles (cuites comme aliment dans certaines traditions)",
+        "Alimentation animale et produits amylacés"
       ]
     },
     "icon": "🌿",
@@ -213,7 +247,12 @@
       "en": "A major tropical root crop used as food and for starch products.",
       "ht": "Yon rekòt rasin twopikal enpòtan yo itilize pou manje ak pwodwi lanmidon.",
       "fr": "Une culture tropicale à racines importante pour l'alimentation et les produits amylacés."
-    }
+    },
+    "imageQueries": [
+      "Manihot esculenta cassava plant",
+      "Manihot esculenta roots",
+      "Manihot esculenta leaves"
+    ]
   },
   {
     "name": {
@@ -267,16 +306,25 @@
     },
     "uses": {
       "en": [
-        "Food",
-        "Beverage"
+        "Cocoa beans (food ingredient)",
+        "Chocolate products",
+        "Chokola peyi (traditional Haitian hot cocoa drink)",
+        "Cocoa butter (food and cosmetics)",
+        "Cocoa husks and by-products (documented uses)"
       ],
       "ht": [
-        "Manje",
-        "Bwason"
+        "Grenn kakawo (engredyan manje)",
+        "Pwodwi chokola",
+        "Chokola peyi (bwason kakawo cho tradisyonèl ayisyen)",
+        "Bè kakawo (manje ak kosmetik)",
+        "Koki ak lòt sou-pwodwi kakawo (itilizasyon ki dokimante)"
       ],
       "fr": [
-        "Alimentation",
-        "Boisson"
+        "Fèves de cacao (ingrédient alimentaire)",
+        "Produits chocolatés",
+        "Chokola peyi (boisson chaude traditionnelle haïtienne au cacao)",
+        "Beurre de cacao (alimentation et cosmétiques)",
+        "Coques et autres sous-produits du cacao (usages documentés)"
       ]
     },
     "icon": "🍫",
@@ -284,7 +332,12 @@
       "en": "A tropical tree cultivated for seeds used in cocoa products.",
       "ht": "Yon pye bwa twopikal yo kiltive pou grenn ki sèvi nan pwodwi kakawo.",
       "fr": "Un arbre tropical cultivé pour ses graines utilisées dans les produits à base de cacao."
-    }
+    },
+    "imageQueries": [
+      "Theobroma cacao whole tree pods",
+      "Theobroma cacao fruit pod beans",
+      "Theobroma cacao flowers leaves"
+    ]
   },
   {
     "name": {
@@ -304,16 +357,25 @@
     },
     "uses": {
       "en": [
-        "Beverage",
-        "Economic crop"
+        "Coffee cherries and beans",
+        "Roasted coffee beverage",
+        "Economic crop",
+        "Shade-grown agroforestry in suitable systems",
+        "Coffee by-products (documented uses)"
       ],
       "ht": [
-        "Bwason",
-        "Rekòt ekonomik"
+        "Seriz kafe ak grenn kafe",
+        "Bwason kafe griye",
+        "Rekòt ekonomik",
+        "Agwoforestri ak kafe anba lonbraj nan sistèm ki adapte",
+        "Sou-pwodwi kafe (itilizasyon ki dokimante)"
       ],
       "fr": [
-        "Boisson",
-        "Culture économique"
+        "Cerises et grains de café",
+        "Boisson de café torréfié",
+        "Culture économique",
+        "Agroforesterie ombragée dans les systèmes adaptés",
+        "Sous-produits du café (usages documentés)"
       ]
     },
     "icon": "☕",
@@ -321,7 +383,12 @@
       "en": "A coffee species associated with highland cultivation.",
       "ht": "Yon espès kafe ki asosye ak kiltivasyon nan zòn ki wo.",
       "fr": "Une espèce de café associée à la culture en altitude."
-    }
+    },
+    "imageQueries": [
+      "Coffea arabica whole plant",
+      "Coffea arabica coffee cherries",
+      "Coffea arabica flowers leaves"
+    ]
   },
   {
     "name": {
@@ -341,16 +408,25 @@
     },
     "uses": {
       "en": [
-        "Food",
-        "Sugar"
+        "Fresh cane juice",
+        "Sugar production",
+        "Molasses",
+        "Traditional fermented drinks and rum production",
+        "Bagasse for animal feed, fuel or bioenergy"
       ],
       "ht": [
-        "Manje",
-        "Sik"
+        "Ji kann fre",
+        "Pwodiksyon sik",
+        "Melas",
+        "Bwason fèrmante tradisyonèl ak pwodiksyon wonm",
+        "Bagas pou manje bèt, konbistib oswa byoenèji"
       ],
       "fr": [
-        "Alimentation",
-        "Sucre"
+        "Jus de canne frais",
+        "Production de sucre",
+        "Mélasse",
+        "Boissons fermentées traditionnelles et production de rhum",
+        "Bagasse pour alimentation animale, combustible ou bioénergie"
       ]
     },
     "icon": "🎋",
@@ -358,7 +434,12 @@
       "en": "A tall grass cultivated for sugar and juice.",
       "ht": "Yon gwo zèb yo kiltive pou sik ak ji.",
       "fr": "Une grande graminée cultivée pour le sucre et le jus."
-    }
+    },
+    "imageQueries": [
+      "Saccharum officinarum whole plant",
+      "Saccharum officinarum sugarcane stalks",
+      "Saccharum officinarum leaves flowers"
+    ]
   },
   {
     "name": {
@@ -523,16 +604,25 @@
     },
     "uses": {
       "en": [
-        "Food",
-        "Fruit"
+        "Fresh fruit",
+        "Juice, jam and preserves",
+        "Leaves used in some teas and traditional practices",
+        "Food products and desserts",
+        "Shade and ornamental planting"
       ],
       "ht": [
-        "Manje",
-        "Fwi"
+        "Fwi fre",
+        "Ji, konfiti ak konsèv",
+        "Fèy yo itilize nan kèk te ak pratik tradisyonèl",
+        "Pwodwi manje ak desè",
+        "Lonbraj ak dekorasyon"
       ],
       "fr": [
-        "Alimentation",
-        "Fruit"
+        "Fruit frais",
+        "Jus, confitures et conserves",
+        "Feuilles utilisées dans certains thés et pratiques traditionnelles",
+        "Produits alimentaires et desserts",
+        "Ombrage et ornement"
       ]
     },
     "icon": "🍐",
@@ -540,7 +630,12 @@
       "en": "A small tropical tree producing aromatic fruit.",
       "ht": "Yon ti pye bwa twopikal ki bay fwi santi bon.",
       "fr": "Un petit arbre tropical produisant un fruit aromatique."
-    }
+    },
+    "imageQueries": [
+      "Psidium guajava whole tree",
+      "Psidium guajava guava fruit",
+      "Psidium guajava leaves flowers"
+    ]
   },
   {
     "name": {
@@ -560,16 +655,25 @@
     },
     "uses": {
       "en": [
-        "Food",
-        "Beverage"
+        "Fruit pulp (food)",
+        "Juice, candies and sauces",
+        "Seasoning and culinary ingredient",
+        "Traditional uses",
+        "Shade tree and agroforestry"
       ],
       "ht": [
-        "Manje",
-        "Bwason"
+        "Kaka fwi (manje)",
+        "Ji, sirèt ak sòs",
+        "Kondiman ak engredyan nan kwizin",
+        "Itilizasyon tradisyonèl",
+        "Pye bwa pou lonbraj ak agwoforestri"
       ],
       "fr": [
-        "Alimentation",
-        "Boisson"
+        "Pulpe du fruit (alimentation)",
+        "Jus, confiseries et sauces",
+        "Condiment et ingrédient culinaire",
+        "Usages traditionnels",
+        "Arbre d’ombrage et agroforesterie"
       ]
     },
     "icon": "🌳",
@@ -577,7 +681,12 @@
       "en": "A long-lived tropical tree with edible acidic fruit pulp.",
       "ht": "Yon pye bwa twopikal ki viv lontan e ki gen kaka fwi asid ki manjab.",
       "fr": "Un arbre tropical longévif dont la pulpe de fruit acidulée est comestible."
-    }
+    },
+    "imageQueries": [
+      "Tamarindus indica whole tree",
+      "Tamarindus indica tamarind pods fruit",
+      "Tamarindus indica leaves flowers"
+    ]
   },
   {
     "name": {
@@ -597,16 +706,25 @@
     },
     "uses": {
       "en": [
-        "Food",
-        "Traditional uses"
+        "Leaves (food)",
+        "Leaves for soups, sauces and powdered preparations",
+        "Pods and seeds (food)",
+        "Traditional uses",
+        "Animal feed"
       ],
       "ht": [
-        "Manje",
-        "Itilizasyon tradisyonèl"
+        "Fèy (manje)",
+        "Fèy pou soup, sòs ak preparasyon an poud",
+        "Gous ak grenn (manje)",
+        "Itilizasyon tradisyonèl",
+        "Manje bèt"
       ],
       "fr": [
-        "Alimentation",
-        "Usages traditionnels"
+        "Feuilles (alimentation)",
+        "Feuilles pour soupes, sauces et préparations en poudre",
+        "Gous et graines (alimentation)",
+        "Usages traditionnels",
+        "Alimentation animale"
       ]
     },
     "icon": "🌿",
@@ -614,7 +732,12 @@
       "en": "A drought-tolerant tree whose leaves and pods are used as food in many regions.",
       "ht": "Yon pye bwa ki sipòte sechrès; yo itilize fèy ak gous li kòm manje nan anpil zòn.",
       "fr": "Un arbre tolérant à la sécheresse dont les feuilles et les gousses sont utilisées comme aliment dans de nombreuses régions."
-    }
+    },
+    "imageQueries": [
+      "Moringa oleifera whole tree",
+      "Moringa oleifera leaves flowers",
+      "Moringa oleifera pods seeds"
+    ]
   },
   {
     "name": {
@@ -634,16 +757,25 @@
     },
     "uses": {
       "en": [
-        "Shade",
-        "Traditional uses"
+        "Shade and ornamental planting",
+        "Leaves and seeds used in traditional practices",
+        "Natural insect-control preparations",
+        "Neem oil and seed products",
+        "Agroforestry and soil-related uses"
       ],
       "ht": [
-        "Lonbraj",
-        "Itilizasyon tradisyonèl"
+        "Lonbraj ak dekorasyon",
+        "Fèy ak grenn nan kèk pratik tradisyonèl",
+        "Preparasyon natirèl pou kontwòl ensèk",
+        "Lwil nèm ak pwodwi ki soti nan grenn",
+        "Agwoforestri ak itilizasyon ki gen rapò ak tè"
       ],
       "fr": [
-        "Ombrage",
-        "Usages traditionnels"
+        "Ombrage et ornement",
+        "Feuilles et graines dans certaines pratiques traditionnelles",
+        "Préparations naturelles contre certains insectes",
+        "Huile de neem et produits issus des graines",
+        "Agroforesterie et usages liés au sol"
       ]
     },
     "icon": "🌿",
@@ -651,7 +783,12 @@
       "en": "A hardy tree widely planted in tropical and subtropical areas.",
       "ht": "Yon pye bwa rezistan yo plante nan anpil zòn twopikal ak subtwopikal.",
       "fr": "Un arbre robuste planté dans de nombreuses régions tropicales et subtropicales."
-    }
+    },
+    "imageQueries": [
+      "Azadirachta indica whole tree",
+      "Azadirachta indica leaves flowers",
+      "Azadirachta indica neem fruit seeds"
+    ]
   },
   {
     "name": {
