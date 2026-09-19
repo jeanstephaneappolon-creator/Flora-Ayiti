@@ -28,45 +28,41 @@ async function commonsImages(p){
  const key=p.scientific;
  if(imageCache.has(key)) return imageCache.get(key);
  const queries=p.imageQueries||[`${p.scientific} whole plant`,`${p.scientific} fruit`,`${p.scientific} leaves flower`];
- const results=[];
- const seen=new Set();
+ const results=[]; const seen=new Set();
  for(const q of queries){
   try{
    const url=`https://commons.wikimedia.org/w/api.php?action=query&generator=search&gsrsearch=${encodeURIComponent(q)}&gsrnamespace=6&gsrlimit=8&prop=imageinfo&iiprop=url&iiurlwidth=900&format=json&origin=*`;
-   const r=await fetch(url);
-   if(!r.ok) continue;
+   const r=await fetch(url); if(!r.ok) continue;
    const data=await r.json();
-   const pages=Object.values(data.query?.pages||{});
-   for(const page of pages){
+   for(const page of Object.values(data.query?.pages||{})){
     const src=page.imageinfo?.[0]?.thumburl||page.imageinfo?.[0]?.url;
-    if(src && !seen.has(src)){
-     seen.add(src); results.push(src);
-     if(results.length>=3) break;
-    }
+    if(src&&!seen.has(src)){seen.add(src);results.push(src);if(results.length>=3)break;}
    }
-  }catch(e){ console.warn("Image search failed",q,e); }
-  if(results.length>=3) break;
+  }catch(e){console.warn('Image search failed',q,e)}
+  if(results.length>=3)break;
  }
- imageCache.set(key,results);
- return results;
+ imageCache.set(key,results); return results;
 }
-
-function imageGallery(p,profile=false){
- const safe=normalize(p.scientific).replace(/[^a-z0-9]+/g,"-");
- const cls=profile?"profile-gallery":"photo-gallery";
- return `<div class="${cls}" data-gallery-for="${safe}"><div class="gallery-loading"><span class="placeholder">${emoji(p)}</span></div></div>`;
+function imageBox(p,profile=false){
+ const safe=normalize(p.scientific).replace(/[^a-z0-9]+/g,'-');
+ if(profile) return `<div class="profile-gallery" data-gallery-profile="${safe}"><div class="gallery-loading"><span class="placeholder">${emoji(p)}</span></div></div>`;
+ return `<div class="photo" data-image-for="${safe}"><span class="placeholder">${emoji(p)}</span></div>`;
 }
-
 async function hydrateImages(list){
  await Promise.all(list.map(async p=>{
-  const safe=normalize(p.scientific).replace(/[^a-z0-9]+/g,"-");
-  const nodes=document.querySelectorAll(`[data-gallery-for="${safe}"]`);
-  if(!nodes.length)return;
+  const safe=normalize(p.scientific).replace(/[^a-z0-9]+/g,'-');
+  const cardNodes=document.querySelectorAll(`[data-image-for="${safe}"]`);
+  const profileNodes=document.querySelectorAll(`[data-gallery-profile="${safe}"]`);
+  if(!cardNodes.length&&!profileNodes.length)return;
   const imgs=await commonsImages(p);
-  nodes.forEach(node=>{
+  cardNodes.forEach(node=>{
+   if(!imgs.length)return;
+   node.innerHTML=`<img src="${imgs[0]}" alt="${(p.name?.en||p.scientific).replace(/"/g,'&quot;')}" loading="lazy">`;
+  });
+  profileNodes.forEach(node=>{
    if(!imgs.length){node.innerHTML=`<div class="gallery-loading"><span class="placeholder">${emoji(p)}</span></div>`;return;}
    const labels=[T[lang].whole,T[lang].fruit,T[lang].leaf];
-   node.innerHTML=imgs.map((src,i)=>`<figure><img src="${src}" alt="${(p.name?.en||p.scientific).replace(/"/g,"&quot;")} — ${labels[i]||labels[0]}" loading="lazy"><figcaption>${labels[i]||labels[0]}</figcaption></figure>`).join("");
+   node.innerHTML=imgs.map((src,i)=>`<figure><img src="${src}" alt="${(p.name?.en||p.scientific).replace(/"/g,'&quot;')} — ${labels[i]||labels[0]}" loading="lazy"><figcaption>${labels[i]||labels[0]}</figcaption></figure>`).join('');
   });
  }));
 }
@@ -105,7 +101,7 @@ function render(){
  if(!shown.length){$("plants").innerHTML=`<div class="empty">${lang==="ht"?"Pa jwenn okenn plant.":lang==="fr"?"Aucune plante trouvée.":"No plants found."}</div>`;return;}
  $("plants").innerHTML=shown.map(p=>{
   const c=categoryOf(p);
-  return `<article class="card">${imageGallery(p)}<div class="card-body"><h3>${p.name?.[lang]||p.name?.en||""}</h3><div class="scientific">${p.scientific}</div><div class="tags"><span class="tag ${c}">${T[lang][c==="tree"?"catTree":c==="crop"?"catCrop":c==="medicinal"?"catMedicinal":"catOther"]}</span><span class="tag">${p.family}</span></div><div class="uses-preview"><strong>${T[lang].uses}</strong><ul>${usesList(p)}</ul></div><button class="view" data-index="${plants.indexOf(p)}">${T[lang].view} →</button></div></article>`;
+  return `<article class="card">${imageBox(p)}<div class="card-body"><h3>${p.name?.[lang]||p.name?.en||""}</h3><div class="scientific">${p.scientific}</div><div class="tags"><span class="tag ${c}">${T[lang][c==="tree"?"catTree":c==="crop"?"catCrop":c==="medicinal"?"catMedicinal":"catOther"]}</span><span class="tag">${p.family}</span></div><div class="uses-preview"><strong>${T[lang].uses}</strong><ul>${usesList(p)}</ul></div><button class="view" data-index="${plants.indexOf(p)}">${T[lang].view} →</button></div></article>`;
  }).join("");
  document.querySelectorAll(".view").forEach(btn=>btn.addEventListener("click",()=>openProfile(Number(btn.dataset.index))));
  hydrateImages(shown);
@@ -114,7 +110,7 @@ function render(){
 function openProfile(i){
  const p=plants[i];
  const useItems=(p.uses?.[lang]||p.uses?.en||[]).map(x=>`<li>${x}</li>`).join("");
- $("profile").innerHTML=`<div class="profile">${imageGallery(p,true)}<h2>${p.name?.[lang]||p.name?.en||""}</h2><div class="scientific">${p.scientific}</div><p>${p.description?.[lang]||p.description?.en||""}</p><dl><dt>${T[lang].family}</dt><dd>${p.family}</dd><dt>${T[lang].local}</dt><dd>${(p.local||[]).join(", ")}</dd><dt>${T[lang].region}</dt><dd>${p.region?.[lang]||p.region?.en||""}</dd></dl><section class="profile-uses"><h3>${T[lang].uses}</h3><ul>${useItems}</ul></section><div class="verify"><b>${T[lang].verification}</b><br>${T[lang].verificationText}</div></div>`;
+ $("profile").innerHTML=`<div class="profile">${imageBox(p,true)}<h2>${p.name?.[lang]||p.name?.en||""}</h2><div class="scientific">${p.scientific}</div><p>${p.description?.[lang]||p.description?.en||""}</p><dl><dt>${T[lang].family}</dt><dd>${p.family}</dd><dt>${T[lang].local}</dt><dd>${(p.local||[]).join(", ")}</dd><dt>${T[lang].region}</dt><dd>${p.region?.[lang]||p.region?.en||""}</dd></dl><section class="profile-uses"><h3>${T[lang].uses}</h3><ul>${useItems}</ul></section><div class="verify"><b>${T[lang].verification}</b><br>${T[lang].verificationText}</div></div>`;
  $("modal").classList.remove("hidden");
  $("modal").setAttribute("aria-hidden","false");
  hydrateImages([p]);
