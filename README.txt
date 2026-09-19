@@ -1,17 +1,11 @@
-Flora Ayiti — GitHub Pages update
+Flora Ayiti — corrected uses and images update
 
-This update adds:
-- corrected Papaya image search
-- 3-photo plant galleries from Wikimedia Commons (whole plant, fruit/product, leaves/flowers)
-- main uses / purposes shown on plant cards and profiles
-- Haitian, French and English use descriptions
-- Cocoa includes Chokola peyi as a Haitian traditional hot cocoa drink
+This version preserves the previous Flora Ayiti card/grid design.
+It adds:
+- Uses/purposes to plant cards and profiles
+- Up to 3 real Wikimedia Commons images in each plant profile
+- A single main photo on the plant cards so the original layout stays intact
+- Haitian, French and English translations
 
-GitHub update:
-1. Replace index.html, style.css, script.js and plants.json in the repository.
-2. Keep the same file names and leave them in the repository root.
-3. Wait a few minutes for GitHub Pages to rebuild.
-4. Hard refresh with Ctrl+F5.
-
-Image note:
-Images are retrieved from Wikimedia Commons at runtime. The prototype searches by scientific name and targeted image terms. Before authoritative publication, curate and verify each image and its license/attribution.
+Replace index.html, style.css, script.js and plants.json on GitHub.
+Wait a few minutes after publishing, then hard-refresh with Ctrl+F5.
