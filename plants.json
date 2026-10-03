@@ -1,213 +1,88 @@
 [
   {
-    "id": "mango",
+    "id": "mangifera-indica-l",
     "name": {
       "en": "Mango",
-      "ht": "Mango",
-      "fr": "Manguier"
+      "ht": "Mango, Mang",
+      "fr": "Mangue"
     },
-    "scientific": "Mangifera indica",
+    "scientific": "Mangifera indica L.",
     "family": "Anacardiaceae",
-    "local": "Mango",
-    "category": "tree",
+    "local": [
+      "Mango",
+      "Mang"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
     "uses": {
       "en": [
-        "Fresh fruit",
-        "Juice and preserves",
-        "Shade and agroforestry"
+        "Food",
+        "Juice",
+        "Processing"
       ],
       "ht": [
-        "Fwi fre",
-        "Ji ak konfiti",
-        "Lonbraj ak agroforestri"
+        "Food",
+        "Juice",
+        "Processing"
       ],
       "fr": [
-        "Fruit frais",
-        "Jus et conserves",
-        "Ombrage et agroforesterie"
+        "Food",
+        "Juice",
+        "Processing"
       ]
     },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mangifera_indica_(486463993).jpg?width=1100",
-        "label": "Whole plant / tree"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A_single_a_mango_fruit.jpg?width=1100",
-        "label": "Mango fruit"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mango_leaf_2.jpg?width=1100",
-        "label": "Leaf"
-      }
-    ]
+    "description": {
+      "en": "Mango can be eaten ripe and processed into mango juice, dried slices, pulp and pickles. Haiti has different mango varieties, including Mango doudous, Mango Baptiste, Mango fil blan or Mango Madan Blan, and Mango Jan Mari. Madan Francique is described in the document as the most exported and widespread, especially in Gros-Morne.",
+      "ht": "Mango can be eaten ripe and processed into mango juice, dried slices, pulp and pickles. Haiti has different mango varieties, including Mango doudous, Mango Baptiste, Mango fil blan or Mango Madan Blan, and Mango Jan Mari. Madan Francique is described in the document as the most exported and widespread, especially in Gros-Morne.",
+      "fr": "Mango can be eaten ripe and processed into mango juice, dried slices, pulp and pickles. Haiti has different mango varieties, including Mango doudous, Mango Baptiste, Mango fil blan or Mango Madan Blan, and Mango Jan Mari. Madan Francique is described in the document as the most exported and widespread, especially in Gros-Morne."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mangifera%20indica%20%283%29.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
   },
   {
-    "id": "papaya",
+    "id": "ipomoea-batatas-l-lam",
     "name": {
-      "en": "Papaya",
-      "ht": "Papay",
-      "fr": "Papayer"
+      "en": "Sweet potato",
+      "ht": "Patat",
+      "fr": "Patate douce"
     },
-    "scientific": "Carica papaya",
-    "family": "Caricaceae",
-    "local": "Papay",
-    "category": "crop",
+    "scientific": "Ipomoea batatas (L.) Lam.",
+    "family": "Convolvulaceae",
+    "local": [
+      "Patat"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
     "uses": {
       "en": [
-        "Fresh fruit",
-        "Juice, jam and desserts",
-        "Traditional household uses of leaves and seeds"
+        "Food",
+        "Crop"
       ],
       "ht": [
-        "Fwi fre",
-        "Ji, konfiti ak desè",
-        "Itilizasyon tradisyonèl fèy ak grenn"
+        "Food",
+        "Crop"
       ],
       "fr": [
-        "Fruit frais",
-        "Jus, confitures et desserts",
-        "Usages traditionnels des feuilles et graines"
+        "Food",
+        "Crop"
       ]
     },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carica_papaya_or_Papaya.jpg?width=1100",
-        "label": "Whole plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carica_papaya_fruit.jpg?width=1100",
-        "label": "Papaya fruit"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/The_leaf_of_the_plant_Carica_papaya.png?width=1100",
-        "label": "Leaf"
-      }
-    ]
+    "description": {
+      "en": "Sweet potatoes are commonly used for consumption in Haiti. The tuberous roots are boiled or fried, and the document also notes a special Haitian Creole dessert prepared with sweet potatoes.",
+      "ht": "Sweet potatoes are commonly used for consumption in Haiti. The tuberous roots are boiled or fried, and the document also notes a special Haitian Creole dessert prepared with sweet potatoes.",
+      "fr": "Sweet potatoes are commonly used for consumption in Haiti. The tuberous roots are boiled or fried, and the document also notes a special Haitian Creole dessert prepared with sweet potatoes."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ipomoea%20batatas%20%28Sweet%20Potato%29.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
   },
   {
-    "id": "coconut",
-    "name": {
-      "en": "Coconut palm",
-      "ht": "Kokoye",
-      "fr": "Cocotier"
-    },
-    "scientific": "Cocos nucifera",
-    "family": "Arecaceae",
-    "local": "Kokoye",
-    "category": "tree",
-    "uses": {
-      "en": [
-        "Coconut water",
-        "Edible flesh and oil",
-        "Leaves and fiber for household materials"
-      ],
-      "ht": [
-        "Dlo kokoye",
-        "Vyann ak lwil kokoye",
-        "Fèy ak fib pou itilizasyon lakay"
-      ],
-      "fr": [
-        "Eau de coco",
-        "Chair et huile de coco",
-        "Feuilles et fibres pour usages domestiques"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cocos-nucifera.jpg?width=1100",
-        "label": "Palm and developing fruit"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cocosnucifera.jpg?width=1100",
-        "label": "Coconut palm"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coconut.jpg?width=1100",
-        "label": "Coconut fruit"
-      }
-    ]
-  },
-  {
-    "id": "avocado",
-    "name": {
-      "en": "Avocado",
-      "ht": "Zaboka",
-      "fr": "Avocatier"
-    },
-    "scientific": "Persea americana",
-    "family": "Lauraceae",
-    "local": "Zaboka",
-    "category": "tree",
-    "uses": {
-      "en": [
-        "Fresh fruit",
-        "Cooking and sauces",
-        "Shade tree and agroforestry"
-      ],
-      "ht": [
-        "Fwi fre",
-        "Kizin ak sòs",
-        "Pye lonbraj ak agroforestri"
-      ],
-      "fr": [
-        "Fruit frais",
-        "Cuisine et sauces",
-        "Arbre d'ombrage et agroforesterie"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Persea_americana.jpg?width=1100",
-        "label": "Whole plant / tree"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Avocado_fruit.jpg?width=1100",
-        "label": "Avocado fruit"
-      }
-    ]
-  },
-  {
-    "id": "breadfruit",
-    "name": {
-      "en": "Breadfruit",
-      "ht": "Lam veritab",
-      "fr": "Arbre à pain"
-    },
-    "scientific": "Artocarpus altilis",
-    "family": "Moraceae",
-    "local": "Lam veritab",
-    "category": "tree",
-    "uses": {
-      "en": [
-        "Cooked fruit",
-        "Flour and food products",
-        "Shade and agroforestry"
-      ],
-      "ht": [
-        "Fwi kwit",
-        "Farinn ak pwodwi manje",
-        "Lonbraj ak agroforestri"
-      ],
-      "fr": [
-        "Fruit cuit",
-        "Farine et produits alimentaires",
-        "Ombrage et agroforesterie"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Artocarpus_altilis.jpg?width=1100",
-        "label": "Plant / tree"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Breadfruit.jpg?width=1100",
-        "label": "Fruit"
-      }
-    ]
-  },
-  {
-    "id": "cassava",
+    "id": "manihot-esculenta",
     "name": {
       "en": "Cassava",
       "ht": "Manyòk",
@@ -215,605 +90,1106 @@
     },
     "scientific": "Manihot esculenta",
     "family": "Euphorbiaceae",
-    "local": "Manyòk",
-    "category": "crop",
-    "uses": {
-      "en": [
-        "Staple root crop",
-        "Flour, starch and kasav",
-        "Leaves cooked as food in some traditions"
-      ],
-      "ht": [
-        "Rasin manje prensipal",
-        "Farinn, lanmidon ak kasav",
-        "Fèy kwit kòm manje nan kèk tradisyon"
-      ],
-      "fr": [
-        "Racine alimentaire",
-        "Farine, amidon et kasav",
-        "Feuilles consommées cuites dans certaines traditions"
-      ]
+    "local": [
+      "Manyòk"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
     },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Manihot_esculenta_(Manioc).jpg?width=1100",
-        "label": "Cassava plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Manihot_esculenta_roots.jpg?width=1100",
-        "label": "Cassava roots"
-      }
-    ]
-  },
-  {
-    "id": "plantain",
-    "name": {
-      "en": "Plantain",
-      "ht": "Bannann",
-      "fr": "Plantain"
-    },
-    "scientific": "Musa × paradisiaca",
-    "family": "Musaceae",
-    "local": "Bannann",
-    "category": "crop",
-    "uses": {
-      "en": [
-        "Cooked staple food",
-        "Fried and boiled dishes",
-        "Leaves used for wrapping food"
-      ],
-      "ht": [
-        "Manje prensipal kwit",
-        "Fri ak bouyi",
-        "Fèy pou vlope manje"
-      ],
-      "fr": [
-        "Aliment de base cuit",
-        "Plats frits et bouillis",
-        "Feuilles pour emballer les aliments"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Musa_x_paradisiaca.jpg?width=1100",
-        "label": "Plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Plantain.jpg?width=1100",
-        "label": "Fruit"
-      }
-    ]
-  },
-  {
-    "id": "cocoa",
-    "name": {
-      "en": "Cocoa",
-      "ht": "Kakao",
-      "fr": "Cacaoyer"
-    },
-    "scientific": "Theobroma cacao",
-    "family": "Malvaceae",
-    "local": "Kakao",
-    "category": "crop",
-    "uses": {
-      "en": [
-        "Cocoa beans and chocolate products",
-        "Chokola peyi — traditional Haitian hot cocoa drink",
-        "Cocoa butter and by-products"
-      ],
-      "ht": [
-        "Grenn kakao ak pwodwi chokola",
-        "Chokola peyi — bwason tradisyonèl ayisyen cho",
-        "Bè kakao ak lòt sou-pwodwi"
-      ],
-      "fr": [
-        "Fèves de cacao et produits chocolatés",
-        "Chokola peyi — boisson traditionnelle haïtienne au cacao",
-        "Beurre de cacao et sous-produits"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Theobroma_cacao_fruit.jpg?width=1100",
-        "label": "Cocoa fruit / pod"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cocoa_pods_on_the_cocoa_tree_(Theobroma_cacao)_inside_the_Shinjuku_Gyoen_Greenhouse.jpg?width=1100",
-        "label": "Pods on tree"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Theobroma_cacao_flower.jpg?width=1100",
-        "label": "Flower"
-      }
-    ]
-  },
-  {
-    "id": "coffee",
-    "name": {
-      "en": "Coffee",
-      "ht": "Kafe",
-      "fr": "Caféier"
-    },
-    "scientific": "Coffea arabica",
-    "family": "Rubiaceae",
-    "local": "Kafe",
-    "category": "crop",
-    "uses": {
-      "en": [
-        "Coffee cherries and beans",
-        "Roasted beverage",
-        "Agroforestry and farm income"
-      ],
-      "ht": [
-        "Seriz kafe ak grenn kafe",
-        "Bwason kafe griye",
-        "Agroforestri ak revni pou fèm"
-      ],
-      "fr": [
-        "Cerises et grains de café",
-        "Boisson torréfiée",
-        "Agroforesterie et revenu agricole"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coffea_arabica_(Caffé).jpg?width=1100",
-        "label": "Coffee plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coffee_cherries.jpg?width=1100",
-        "label": "Coffee cherries"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coffee_Flowers.JPG?width=1100",
-        "label": "Coffee flowers"
-      }
-    ]
-  },
-  {
-    "id": "sugarcane",
-    "name": {
-      "en": "Sugarcane",
-      "ht": "Kann",
-      "fr": "Canne à sucre"
-    },
-    "scientific": "Saccharum officinarum",
-    "family": "Poaceae",
-    "local": "Kann",
-    "category": "crop",
-    "uses": {
-      "en": [
-        "Fresh cane juice",
-        "Sugar and molasses",
-        "Bagasse and traditional fermented products"
-      ],
-      "ht": [
-        "Ji kann fre",
-        "Sik ak siwo kann",
-        "Bagas ak pwodwi tradisyonèl fèrmante"
-      ],
-      "fr": [
-        "Jus de canne frais",
-        "Sucre et mélasse",
-        "Bagasse et produits traditionnels fermentés"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Saccharum_officinarum.JPG?width=1100",
-        "label": "Sugarcane"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sugarcane.jpg?width=1100",
-        "label": "Cane stalks"
-      }
-    ]
-  },
-  {
-    "id": "maize",
-    "name": {
-      "en": "Maize",
-      "ht": "Mayi",
-      "fr": "Maïs"
-    },
-    "scientific": "Zea mays",
-    "family": "Poaceae",
-    "local": "Mayi",
-    "category": "crop",
-    "uses": {
-      "en": [
-        "Staple food",
-        "Animal feed",
-        "Flour and traditional foods"
-      ],
-      "ht": [
-        "Manje prensipal",
-        "Manje bèt",
-        "Farinn ak manje tradisyonèl"
-      ],
-      "fr": [
-        "Aliment de base",
-        "Alimentation animale",
-        "Farine et aliments traditionnels"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Zea_mays_plant.jpg?width=1100",
-        "label": "Corn plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Corn_cobs.jpg?width=1100",
-        "label": "Corn ears / cobs"
-      }
-    ]
-  },
-  {
-    "id": "bean",
-    "name": {
-      "en": "Common bean",
-      "ht": "Pwa",
-      "fr": "Haricot commun"
-    },
-    "scientific": "Phaseolus vulgaris",
-    "family": "Fabaceae",
-    "local": "Pwa",
-    "category": "crop",
     "uses": {
       "en": [
         "Food",
-        "Protein-rich crop",
-        "Soil nitrogen contribution"
+        "Cassava bread",
+        "Flour"
       ],
       "ht": [
-        "Manje",
-        "Rekòt ki rich an pwoteyin",
-        "Kontribisyon azòt nan tè"
+        "Food",
+        "Cassava bread",
+        "Flour"
       ],
       "fr": [
-        "Alimentation",
-        "Culture riche en protéines",
-        "Contribution à l'azote du sol"
+        "Food",
+        "Cassava bread",
+        "Flour"
       ]
     },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Phaseolus_vulgaris.jpg?width=1100",
-        "label": "Plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Phaseolus_vulgaris_seeds.jpg?width=1100",
-        "label": "Seeds"
-      }
-    ]
+    "description": {
+      "en": "The document distinguishes sweet and bitter cassava. Sweet cassava is commonly used for direct consumption. Bitter cassava contains cyanogenic compounds and is processed rather than eaten directly; it is used for cassave, flour and moussa.",
+      "ht": "The document distinguishes sweet and bitter cassava. Sweet cassava is commonly used for direct consumption. Bitter cassava contains cyanogenic compounds and is processed rather than eaten directly; it is used for cassave, flour and moussa.",
+      "fr": "The document distinguishes sweet and bitter cassava. Sweet cassava is commonly used for direct consumption. Bitter cassava contains cyanogenic compounds and is processed rather than eaten directly; it is used for cassave, flour and moussa."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Manihot%20esculenta%20001.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
   },
   {
-    "id": "sweetpotato",
+    "id": "musa-x-paradisiaca-l",
     "name": {
-      "en": "Sweet potato",
-      "ht": "Patat",
-      "fr": "Patate douce"
+      "en": "Plantain",
+      "ht": "Bannann",
+      "fr": "Banane plantain"
     },
-    "scientific": "Ipomoea batatas",
-    "family": "Convolvulaceae",
-    "local": "Patat",
-    "category": "crop",
+    "scientific": "Musa × paradisiaca L.",
+    "family": "Musaceae",
+    "local": [
+      "Bannann"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
     "uses": {
       "en": [
-        "Edible roots",
-        "Leaves and shoots as food",
-        "Animal feed"
+        "Food",
+        "Crop",
+        "Markets"
       ],
       "ht": [
-        "Rasin manjab",
-        "Fèy ak tij kòm manje",
-        "Manje bèt"
+        "Food",
+        "Crop",
+        "Markets"
       ],
       "fr": [
-        "Racines comestibles",
-        "Feuilles et pousses alimentaires",
-        "Alimentation animale"
+        "Food",
+        "Crop",
+        "Markets"
       ]
     },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ipomoea_batatas_(Sweet_potato)_in_China.jpg?width=1100",
-        "label": "Sweet potato plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sweet_potato.jpg?width=1100",
-        "label": "Sweet potato roots"
-      }
-    ]
+    "description": {
+      "en": "Plantain is an important food crop in Haiti and is commonly grown in home gardens, small farms and mixed cropping systems. Green plantain may be boiled, fried or prepared as bannann peze; ripe fruit is also used in several dishes.",
+      "ht": "Plantain is an important food crop in Haiti and is commonly grown in home gardens, small farms and mixed cropping systems. Green plantain may be boiled, fried or prepared as bannann peze; ripe fruit is also used in several dishes.",
+      "fr": "Plantain is an important food crop in Haiti and is commonly grown in home gardens, small farms and mixed cropping systems. Green plantain may be boiled, fried or prepared as bannann peze; ripe fruit is also used in several dishes."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Musa%20paradisiaca%201.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online. Image placeholder should be replaced with a verified Musa image."
   },
   {
-    "id": "pineapple",
+    "id": "cocos-nucifera-l",
     "name": {
-      "en": "Pineapple",
-      "ht": "Anana",
-      "fr": "Ananas"
+      "en": "Coconut",
+      "ht": "Kokoye",
+      "fr": "Cocotier / Noix de coco"
     },
-    "scientific": "Ananas comosus",
-    "family": "Bromeliaceae",
-    "local": "Anana",
-    "category": "crop",
+    "scientific": "Cocos nucifera L.",
+    "family": "Arecaceae",
+    "local": [
+      "Kokoye"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
     "uses": {
       "en": [
-        "Fresh fruit",
-        "Juice and preserves",
-        "Food processing"
+        "Food",
+        "Coconut water",
+        "Coconut milk",
+        "Oil",
+        "Crafts"
       ],
       "ht": [
-        "Fwi fre",
-        "Ji ak konfiti",
-        "Transfòmasyon manje"
+        "Food",
+        "Coconut water",
+        "Coconut milk",
+        "Oil",
+        "Crafts"
       ],
       "fr": [
-        "Fruit frais",
-        "Jus et conserves",
-        "Transformation alimentaire"
+        "Food",
+        "Coconut water",
+        "Coconut milk",
+        "Oil",
+        "Crafts"
       ]
     },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ananas_comosus.jpg?width=1100",
-        "label": "Plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Pineapple.jpg?width=1100",
-        "label": "Fruit"
-      }
-    ]
+    "description": {
+      "en": "Coconut is a familiar palm in Haiti, especially in tropical and coastal environments. The fruit provides coconut water and edible flesh; mature coconut is used in cooking, baking, desserts, coconut milk and oil. Shells and leaves can also be used in household activities and crafts.",
+      "ht": "Coconut is a familiar palm in Haiti, especially in tropical and coastal environments. The fruit provides coconut water and edible flesh; mature coconut is used in cooking, baking, desserts, coconut milk and oil. Shells and leaves can also be used in household activities and crafts.",
+      "fr": "Coconut is a familiar palm in Haiti, especially in tropical and coastal environments. The fruit provides coconut water and edible flesh; mature coconut is used in cooking, baking, desserts, coconut milk and oil. Shells and leaves can also be used in household activities and crafts."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cocos%20nucifera%20%2811033378715%29.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; TRAMIL and Haitian plant references."
   },
   {
-    "id": "guava",
+    "id": "carica-papaya-l",
+    "name": {
+      "en": "Papaya",
+      "ht": "Papay",
+      "fr": "Papaye"
+    },
+    "scientific": "Carica papaya L.",
+    "family": "Caricaceae",
+    "local": [
+      "Papay"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Juice"
+      ],
+      "ht": [
+        "Food",
+        "Juice"
+      ],
+      "fr": [
+        "Food",
+        "Juice"
+      ]
+    },
+    "description": {
+      "en": "Papaya is a small tree-like tropical plant with large lobed leaves and fleshy fruits that become yellow or orange as they mature. In Haiti it is valued mainly for its edible fruit, which can be eaten fresh or processed into juice and other foods. Both ripe and unripe fruits are used in different culinary preparations.",
+      "ht": "Papaya is a small tree-like tropical plant with large lobed leaves and fleshy fruits that become yellow or orange as they mature. In Haiti it is valued mainly for its edible fruit, which can be eaten fresh or processed into juice and other foods. Both ripe and unripe fruits are used in different culinary preparations.",
+      "fr": "Papaya is a small tree-like tropical plant with large lobed leaves and fleshy fruits that become yellow or orange as they mature. In Haiti it is valued mainly for its edible fruit, which can be eaten fresh or processed into juice and other foods. Both ripe and unripe fruits are used in different culinary preparations."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carica.papaya.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; TRAMIL."
+  },
+  {
+    "id": "moringa-oleifera-lam",
+    "name": {
+      "en": "Moringa",
+      "ht": "Doliv / Morenga",
+      "fr": "Moringa / Arbre de vie"
+    },
+    "scientific": "Moringa oleifera Lam.",
+    "family": "Moringaceae",
+    "local": [
+      "Doliv",
+      "Morenga"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Traditional knowledge"
+      ],
+      "ht": [
+        "Food",
+        "Traditional knowledge"
+      ],
+      "fr": [
+        "Food",
+        "Traditional knowledge"
+      ]
+    },
+    "description": {
+      "en": "Moringa is a small tree valued for its leaves, flowers, pods and seeds. It grows well in warm conditions and can tolerate relatively dry environments once established. The document records traditional uses and notes that these should be presented as documented cultural knowledge rather than as medically proven treatments.",
+      "ht": "Moringa is a small tree valued for its leaves, flowers, pods and seeds. It grows well in warm conditions and can tolerate relatively dry environments once established. The document records traditional uses and notes that these should be presented as documented cultural knowledge rather than as medically proven treatments.",
+      "fr": "Moringa is a small tree valued for its leaves, flowers, pods and seeds. It grows well in warm conditions and can tolerate relatively dry environments once established. The document records traditional uses and notes that these should be presented as documented cultural knowledge rather than as medically proven treatments."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moringa%20oleifera%20plant.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; Haitian ethnobotanical survey."
+  },
+  {
+    "id": "catalpa-longissima-jacq-dum-cours",
+    "name": {
+      "en": "Haitian oak / Haitian catalpa",
+      "ht": "Chenn / Bwa chenn",
+      "fr": "Chêne haïtien / Bois chêne"
+    },
+    "scientific": "Catalpa longissima (Jacq.) Dum. Cours.",
+    "family": "Bignoniaceae",
+    "local": [
+      "Chenn",
+      "Bwa chenn"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Timber",
+        "Traditional/local knowledge"
+      ],
+      "ht": [
+        "Timber",
+        "Traditional/local knowledge"
+      ],
+      "fr": [
+        "Timber",
+        "Traditional/local knowledge"
+      ]
+    },
+    "description": {
+      "en": "The Haitian tree commonly called Haitian oak or chenn is identified in the current document as Catalpa longissima rather than a species of Quercus. The common name can therefore be misleading; the tree belongs to Bignoniaceae. Local observations and photographs should accompany the entry where possible.",
+      "ht": "The Haitian tree commonly called Haitian oak or chenn is identified in the current document as Catalpa longissima rather than a species of Quercus. The common name can therefore be misleading; the tree belongs to Bignoniaceae. Local observations and photographs should accompany the entry where possible.",
+      "fr": "The Haitian tree commonly called Haitian oak or chenn is identified in the current document as Catalpa longissima rather than a species of Quercus. The common name can therefore be misleading; the tree belongs to Bignoniaceae. Local observations and photographs should accompany the entry where possible."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Catalpa%20longissima.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Haitian tree references; Kew Plants of the World Online. Verify the image before publication."
+  },
+  {
+    "id": "cajanus-cajan-l-huth",
+    "name": {
+      "en": "Pigeon pea",
+      "ht": "Pwa kongo",
+      "fr": "Pois pigeon"
+    },
+    "scientific": "Cajanus cajan (L.) Huth",
+    "family": "Fabaceae",
+    "local": [
+      "Pwa kongo"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Crop",
+        "Soil fertility"
+      ],
+      "ht": [
+        "Food",
+        "Crop",
+        "Soil fertility"
+      ],
+      "fr": [
+        "Food",
+        "Crop",
+        "Soil fertility"
+      ]
+    },
+    "description": {
+      "en": "Pigeon pea is a leguminous shrub cultivated in Haiti for its edible seeds. The peas may be eaten fresh or dried and prepared in traditional meals. The document also notes its agricultural value as a legume associated with biological nitrogen fixation.",
+      "ht": "Pigeon pea is a leguminous shrub cultivated in Haiti for its edible seeds. The peas may be eaten fresh or dried and prepared in traditional meals. The document also notes its agricultural value as a legume associated with biological nitrogen fixation.",
+      "fr": "Pigeon pea is a leguminous shrub cultivated in Haiti for its edible seeds. The peas may be eaten fresh or dried and prepared in traditional meals. The document also notes its agricultural value as a legume associated with biological nitrogen fixation."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cajanus%20cajan%20kz02.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+  },
+  {
+    "id": "allium-cepa-l",
+    "name": {
+      "en": "Onion",
+      "ht": "Zonyon",
+      "fr": "Oignon"
+    },
+    "scientific": "Allium cepa L.",
+    "family": "Amaryllidaceae",
+    "local": [
+      "Zonyon"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Seasoning",
+        "Crop"
+      ],
+      "ht": [
+        "Food",
+        "Seasoning",
+        "Crop"
+      ],
+      "fr": [
+        "Food",
+        "Seasoning",
+        "Crop"
+      ]
+    },
+    "description": {
+      "en": "Onion is a bulb-forming crop widely used as a seasoning and food ingredient. In Haiti it is used in sauces, stews, soups, rice dishes, meat preparations and other everyday foods. The underground bulb is the principal part consumed.",
+      "ht": "Onion is a bulb-forming crop widely used as a seasoning and food ingredient. In Haiti it is used in sauces, stews, soups, rice dishes, meat preparations and other everyday foods. The underground bulb is the principal part consumed.",
+      "fr": "Onion is a bulb-forming crop widely used as a seasoning and food ingredient. In Haiti it is used in sauces, stews, soups, rice dishes, meat preparations and other everyday foods. The underground bulb is the principal part consumed."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Allium%20cepa%20L.",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online. Verify image before publication."
+  },
+  {
+    "id": "capsicum-annuum-l",
+    "name": {
+      "en": "Bell pepper / Sweet pepper",
+      "ht": "Piman dous",
+      "fr": "Poivron"
+    },
+    "scientific": "Capsicum annuum L.",
+    "family": "Solanaceae",
+    "local": [
+      "Piman dous"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Seasoning",
+        "Crop"
+      ],
+      "ht": [
+        "Food",
+        "Seasoning",
+        "Crop"
+      ],
+      "fr": [
+        "Food",
+        "Seasoning",
+        "Crop"
+      ]
+    },
+    "description": {
+      "en": "Bell pepper is a cultivated form of Capsicum annuum used as a vegetable and flavoring ingredient. Fruits may be green, yellow, orange or red depending on variety and maturity. In Haiti, sweet peppers are used in sauces, stews, meat and vegetable dishes.",
+      "ht": "Bell pepper is a cultivated form of Capsicum annuum used as a vegetable and flavoring ingredient. Fruits may be green, yellow, orange or red depending on variety and maturity. In Haiti, sweet peppers are used in sauces, stews, meat and vegetable dishes.",
+      "fr": "Bell pepper is a cultivated form of Capsicum annuum used as a vegetable and flavoring ingredient. Fruits may be green, yellow, orange or red depending on variety and maturity. In Haiti, sweet peppers are used in sauces, stews, meat and vegetable dishes."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Capsicum%20annuum%20%28Solanaceae%29.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+  },
+  {
+    "id": "dioscorea-spp-including-dioscorea-alata-l",
+    "name": {
+      "en": "Yam",
+      "ht": "Yanm",
+      "fr": "Igname"
+    },
+    "scientific": "Dioscorea spp. (including Dioscorea alata L.)",
+    "family": "Dioscoreaceae",
+    "local": [
+      "Yanm"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Crop"
+      ],
+      "ht": [
+        "Food",
+        "Crop"
+      ],
+      "fr": [
+        "Food",
+        "Crop"
+      ]
+    },
+    "description": {
+      "en": "Yam refers to several Dioscorea species cultivated for edible underground tubers. In Haiti, yams may be boiled, fried, mashed or incorporated into other meals. The document intentionally keeps the scientific identification broad because local yams can represent more than one species.",
+      "ht": "Yam refers to several Dioscorea species cultivated for edible underground tubers. In Haiti, yams may be boiled, fried, mashed or incorporated into other meals. The document intentionally keeps the scientific identification broad because local yams can represent more than one species.",
+      "fr": "Yam refers to several Dioscorea species cultivated for edible underground tubers. In Haiti, yams may be boiled, fried, mashed or incorporated into other meals. The document intentionally keeps the scientific identification broad because local yams can represent more than one species."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dioscorea%20alata.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+  },
+  {
+    "id": "terminalia-catappa-l",
+    "name": {
+      "en": "Tropical almond / Sea almond",
+      "ht": "Zanmann / Zanmand",
+      "fr": "Amandier des Indes / Amandier tropical"
+    },
+    "scientific": "Terminalia catappa L.",
+    "family": "Combretaceae",
+    "local": [
+      "Zanmann",
+      "Zanmand"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Tree",
+        "Coastal environments"
+      ],
+      "ht": [
+        "Food",
+        "Tree",
+        "Coastal environments"
+      ],
+      "fr": [
+        "Food",
+        "Tree",
+        "Coastal environments"
+      ]
+    },
+    "description": {
+      "en": "The Haitian plant commonly called zanmann or zanmand is the tropical almond, Terminalia catappa, not the temperate almond Prunus dulcis. It is a broad-canopied tree with large leaves and edible fruits containing a seed that resembles an almond.",
+      "ht": "The Haitian plant commonly called zanmann or zanmand is the tropical almond, Terminalia catappa, not the temperate almond Prunus dulcis. It is a broad-canopied tree with large leaves and edible fruits containing a seed that resembles an almond.",
+      "fr": "The Haitian plant commonly called zanmann or zanmand is the tropical almond, Terminalia catappa, not the temperate almond Prunus dulcis. It is a broad-canopied tree with large leaves and edible fruits containing a seed that resembles an almond."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Terminalia-catappa.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Pl@ntUse; Smithsonian Flora of the West Indies; University of Florida/IFAS."
+  },
+  {
+    "id": "capsicum-spp-including-capsicum-annuum-l",
+    "name": {
+      "en": "Hot pepper / Chili pepper",
+      "ht": "Piman",
+      "fr": "Piment"
+    },
+    "scientific": "Capsicum spp. (including Capsicum annuum L.)",
+    "family": "Solanaceae",
+    "local": [
+      "Piman"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Seasoning"
+      ],
+      "ht": [
+        "Food",
+        "Seasoning"
+      ],
+      "fr": [
+        "Food",
+        "Seasoning"
+      ]
+    },
+    "description": {
+      "en": "Piman refers to hot peppers used widely in Haitian cooking. Different Capsicum species and varieties can produce fruits with different shapes, colors, sizes and levels of pungency. The document keeps the general entry at Capsicum spp. unless a particular local pepper is identified to species.",
+      "ht": "Piman refers to hot peppers used widely in Haitian cooking. Different Capsicum species and varieties can produce fruits with different shapes, colors, sizes and levels of pungency. The document keeps the general entry at Capsicum spp. unless a particular local pepper is identified to species.",
+      "fr": "Piman refers to hot peppers used widely in Haitian cooking. Different Capsicum species and varieties can produce fruits with different shapes, colors, sizes and levels of pungency. The document keeps the general entry at Capsicum spp. unless a particular local pepper is identified to species."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Capsicum%20annuum%20%282%29.JPG?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+  },
+  {
+    "id": "roystonea-regia-kunth-ofcook",
+    "name": {
+      "en": "Royal palm",
+      "ht": "Palmis / Palmis wayal",
+      "fr": "Palmier royal"
+    },
+    "scientific": "Roystonea regia (Kunth) O.F.Cook",
+    "family": "Arecaceae",
+    "local": [
+      "Palmis",
+      "Palmis wayal"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Landscape",
+        "Cultural value"
+      ],
+      "ht": [
+        "Landscape",
+        "Cultural value"
+      ],
+      "fr": [
+        "Landscape",
+        "Cultural value"
+      ]
+    },
+    "description": {
+      "en": "The royal palm is a tall palm with a smooth trunk and prominent green crownshaft. The document notes its Caribbean character and records Roystonea regia as native to Haiti.",
+      "ht": "The royal palm is a tall palm with a smooth trunk and prominent green crownshaft. The document notes its Caribbean character and records Roystonea regia as native to Haiti.",
+      "fr": "The royal palm is a tall palm with a smooth trunk and prominent green crownshaft. The document notes its Caribbean character and records Roystonea regia as native to Haiti."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Roystonea%20regia.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+  },
+  {
+    "id": "swietenia-mahagoni-l-jacq",
+    "name": {
+      "en": "Mahogany",
+      "ht": "Akajou",
+      "fr": "Acajou"
+    },
+    "scientific": "Swietenia mahagoni (L.) Jacq.",
+    "family": "Meliaceae",
+    "local": [
+      "Akajou"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Timber",
+        "Forest"
+      ],
+      "ht": [
+        "Timber",
+        "Forest"
+      ],
+      "fr": [
+        "Timber",
+        "Forest"
+      ]
+    },
+    "description": {
+      "en": "Mahogany is a valuable hardwood tree native to the Caribbean region, including Haiti. Swietenia mahagoni is known for durable, attractive wood and has historical importance as a timber tree. The document also notes its conservation significance.",
+      "ht": "Mahogany is a valuable hardwood tree native to the Caribbean region, including Haiti. Swietenia mahagoni is known for durable, attractive wood and has historical importance as a timber tree. The document also notes its conservation significance.",
+      "fr": "Mahogany is a valuable hardwood tree native to the Caribbean region, including Haiti. Swietenia mahagoni is known for durable, attractive wood and has historical importance as a timber tree. The document also notes its conservation significance."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Swietenia%20mahagoni.JPG?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+  },
+  {
+    "id": "citrus-x-aurantiifolia-christm-swingle",
+    "name": {
+      "en": "Key lime / Mexican lime",
+      "ht": "Sitwon",
+      "fr": "Citron vert / Limettier"
+    },
+    "scientific": "Citrus × aurantiifolia (Christm.) Swingle",
+    "family": "Rutaceae",
+    "local": [
+      "Sitwon",
+      "Pye sitwon"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Drinks",
+        "Seasoning"
+      ],
+      "ht": [
+        "Food",
+        "Drinks",
+        "Seasoning"
+      ],
+      "fr": [
+        "Food",
+        "Drinks",
+        "Seasoning"
+      ]
+    },
+    "description": {
+      "en": "Lime is a small citrus tree cultivated for acidic fruits. In Haiti, sitwon is used to flavor food and drinks and is associated with sauces, marinades, fish and meat dishes and beverages.",
+      "ht": "Lime is a small citrus tree cultivated for acidic fruits. In Haiti, sitwon is used to flavor food and drinks and is associated with sauces, marinades, fish and meat dishes and beverages.",
+      "fr": "Lime is a small citrus tree cultivated for acidic fruits. In Haiti, sitwon is used to flavor food and drinks and is associated with sauces, marinades, fish and meat dishes and beverages."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Citrus%20×%20aurantiifolia%20(Christm.)%20Swingle",
+    "source": "Current Flora Ayiti Word document; Haiti-Référence; Smithsonian Flora of the West Indies."
+  },
+  {
+    "id": "citrus-sinensis-l-osbeck",
+    "name": {
+      "en": "Sweet orange",
+      "ht": "Zoranj dous",
+      "fr": "Orange douce"
+    },
+    "scientific": "Citrus sinensis (L.) Osbeck",
+    "family": "Rutaceae",
+    "local": [
+      "Zoranj dous",
+      "Pye zoranj dous"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Juice",
+        "Drinks"
+      ],
+      "ht": [
+        "Food",
+        "Juice",
+        "Drinks"
+      ],
+      "fr": [
+        "Food",
+        "Juice",
+        "Drinks"
+      ]
+    },
+    "description": {
+      "en": "Sweet orange is a cultivated citrus tree whose fruit is eaten fresh and widely processed into juice. In Haiti it is known as zoranj dous, distinguishing it in Haitian usage from sour or bitter orange.",
+      "ht": "Sweet orange is a cultivated citrus tree whose fruit is eaten fresh and widely processed into juice. In Haiti it is known as zoranj dous, distinguishing it in Haitian usage from sour or bitter orange.",
+      "fr": "Sweet orange is a cultivated citrus tree whose fruit is eaten fresh and widely processed into juice. In Haiti it is known as zoranj dous, distinguishing it in Haitian usage from sour or bitter orange."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Citrus%20sinensis.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Haiti-Référence; Smithsonian Flora of the West Indies."
+  },
+  {
+    "id": "citrus-x-paradisi-macfad",
+    "name": {
+      "en": "Grapefruit",
+      "ht": "Chadèk",
+      "fr": "Pamplemousse"
+    },
+    "scientific": "Citrus × paradisi Macfad.",
+    "family": "Rutaceae",
+    "local": [
+      "Chadèk",
+      "Pye chadèk"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Juice",
+        "Drinks"
+      ],
+      "ht": [
+        "Food",
+        "Juice",
+        "Drinks"
+      ],
+      "fr": [
+        "Food",
+        "Juice",
+        "Drinks"
+      ]
+    },
+    "description": {
+      "en": "Grapefruit produces large, juicy fruits whose flavor can range from sweet to strongly bitter. In Haiti it is commonly associated with the name chadèk. The document notes a taxonomic distinction between the local reference to Citrus maxima and the modern grapefruit concept Citrus × paradisi.",
+      "ht": "Grapefruit produces large, juicy fruits whose flavor can range from sweet to strongly bitter. In Haiti it is commonly associated with the name chadèk. The document notes a taxonomic distinction between the local reference to Citrus maxima and the modern grapefruit concept Citrus × paradisi.",
+      "fr": "Grapefruit produces large, juicy fruits whose flavor can range from sweet to strongly bitter. In Haiti it is commonly associated with the name chadèk. The document notes a taxonomic distinction between the local reference to Citrus maxima and the modern grapefruit concept Citrus × paradisi."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Citrus%20×%20paradisi%20Macfad.",
+    "source": "Current Flora Ayiti Word document; Haiti-Référence; Smithsonian Flora of the West Indies; modern citrus taxonomy."
+  },
+  {
+    "id": "coffea-arabica-l",
+    "name": {
+      "en": "Coffee",
+      "ht": "Kafe",
+      "fr": "Café"
+    },
+    "scientific": "Coffea arabica L.",
+    "family": "Rubiaceae",
+    "local": [
+      "Kafe"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Crop",
+        "Beverage"
+      ],
+      "ht": [
+        "Crop",
+        "Beverage"
+      ],
+      "fr": [
+        "Crop",
+        "Beverage"
+      ]
+    },
+    "description": {
+      "en": "Retained from the earlier Flora Ayiti prototype. Coffee is a cultivated crop whose cherries contain the seeds processed into coffee.",
+      "ht": "Retained from the earlier Flora Ayiti prototype. Coffee is a cultivated crop whose cherries contain the seeds processed into coffee.",
+      "fr": "Retained from the earlier Flora Ayiti prototype. Coffee is a cultivated crop whose cherries contain the seeds processed into coffee."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coffea%20arabica%200zz.jpg?width=1000",
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+  },
+  {
+    "id": "theobroma-cacao-l",
+    "name": {
+      "en": "Cocoa",
+      "ht": "Kakawo",
+      "fr": "Cacao"
+    },
+    "scientific": "Theobroma cacao L.",
+    "family": "Malvaceae",
+    "local": [
+      "Kakawo"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Crop",
+        "Food",
+        "Beverage"
+      ],
+      "ht": [
+        "Crop",
+        "Food",
+        "Beverage"
+      ],
+      "fr": [
+        "Crop",
+        "Food",
+        "Beverage"
+      ]
+    },
+    "description": {
+      "en": "Retained from the earlier Flora Ayiti prototype. Cocoa is cultivated for its pods and seeds, which are processed into cocoa and chocolate products.",
+      "ht": "Retained from the earlier Flora Ayiti prototype. Cocoa is cultivated for its pods and seeds, which are processed into cocoa and chocolate products.",
+      "fr": "Retained from the earlier Flora Ayiti prototype. Cocoa is cultivated for its pods and seeds, which are processed into cocoa and chocolate products."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Theobroma%20cacao%20fruit.jpg?width=1000",
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+  },
+  {
+    "id": "artocarpus-altilis-parkinson-fosberg",
+    "name": {
+      "en": "Breadfruit",
+      "ht": "Lam veritab",
+      "fr": "Fruit à pain"
+    },
+    "scientific": "Artocarpus altilis (Parkinson) Fosberg",
+    "family": "Moraceae",
+    "local": [
+      "Lam veritab"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Crop"
+      ],
+      "ht": [
+        "Food",
+        "Crop"
+      ],
+      "fr": [
+        "Food",
+        "Crop"
+      ]
+    },
+    "description": {
+      "en": "Retained from the earlier Flora Ayiti prototype. Breadfruit is a tropical tree producing starchy fruits used as food.",
+      "ht": "Retained from the earlier Flora Ayiti prototype. Breadfruit is a tropical tree producing starchy fruits used as food.",
+      "fr": "Retained from the earlier Flora Ayiti prototype. Breadfruit is a tropical tree producing starchy fruits used as food."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Artocarpus%20altilis%20%283%29.JPG?width=1000",
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+  },
+  {
+    "id": "psidium-guajava-l",
     "name": {
       "en": "Guava",
       "ht": "Gwayav",
-      "fr": "Goyavier"
+      "fr": "Goyave"
     },
-    "scientific": "Psidium guajava",
+    "scientific": "Psidium guajava L.",
     "family": "Myrtaceae",
-    "local": "Gwayav",
-    "category": "tree",
-    "uses": {
-      "en": [
-        "Fresh fruit",
-        "Juice, jam and preserves",
-        "Traditional uses of leaves"
-      ],
-      "ht": [
-        "Fwi fre",
-        "Ji, konfiti ak konsèv",
-        "Itilizasyon tradisyonèl fèy"
-      ],
-      "fr": [
-        "Fruit frais",
-        "Jus, confitures et conserves",
-        "Usages traditionnels des feuilles"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Psidium_guajava_1.JPG?width=1100",
-        "label": "Guava tree"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Psidium_guajava_(fruit).jpg?width=1100",
-        "label": "Guava fruit"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Guava_Leaves.jpg?width=1100",
-        "label": "Guava leaves"
-      }
-    ]
-  },
-  {
-    "id": "tamarind",
-    "name": {
-      "en": "Tamarind",
-      "ht": "Tamaren",
-      "fr": "Tamarinier"
-    },
-    "scientific": "Tamarindus indica",
-    "family": "Fabaceae",
     "local": [
-      "Tamaren"
+      "Gwayav"
     ],
-    "category": "tree",
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
     "uses": {
       "en": [
-        "Edible sour fruit pulp",
-        "Drinks and sauces",
-        "Traditional food and household uses"
+        "Food",
+        "Fruit",
+        "Juice"
       ],
       "ht": [
-        "Poul fwi asid manjab",
-        "Bwason ak sòs",
-        "Itilizasyon tradisyonèl nan manje ak lakay"
+        "Food",
+        "Fruit",
+        "Juice"
       ],
       "fr": [
-        "Pulpe de fruit acidulée comestible",
-        "Boissons et sauces",
-        "Usages traditionnels alimentaires et domestiques"
+        "Food",
+        "Fruit",
+        "Juice"
       ]
     },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tamarindus_indica_(2174726661).jpg?width=1100",
-        "label": "Tree"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tamarindus_indica_tree_trunk_leaves_fruit.jpg?width=1100",
-        "label": "Leaves and fruit"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tamarindus_indica_leaf.jpg?width=1100",
-        "label": "Leaf"
-      }
-    ]
+    "description": {
+      "en": "Retained from the earlier Flora Ayiti prototype and botanically verified as Psidium guajava. Guava fruits may be eaten fresh or processed into juices and other foods.",
+      "ht": "Retained from the earlier Flora Ayiti prototype and botanically verified as Psidium guajava. Guava fruits may be eaten fresh or processed into juices and other foods.",
+      "fr": "Retained from the earlier Flora Ayiti prototype and botanically verified as Psidium guajava. Guava fruits may be eaten fresh or processed into juices and other foods."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Psidium%20guajava%20%28fruit%29.jpg?width=1000",
+    "source": "Retained from the earlier Flora Ayiti prototype; botanical/image verification from Wikimedia Commons."
   },
   {
-    "id": "moringa",
+    "id": "annona-muricata-l",
     "name": {
-      "en": "Moringa",
-      "ht": "Moringa",
-      "fr": "Moringa"
+      "en": "Soursop",
+      "ht": "Korosòl",
+      "fr": "Corossol"
     },
-    "scientific": "Moringa oleifera",
-    "family": "Moringaceae",
-    "local": "Moringa",
-    "category": "medicinal",
-    "uses": {
-      "en": [
-        "Leaves used as food",
-        "Seeds and pods",
-        "Traditional medicinal uses"
-      ],
-      "ht": [
-        "Fèy kòm manje",
-        "Grenn ak gous",
-        "Itilizasyon medsin tradisyonèl"
-      ],
-      "fr": [
-        "Feuilles alimentaires",
-        "Graines et gousses",
-        "Usages médicinaux traditionnels"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr-060921-9047-Moringa_oleifera-leaves_and_flowers-Kahului-Maui_(24747655882).jpg?width=1100",
-        "label": "Leaves and flowers"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moringa_oleifera.jpg?width=1100",
-        "label": "Plant"
-      }
-    ]
-  },
-  {
-    "id": "neem",
-    "name": {
-      "en": "Neem",
-      "ht": "Nim'",
-      "fr": "Neem"
-    },
-    "scientific": "Azadirachta indica",
-    "family": "Meliaceae",
+    "scientific": "Annona muricata L.",
+    "family": "Annonaceae",
     "local": [
-      "Nim'"
+      "Korosòl"
     ],
-    "category": "medicinal",
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
     "uses": {
       "en": [
-        "Traditional household uses",
-        "Seed oil",
-        "Shade and environmental uses"
+        "Food",
+        "Fruit",
+        "Drinks"
       ],
       "ht": [
-        "Itilizasyon tradisyonèl nan kay",
-        "Lwil grenn",
-        "Lonbraj ak itilizasyon anviwònman"
+        "Food",
+        "Fruit",
+        "Drinks"
       ],
       "fr": [
-        "Usages domestiques traditionnels",
-        "Huile de graines",
-        "Ombrage et usages environnementaux"
+        "Food",
+        "Fruit",
+        "Drinks"
       ]
     },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Neem_tree_(Azadirachta_indica).jpg?width=1100",
-        "label": "Neem tree"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Neem_Tree_Leaves.jpg?width=1100",
-        "label": "Leaves"
-      }
-    ]
+    "description": {
+      "en": "Retained from the earlier Flora Ayiti prototype. Soursop is a tropical fruit tree with large green, spiny fruits used as food and in beverages.",
+      "ht": "Retained from the earlier Flora Ayiti prototype. Soursop is a tropical fruit tree with large green, spiny fruits used as food and in beverages.",
+      "fr": "Retained from the earlier Flora Ayiti prototype. Soursop is a tropical fruit tree with large green, spiny fruits used as food and in beverages."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anona%20Muricata.jpg?width=1000",
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
   },
   {
-    "id": "aloe",
+    "id": "hibiscus-x-rosa-sinensis-l",
     "name": {
-      "en": "Aloe vera",
-      "ht": "Lalwa",
-      "fr": "Aloe vera"
-    },
-    "scientific": "Aloe vera",
-    "family": "Asphodelaceae",
-    "local": [
-      "Lalwa"
-    ],
-    "category": "medicinal",
-    "uses": {
-      "en": [
-        "Traditional topical uses",
-        "Ornamental plant",
-        "Gel used in household preparations"
-      ],
-      "ht": [
-        "Itilizasyon tradisyonèl sou po",
-        "Plant dekoratif",
-        "Jèl pou preparasyon lakay"
-      ],
-      "fr": [
-        "Usages topiques traditionnels",
-        "Plante ornementale",
-        "Gel pour préparations domestiques"
-      ]
-    },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Aloe_Vera,.jpg?width=1100",
-        "label": "Aloe vera plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Aloe_vera_leaf.jpg?width=1100",
-        "label": "Aloe vera leaf"
-      }
-    ]
-  },
-  {
-    "id": "hibiscus",
-    "name": {
-      "en": "Hibiscus",
-      "ht": "Choublak",
+      "en": "Hibiscus / Chinese hibiscus",
+      "ht": "Wouj chay",
       "fr": "Hibiscus"
     },
-    "scientific": "Hibiscus rosa-sinensis",
+    "scientific": "Hibiscus × rosa-sinensis L.",
     "family": "Malvaceae",
     "local": [
-      "Choublak",
-      "Flè choublak"
+      "Wouj chay"
     ],
-    "category": "other",
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
     "uses": {
       "en": [
-        "Ornamental flowers",
-        "Gardens and hedges",
-        "Traditional decorative uses"
+        "Ornamental",
+        "Traditional knowledge"
       ],
       "ht": [
-        "Flè dekoratif",
-        "Jaden ak kloti vèt",
-        "Itilizasyon dekoratif tradisyonèl"
+        "Ornamental",
+        "Traditional knowledge"
       ],
       "fr": [
-        "Fleurs ornementales",
-        "Jardins et haies",
-        "Usages décoratifs traditionnels"
+        "Ornamental",
+        "Traditional knowledge"
       ]
     },
-    "images": [
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hibiscus_rosa-sinensis_(260).jpg?width=1100",
-        "label": "Flowering plant"
-      },
-      {
-        "url": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hibiscus_rosa-sinensis.jpg?width=1100",
-        "label": "Flower"
-      }
-    ]
+    "description": {
+      "en": "Retained from the earlier Flora Ayiti prototype. The entry uses Hibiscus × rosa-sinensis L. for the plant previously represented as Wouj chay.",
+      "ht": "Retained from the earlier Flora Ayiti prototype. The entry uses Hibiscus × rosa-sinensis L. for the plant previously represented as Wouj chay.",
+      "fr": "Retained from the earlier Flora Ayiti prototype. The entry uses Hibiscus × rosa-sinensis L. for the plant previously represented as Wouj chay."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hibiscus%20%C3%97%20rosa-sinensis%20L.%2001.jpg?width=1000",
+    "source": "Retained from the earlier Flora Ayiti prototype; botanical/image verification from Wikimedia Commons."
+  },
+  {
+    "id": "azadirachta-indica-a-juss",
+    "name": {
+      "en": "Neem",
+      "ht": "Nim",
+      "fr": "Margousier"
+    },
+    "scientific": "Azadirachta indica A. Juss.",
+    "family": "Meliaceae",
+    "local": [
+      "Nim"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Traditional knowledge",
+        "Tree"
+      ],
+      "ht": [
+        "Traditional knowledge",
+        "Tree"
+      ],
+      "fr": [
+        "Traditional knowledge",
+        "Tree"
+      ]
+    },
+    "description": {
+      "en": "Retained from the earlier Flora Ayiti prototype. Neem is a tree in the mahogany family and is widely known in tropical and subtropical regions.",
+      "ht": "Retained from the earlier Flora Ayiti prototype. Neem is a tree in the mahogany family and is widely known in tropical and subtropical regions.",
+      "fr": "Retained from the earlier Flora Ayiti prototype. Neem is a tree in the mahogany family and is widely known in tropical and subtropical regions."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Azadirachta%20indica.jpg?width=1000",
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+  },
+  {
+    "id": "saccharum-officinarum-l",
+    "name": {
+      "en": "Sugarcane",
+      "ht": "Kann sik",
+      "fr": "Canne à sucre"
+    },
+    "scientific": "Saccharum officinarum L.",
+    "family": "Poaceae",
+    "local": [
+      "Kann sik"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Crop",
+        "Sugar",
+        "Beverage"
+      ],
+      "ht": [
+        "Crop",
+        "Sugar",
+        "Beverage"
+      ],
+      "fr": [
+        "Crop",
+        "Sugar",
+        "Beverage"
+      ]
+    },
+    "description": {
+      "en": "Retained from the earlier Flora Ayiti prototype and updated with the scientific name used in the Flora project. Sugarcane is a tall grass cultivated for its sugar-rich stalks.",
+      "ht": "Retained from the earlier Flora Ayiti prototype and updated with the scientific name used in the Flora project. Sugarcane is a tall grass cultivated for its sugar-rich stalks.",
+      "fr": "Retained from the earlier Flora Ayiti prototype and updated with the scientific name used in the Flora project. Sugarcane is a tall grass cultivated for its sugar-rich stalks."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Saccharum%20officinarum.JPG?width=1000",
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+  },
+  {
+    "id": "persea-americana-mill",
+    "name": {
+      "en": "Avocado",
+      "ht": "Zaboka",
+      "fr": "Avocat"
+    },
+    "scientific": "Persea americana Mill.",
+    "family": "Lauraceae",
+    "local": [
+      "Zaboka"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Fruit",
+        "Crop"
+      ],
+      "ht": [
+        "Food",
+        "Fruit",
+        "Crop"
+      ],
+      "fr": [
+        "Food",
+        "Fruit",
+        "Crop"
+      ]
+    },
+    "description": {
+      "en": "Retained from the earlier Flora Ayiti prototype and botanically verified as Persea americana. The tree produces the edible avocado fruit.",
+      "ht": "Retained from the earlier Flora Ayiti prototype and botanically verified as Persea americana. The tree produces the edible avocado fruit.",
+      "fr": "Retained from the earlier Flora Ayiti prototype and botanically verified as Persea americana. The tree produces the edible avocado fruit."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Persea%20americana%20jpg..JPG?width=1000",
+    "source": "Retained from the earlier Flora Ayiti prototype; botanical/image verification from Wikimedia Commons."
+  },
+  {
+    "id": "zea-mays-l",
+    "name": {
+      "en": "Corn / Maize",
+      "ht": "Mayi",
+      "fr": "Maïs"
+    },
+    "scientific": "Zea mays L.",
+    "family": "Poaceae",
+    "local": [
+      "Mayi"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Haiti",
+      "fr": "Haiti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Crop"
+      ],
+      "ht": [
+        "Food",
+        "Crop"
+      ],
+      "fr": [
+        "Food",
+        "Crop"
+      ]
+    },
+    "description": {
+      "en": "Retained and updated for the Flora inventory. Corn, or maize, is a major cultivated grain crop used in many food preparations.",
+      "ht": "Retained and updated for the Flora inventory. Corn, or maize, is a major cultivated grain crop used in many food preparations.",
+      "fr": "Retained and updated for the Flora inventory. Corn, or maize, is a major cultivated grain crop used in many food preparations."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Zea%20mays.jpg?width=1000",
+    "source": "Added to the current Flora website inventory because it was requested but is not present in the current Word document; image from Wikimedia Commons."
   }
 ]
