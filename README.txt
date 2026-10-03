@@ -24,3 +24,10 @@ Plant photos use Wikimedia Commons redirect URLs. The website loads them remotel
 
 ## Important verification points
 The current Word document itself says that local names and uses should continue to be verified with communities as the inventory grows. The website therefore labels records as working records rather than final publications.
+
+
+Image update notes
+- Mango, sweet potato, and cassava now use the photographs from the current Flora Ayiti Word document.
+- Tropical almond, yam, pigeon pea, Haitian oak, onion, mahogany, lime, and grapefruit use new real-plant photographs from Wikimedia Commons.
+- The hero background now uses a green mountain landscape from Milot, Haiti, matching the earlier nature/mountain look.
+- Wikimedia image credits and licenses are recorded in the corresponding plant source fields in plants.json.
