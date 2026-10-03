@@ -1,13 +1,90 @@
-let plants=[];let lang='ht';let category='all';let view='grid';
-const T={en:{tagline:"Haiti's plant diversity",navHome:'Home',navInventory:'Plants',navAbout:'About',pill:'HAITI PLANT INVENTORY',heroTitle:'Discover the plants of Haiti.',heroText:'Explore plants, local names and scientific knowledge from Haiti in one growing inventory.',searchPlaceholder:'Search by local, French, English or scientific name...',catAll:'All',catTree:'Trees',catCrop:'Crops',catMedicinal:'Medicinal',catOther:'Other',statPlants:'plants',statFamilies:'families',statLanguages:'languages',eyebrow:'Explore',inventoryTitle:'Plant inventory',inventorySubtitle:'Real plant photographs, local names, scientific names and practical uses.',allFamilies:'All families',allUses:'All uses',imageNote:'Curated botanical photos — no people.',aboutEyebrow:'The idea',aboutTitle:'Local names. Scientific knowledge. Haiti.',aboutText:"Flora Ayiti is designed to document Haiti's plant diversity while preserving local names and useful knowledge. The inventory can grow gradually, and records can be checked and improved over time.",point1:'Grow gradually',point2:'Keep scientific names',point3:'Preserve local knowledge',footer:'Prototype — demonstration information should be verified before authoritative publication.',uses:'Uses / purposes',view:'View profile',found:'found',family:'Family',local:'Local name',verification:'Verification note',verificationText:'This is a demonstration record. Uses, identification and image licensing should be checked before publication.'},ht:{tagline:'Divèsite plant Ayiti',navHome:'Akèy',navInventory:'Plant',navAbout:'Sou pwojè a',pill:'ENVANTÈ PLANT AYITI',heroTitle:'Dekouvri plant Ayiti yo.',heroText:'Eksplore plant yo, non lokal yo ak enfòmasyon syantifik yo nan yon sèl envantè k ap grandi.',searchPlaceholder:'Chèche ak non lokal, franse, anglè oswa non syantifik...',catAll:'Tout',catTree:'Pye bwa',catCrop:'Rekòt',catMedicinal:'Medsin',catOther:'Lòt',statPlants:'plant',statFamilies:'fanmi',statLanguages:'lang',eyebrow:'Eksplore',inventoryTitle:'Envantè plant',inventorySubtitle:'Vrè foto plant, non lokal, non syantifik ak itilizasyon.',allFamilies:'Tout fanmi',allUses:'Tout itilizasyon',imageNote:'Foto botanik chwazi — pa gen moun.',aboutEyebrow:'Lide a',aboutTitle:'Non lokal. Konesans syantifik. Ayiti.',aboutText:'Flora Ayiti fèt pou dokimante divèsite plant Ayiti pandan l ap konsève non lokal yo ak konesans itil. Envantè a ka grandi piti piti epi chak fich ka verifye ak amelyore.',point1:'Grandi piti piti',point2:'Kenbe non syantifik yo',point3:'Konsève konesans lokal',footer:'Pwototip — enfòmasyon demonstrasyon yo dwe verifye anvan piblikasyon ofisyèl.',uses:'Itilizasyon / objektif',view:'Gade fich',found:'jwenn',family:'Fanmi',local:'Non lokal',verification:'Nòt verifikasyon',verificationText:'Sa a se yon fich demonstrasyon. Itilizasyon, idantifikasyon ak lisans foto yo dwe verifye anvan piblikasyon.'},fr:{tagline:'La diversité végétale d’Haïti',navHome:'Accueil',navInventory:'Plantes',navAbout:'À propos',pill:'INVENTAIRE DES PLANTES D’HAÏTI',heroTitle:'Découvrez les plantes d’Haïti.',heroText:'Explorez les plantes, les noms locaux et les informations scientifiques dans un inventaire évolutif.',searchPlaceholder:'Rechercher par nom local, français, anglais ou nom scientifique...',catAll:'Toutes',catTree:'Arbres',catCrop:'Cultures',catMedicinal:'Médicinales',catOther:'Autres',statPlants:'plantes',statFamilies:'familles',statLanguages:'langues',eyebrow:'Explorer',inventoryTitle:'Inventaire végétal',inventorySubtitle:'Photos botaniques réelles, noms locaux, noms scientifiques et usages.',allFamilies:'Toutes les familles',allUses:'Tous les usages',imageNote:'Photos botaniques sélectionnées — aucune personne.',aboutEyebrow:'Le projet',aboutTitle:'Noms locaux. Connaissances scientifiques. Haïti.',aboutText:"Flora Ayiti vise à documenter la diversité végétale d’Haïti tout en préservant les noms locaux et les connaissances utiles. L’inventaire peut évoluer progressivement et chaque fiche peut être vérifiée.",point1:'Grandir progressivement',point2:'Conserver les noms scientifiques',point3:'Préserver les savoirs locaux',footer:'Prototype — les informations de démonstration doivent être vérifiées avant publication officielle.',uses:'Usages / fonctions',view:'Voir la fiche',found:'trouvées',family:'Famille',local:'Nom local',verification:'Note de vérification',verificationText:'Cette fiche est une démonstration. Les usages, l’identification et les licences des images doivent être vérifiés avant publication.'}};
-const $=s=>document.querySelector(s);const norm=s=>(s||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'');
-function tr(k){return T[lang][k]||T.en[k]||k}
-function allUses(){return [...new Set(plants.flatMap(p=>p.uses.en))].sort()}
-function renderFilters(){const fam=[...new Set(plants.map(p=>p.family))].sort();$('#familyFilter').innerHTML='<option value="">'+tr('allFamilies')+'</option>'+fam.map(x=>`<option>${x}</option>`).join('');$('#useFilter').innerHTML='<option value="">'+tr('allUses')+'</option>'+allUses().map(x=>`<option value="${x.replace(/"/g,'&quot;')}">${x}</option>`).join('')}
-function getFiltered(){const q=norm($('#search').value);const fam=$('#familyFilter').value;const use=$('#useFilter').value;return plants.filter(p=>{const text=norm([p.name.en,p.name.ht,p.name.fr,p.scientific,p.family,p.local,...p.uses.en,...p.uses.ht,...p.uses.fr].join(' '));return (!q||text.includes(q))&&(!fam||p.family===fam)&&(!use||p.uses.en.includes(use))&&(category==='all'||p.category===category)})}
-function render(){const list=getFiltered();$('#plantCount').textContent=plants.length;$('#familyCount').textContent=new Set(plants.map(p=>p.family)).size;$('#resultText').textContent=`${list.length} ${tr('found')}`;const grid=$('#plants');grid.className='plant-grid '+(view==='list'?'list':'');grid.innerHTML=list.map(p=>{const title=p.name[lang]||p.name.en;return `<article class="plant-card"><div class="card-photo"><img loading="lazy" src="${p.images[0].url}" alt="${title} — ${p.scientific}" onerror="this.onerror=null;this.src='${p.images[1]?.url||p.images[0].url}'"></div><div class="card-body"><div class="card-top"><div><h3>${title}</h3><p class="scientific">${p.scientific}</p></div></div><p class="local">${p.local}</p><div class="family">${tr('family')}: ${p.family}</div><div class="uses-mini">${p.uses[lang].slice(0,2).map(u=>`<span class="use-chip">${u}</span>`).join('')}</div><button class="open-profile" data-id="${p.id}">${tr('view')}</button></div></article>`}).join('');document.querySelectorAll('.open-profile').forEach(b=>b.onclick=()=>openProfile(b.dataset.id))}
-function openProfile(id){const p=plants.find(x=>x.id===id);if(!p)return;const title=p.name[lang]||p.name.en;$('#profile').innerHTML=`<div class="profile"><div class="profile-main"><img src="${p.images[0].url}" alt="${title}" onerror="this.style.display='none'"></div><div class="profile-content"><span class="eyebrow">${p.category}</span><h2>${title}</h2><div class="profile-scientific">${p.scientific}</div><div class="profile-local">${tr('local')}: ${p.local}</div><div class="family">${tr('family')}: ${p.family}</div><div class="uses-box"><h4>${tr('uses')}</h4><ul>${p.uses[lang].map(u=>`<li>${u}</li>`).join('')}</ul></div><div class="verification"><strong>${tr('verification')}:</strong> ${tr('verificationText')}</div></div></div><div style="padding:0 38px 38px"><div class="gallery">${p.images.map(img=>`<figure><img loading="lazy" src="${img.url}" alt="${title} — ${img.label}"><figcaption>${img.label}</figcaption></figure>`).join('')}</div></div>`;$('#modal').classList.remove('hidden');$('#modal').setAttribute('aria-hidden','false')}
-function closeModal(){$('#modal').classList.add('hidden');$('#modal').setAttribute('aria-hidden','true')}
-function applyLanguage(){document.documentElement.lang=lang;document.querySelectorAll('[data-i18n]').forEach(el=>el.textContent=tr(el.dataset.i18n));document.querySelectorAll('[data-i18n-placeholder]').forEach(el=>el.placeholder=tr(el.dataset.i18nPlaceholder));renderFilters();render()}
-async function init(){plants=await fetch('plants.json').then(r=>r.json());renderFilters();render();$('#language').value=lang;$('#language').onchange=e=>{lang=e.target.value;applyLanguage()};$('#search').oninput=render;$('#clear').onclick=()=>{$('#search').value='';render()};$('#familyFilter').onchange=render;$('#useFilter').onchange=render;document.querySelectorAll('.quick').forEach(b=>b.onclick=()=>{category=b.dataset.category;document.querySelectorAll('.quick').forEach(x=>x.classList.remove('active'));b.classList.add('active');render()});document.querySelectorAll('.view-mode').forEach(b=>b.onclick=()=>{view=b.dataset.view;document.querySelectorAll('.view-mode').forEach(x=>x.classList.remove('active'));b.classList.add('active');render()});$('#close').onclick=closeModal;$('#modal').onclick=e=>{if(e.target.id==='modal')closeModal()};document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal()});applyLanguage()}
-init().catch(err=>{$('#plants').innerHTML='<p>Could not load plants.json.</p>';console.error(err)});
+let plants=[];
+let lang="en";
+
+const T={
+en:{tagline:"Haiti's plant diversity",navInventory:"Inventory",navAbout:"About",pill:"HAITI PLANT INVENTORY",heroTitle:"Discover the plants of Haiti.",heroText:"A growing multilingual inventory connecting local knowledge with scientific names and botanical information.",searchPlaceholder:"Search by local, English, French or scientific name…",statPlants:"plants",statFamilies:"families",statLanguages:"languages",eyebrow:"Explore",inventoryTitle:"Plant inventory",allFamilies:"All families",allUses:"All uses",aboutEyebrow:"The idea",aboutTitle:"Local names. Scientific knowledge. Haiti.",aboutText:"Flora Ayiti is designed to document Haiti's plant diversity while preserving the names and knowledge used by local communities. The inventory can grow gradually and each record can be checked and improved over time.",footer:"Flora Ayiti — working inventory. Records should be verified and enriched before formal publication.",view:"View profile",found:"plants found",family:"Family",local:"Local names",region:"Region",uses:"Uses",description:"Description",verification:"Verification note",verificationText:"Working record — verify botanical and local information before formal publication."},
+ht:{tagline:"Divèsite plant Ayiti",navInventory:"Envantè",navAbout:"Sou pwojè a",pill:"ENVANTÈ PLANT AYITI",heroTitle:"Dekouvri plant Ayiti yo.",heroText:"Yon envantè plizyè lang k ap konekte konesans lokal ak non syantifik ak enfòmasyon botanik.",searchPlaceholder:"Chèche non lokal, kreyòl, franse, angle oswa syantifik…",statPlants:"plant",statFamilies:"fanmi",statLanguages:"lang",eyebrow:"Eksplore",inventoryTitle:"Envantè plant",allFamilies:"Tout fanmi",allUses:"Tout itilizasyon",aboutEyebrow:"Lide a",aboutTitle:"Non lokal. Konesans syantifik. Ayiti.",aboutText:"Flora Ayiti fèt pou dokimante divèsite plant Ayiti pandan l ap konsève non ak konesans kominote lokal yo itilize.",footer:"Flora Ayiti — envantè k ap devlope. Verifye epi amelyore fich yo anvan piblikasyon ofisyèl.",view:"Gade pwofil",found:"plant jwenn",family:"Fanmi",local:"Non lokal",region:"Rejyon",uses:"Itilizasyon",description:"Deskripsyon",verification:"Nòt verifikasyon",verificationText:"Fich k ap devlope — verifye enfòmasyon botanik ak enfòmasyon lokal yo anvan piblikasyon ofisyèl."},
+fr:{tagline:"La diversité végétale d'Haïti",navInventory:"Inventaire",navAbout:"À propos",pill:"INVENTAIRE DES PLANTES D'HAÏTI",heroTitle:"Découvrez les plantes d'Haïti.",heroText:"Un inventaire multilingue en croissance reliant les connaissances locales aux noms scientifiques et aux informations botaniques.",searchPlaceholder:"Rechercher par nom local, anglais, français ou scientifique…",statPlants:"plantes",statFamilies:"familles",statLanguages:"langues",eyebrow:"Explorer",inventoryTitle:"Inventaire des plantes",allFamilies:"Toutes les familles",allUses:"Tous les usages",aboutEyebrow:"L'idée",aboutTitle:"Noms locaux. Connaissances scientifiques. Haïti.",aboutText:"Flora Ayiti vise à documenter la diversité végétale d'Haïti tout en préservant les noms et connaissances utilisés par les communautés locales.",footer:"Flora Ayiti — inventaire en développement. Vérifier et enrichir les fiches avant publication officielle.",view:"Voir la fiche",found:"plantes trouvées",family:"Famille",local:"Noms locaux",region:"Région",uses:"Usages",description:"Description",verification:"Note de vérification",verificationText:"Fiche en développement — vérifier les informations botaniques et locales avant publication officielle."}
+};
+
+const $=x=>document.getElementById(x);
+function normalize(value){return String(value||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().trim()}
+function allNames(p){return [...Object.values(p.name||{}),p.scientific,...(p.local||[])].map(normalize).join(" ")}
+function textFor(obj){return obj?.[lang] || obj?.en || ""}
+
+function visual(p){
+  if(!p.image) return `<div aria-label="${p.name?.en||''}">🌿</div>`;
+  return `<img src="${p.image}" alt="${p.name?.en||p.scientific}" loading="lazy" onerror="this.parentElement.innerHTML='<div aria-label=&quot;Plant photo unavailable&quot;>🌿</div>'">`;
+}
+
+function populateFilters(){
+ const fs=[...new Set(plants.map(p=>p.family))].sort(), us=[...new Set(plants.flatMap(p=>Object.values(p.uses||{}).flat()))].sort();
+ const ff=$("familyFilter"), uf=$("useFilter");
+ ff.querySelectorAll("option:not(:first-child)").forEach(x=>x.remove());
+ uf.querySelectorAll("option:not(:first-child)").forEach(x=>x.remove());
+ fs.forEach(x=>ff.insertAdjacentHTML("beforeend",`<option value="${x}">${x}</option>`));
+ us.forEach(x=>uf.insertAdjacentHTML("beforeend",`<option value="${x}">${x}</option>`));
+}
+
+function render(){
+ const q=normalize($("search").value), f=$("familyFilter").value,u=$("useFilter").value;
+ const shown=plants.filter(p=>(!q||allNames(p).includes(q))&&(!f||p.family===f)&&(!u||Object.values(p.uses||{}).flat().includes(u)));
+ $("resultText").textContent=`${shown.length} ${T[lang].found}`;
+ $("plants").innerHTML=shown.map(p=>`<article class="card">
+   <div class="photo">${visual(p)}</div>
+   <div class="body">
+     <h3>${p.name?.[lang]||p.name?.en||p.scientific}</h3>
+     <div class="scientific">${p.scientific}</div>
+     <div class="tags"><span class="tag">${p.family}</span><span class="tag">${textFor(p.region)}</span></div>
+     <button class="view" onclick="openProfile(${plants.indexOf(p)})">${T[lang].view}</button>
+   </div>
+ </article>`).join("");
+ $("plantCount").textContent=shown.length;
+ $("familyCount").textContent=new Set(plants.map(p=>p.family)).size;
+}
+
+function openProfile(i){
+ const p=plants[i];
+ $("profile").innerHTML=`<div class="profile">
+   <div class="profile-photo">${visual(p)}</div>
+   <h2>${p.name?.[lang]||p.name?.en||p.scientific}</h2>
+   <div class="scientific">${p.scientific}</div>
+   <p>${textFor(p.description)}</p>
+   <dl>
+    <dt>${T[lang].family}</dt><dd>${p.family}</dd>
+    <dt>${T[lang].local}</dt><dd>${(p.local||[]).join(", ")}</dd>
+    <dt>${T[lang].region}</dt><dd>${textFor(p.region)}</dd>
+    <dt>${T[lang].uses}</dt><dd>${(p.uses?.[lang]||p.uses?.en||[]).join(", ")}</dd>
+   </dl>
+   <div class="source-note"><b>Source</b><br>${p.source||"Working Flora Ayiti record"}</div>
+   <div class="verify"><b>${T[lang].verification}</b><br>${T[lang].verificationText}</div>
+ </div>`;
+ $("modal").classList.remove("hidden");
+}
+
+function apply(){
+ document.querySelectorAll("[data-i18n]").forEach(e=>e.textContent=T[lang][e.dataset.i18n]);
+ document.querySelectorAll("[data-i18n-placeholder]").forEach(e=>e.placeholder=T[lang][e.dataset.i18nPlaceholder]);
+ render();
+}
+
+async function loadPlants(){
+ try{
+   const response=await fetch("plants.json");
+   plants=await response.json();
+   populateFilters();
+   apply();
+ }catch(error){
+   console.error("Could not load plant data:",error);
+   $("plants").innerHTML="<p>Plant data could not be loaded.</p>";
+ }
+}
+
+$("language").addEventListener("change",e=>{lang=e.target.value;apply()});
+$("search").addEventListener("input",render);
+$("familyFilter").addEventListener("change",render);
+$("useFilter").addEventListener("change",render);
+$("clear").addEventListener("click",()=>{$("search").value="";render();$("search").focus()});
+$("close").addEventListener("click",()=>$("modal").classList.add("hidden"));
+$("modal").addEventListener("click",e=>{if(e.target.id==="modal")$("modal").classList.add("hidden")});
+loadPlants();
