@@ -39,8 +39,8 @@
       "ht": "Mango can be eaten ripe and processed into mango juice, dried slices, pulp and pickles. Haiti has different mango varieties, including Mango doudous, Mango Baptiste, Mango fil blan or Mango Madan Blan, and Mango Jan Mari. Madan Francique is described in the document as the most exported and widespread, especially in Gros-Morne.",
       "fr": "Mango can be eaten ripe and processed into mango juice, dried slices, pulp and pickles. Haiti has different mango varieties, including Mango doudous, Mango Baptiste, Mango fil blan or Mango Madan Blan, and Mango Jan Mari. Madan Francique is described in the document as the most exported and widespread, especially in Gros-Morne."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mangifera%20indica%20%283%29.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+    "image": "assets/mango-word.jpg",
+    "source": "Image from the current Flora Ayiti Word document (user-provided)."
   },
   {
     "id": "ipomoea-batatas-l-lam",
@@ -78,8 +78,8 @@
       "ht": "Sweet potatoes are commonly used for consumption in Haiti. The tuberous roots are boiled or fried, and the document also notes a special Haitian Creole dessert prepared with sweet potatoes.",
       "fr": "Sweet potatoes are commonly used for consumption in Haiti. The tuberous roots are boiled or fried, and the document also notes a special Haitian Creole dessert prepared with sweet potatoes."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ipomoea%20batatas%20%28Sweet%20Potato%29.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+    "image": "assets/sweet-potato-word.png",
+    "source": "Image from the current Flora Ayiti Word document (user-provided)."
   },
   {
     "id": "manihot-esculenta",
@@ -120,8 +120,8 @@
       "ht": "The document distinguishes sweet and bitter cassava. Sweet cassava is commonly used for direct consumption. Bitter cassava contains cyanogenic compounds and is processed rather than eaten directly; it is used for cassave, flour and moussa.",
       "fr": "The document distinguishes sweet and bitter cassava. Sweet cassava is commonly used for direct consumption. Bitter cassava contains cyanogenic compounds and is processed rather than eaten directly; it is used for cassave, flour and moussa."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Manihot%20esculenta%20001.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+    "image": "assets/cassava-word.jpg",
+    "source": "Image from the current Flora Ayiti Word document (user-provided)."
   },
   {
     "id": "musa-x-paradisiaca-l",
@@ -329,8 +329,8 @@
       "ht": "The Haitian tree commonly called Haitian oak or chenn is identified in the current document as Catalpa longissima rather than a species of Quercus. The common name can therefore be misleading; the tree belongs to Bignoniaceae. Local observations and photographs should accompany the entry where possible.",
       "fr": "The Haitian tree commonly called Haitian oak or chenn is identified in the current document as Catalpa longissima rather than a species of Quercus. The common name can therefore be misleading; the tree belongs to Bignoniaceae. Local observations and photographs should accompany the entry where possible."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Catalpa%20longissima.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Haitian tree references; Kew Plants of the World Online. Verify the image before publication."
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Catalpa_longissima.jpg?width=1200",
+    "source": "Wikimedia Commons: Catalpa longissima.jpg — Scott Zona, CC BY 2.0."
   },
   {
     "id": "cajanus-cajan-l-huth",
@@ -371,8 +371,8 @@
       "ht": "Pigeon pea is a leguminous shrub cultivated in Haiti for its edible seeds. The peas may be eaten fresh or dried and prepared in traditional meals. The document also notes its agricultural value as a legume associated with biological nitrogen fixation.",
       "fr": "Pigeon pea is a leguminous shrub cultivated in Haiti for its edible seeds. The peas may be eaten fresh or dried and prepared in traditional meals. The document also notes its agricultural value as a legume associated with biological nitrogen fixation."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cajanus%20cajan%20kz02.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cajanus_cajan_plant.jpg?width=1200",
+    "source": "Wikimedia Commons: Cajanus cajan plant.jpg — Vinayaraj, CC BY-SA 3.0."
   },
   {
     "id": "allium-cepa-l",
@@ -413,8 +413,8 @@
       "ht": "Onion is a bulb-forming crop widely used as a seasoning and food ingredient. In Haiti it is used in sauces, stews, soups, rice dishes, meat preparations and other everyday foods. The underground bulb is the principal part consumed.",
       "fr": "Onion is a bulb-forming crop widely used as a seasoning and food ingredient. In Haiti it is used in sauces, stews, soups, rice dishes, meat preparations and other everyday foods. The underground bulb is the principal part consumed."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Allium%20cepa%20L.",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online. Verify image before publication."
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Onion_or_Allium_cepa.jpg?width=1200",
+    "source": "Wikimedia Commons: Onion or Allium cepa.jpg — Lfatty22, CC0 1.0."
   },
   {
     "id": "capsicum-annuum-l",
@@ -494,8 +494,8 @@
       "ht": "Yam refers to several Dioscorea species cultivated for edible underground tubers. In Haiti, yams may be boiled, fried, mashed or incorporated into other meals. The document intentionally keeps the scientific identification broad because local yams can represent more than one species.",
       "fr": "Yam refers to several Dioscorea species cultivated for edible underground tubers. In Haiti, yams may be boiled, fried, mashed or incorporated into other meals. The document intentionally keeps the scientific identification broad because local yams can represent more than one species."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dioscorea%20alata.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dioscorea_alata.jpg?width=1200",
+    "source": "Wikimedia Commons: Dioscorea alata.jpg — Tauʻolunga, CC BY-SA 3.0/GFDL."
   },
   {
     "id": "terminalia-catappa-l",
@@ -537,8 +537,8 @@
       "ht": "The Haitian plant commonly called zanmann or zanmand is the tropical almond, Terminalia catappa, not the temperate almond Prunus dulcis. It is a broad-canopied tree with large leaves and edible fruits containing a seed that resembles an almond.",
       "fr": "The Haitian plant commonly called zanmann or zanmand is the tropical almond, Terminalia catappa, not the temperate almond Prunus dulcis. It is a broad-canopied tree with large leaves and edible fruits containing a seed that resembles an almond."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Terminalia-catappa.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Pl@ntUse; Smithsonian Flora of the West Indies; University of Florida/IFAS."
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Terminalia_catappa_tree.jpg?width=1200",
+    "source": "Wikimedia Commons: Terminalia catappa tree.jpg — V.Thamaraiselvi, CC BY-SA 4.0."
   },
   {
     "id": "capsicum-spp-including-capsicum-annuum-l",
@@ -655,8 +655,8 @@
       "ht": "Mahogany is a valuable hardwood tree native to the Caribbean region, including Haiti. Swietenia mahagoni is known for durable, attractive wood and has historical importance as a timber tree. The document also notes its conservation significance.",
       "fr": "Mahogany is a valuable hardwood tree native to the Caribbean region, including Haiti. Swietenia mahagoni is known for durable, attractive wood and has historical importance as a timber tree. The document also notes its conservation significance."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Swietenia%20mahagoni.JPG?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Swietenia_mahagoni_%281126794924%29.jpg?width=1200",
+    "source": "Wikimedia Commons: Swietenia mahagoni (1126794924).jpg — Dinesh Valke, CC BY-SA 2.0."
   },
   {
     "id": "citrus-x-aurantiifolia-christm-swingle",
@@ -698,8 +698,8 @@
       "ht": "Lime is a small citrus tree cultivated for acidic fruits. In Haiti, sitwon is used to flavor food and drinks and is associated with sauces, marinades, fish and meat dishes and beverages.",
       "fr": "Lime is a small citrus tree cultivated for acidic fruits. In Haiti, sitwon is used to flavor food and drinks and is associated with sauces, marinades, fish and meat dishes and beverages."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Citrus%20×%20aurantiifolia%20(Christm.)%20Swingle",
-    "source": "Current Flora Ayiti Word document; Haiti-Référence; Smithsonian Flora of the West Indies."
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Citrus_aurantifolia.jpg?width=1200",
+    "source": "Wikimedia Commons: Citrus aurantifolia.jpg — AlexandreAssatiani, CC BY 4.0."
   },
   {
     "id": "citrus-sinensis-l-osbeck",
@@ -784,8 +784,8 @@
       "ht": "Grapefruit produces large, juicy fruits whose flavor can range from sweet to strongly bitter. In Haiti it is commonly associated with the name chadèk. The document notes a taxonomic distinction between the local reference to Citrus maxima and the modern grapefruit concept Citrus × paradisi.",
       "fr": "Grapefruit produces large, juicy fruits whose flavor can range from sweet to strongly bitter. In Haiti it is commonly associated with the name chadèk. The document notes a taxonomic distinction between the local reference to Citrus maxima and the modern grapefruit concept Citrus × paradisi."
     },
-    "image": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=Citrus%20×%20paradisi%20Macfad.",
-    "source": "Current Flora Ayiti Word document; Haiti-Référence; Smithsonian Flora of the West Indies; modern citrus taxonomy."
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Trauttmansdorff_gardens_-_Citrus_x_paradisi_02.JPG?width=1200",
+    "source": "Wikimedia Commons: Trauttmansdorff gardens - Citrus x paradisi 02.JPG — Syrio, CC BY-SA 4.0."
   },
   {
     "id": "coffea-arabica-l",
