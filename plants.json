@@ -40,7 +40,19 @@
       "fr": "La mangue peut être consommée mûre et transformée en jus, en tranches séchées, en pulpe ou en mangues marinées. Haïti possède différentes variétés, notamment Mango doudous, Mango Baptiste, Mango fil blan ou Mango Madan Blan, et Mango Jan Mari. Selon le document, la variété Madan Francique est la plus exportée et l’une des plus répandues, particulièrement à Gros-Morne."
     },
     "image": "assets/mango-word.jpg",
-    "source": "Image from the current Flora Ayiti Word document (user-provided)."
+    "source": "Image from the current Flora Ayiti Word document (user-provided).",
+    "localNames": {
+      "en": [
+        "Mango"
+      ],
+      "ht": [
+        "Mango",
+        "Mang"
+      ],
+      "fr": [
+        "Mangue"
+      ]
+    }
   },
   {
     "id": "ipomoea-batatas-l-lam",
@@ -79,7 +91,18 @@
       "fr": "La patate douce est couramment consommée en Haïti. Ses racines tubéreuses sont bouillies ou frites, et le document mentionne également un dessert haïtien particulier préparé avec de la patate douce."
     },
     "image": "assets/sweet-potato-word.png",
-    "source": "Image from the current Flora Ayiti Word document (user-provided)."
+    "source": "Image from the current Flora Ayiti Word document (user-provided).",
+    "localNames": {
+      "en": [
+        "Sweet potato"
+      ],
+      "ht": [
+        "Patat"
+      ],
+      "fr": [
+        "Patate douce"
+      ]
+    }
   },
   {
     "id": "manihot-esculenta",
@@ -121,7 +144,18 @@
       "fr": "Le document distingue le manioc doux du manioc amer. Le manioc doux est couramment consommé directement. Le manioc amer contient des composés cyanogènes et doit être transformé correctement plutôt que consommé cru ou sans préparation appropriée. Il sert notamment à produire la cassave, la farine et la moussa."
     },
     "image": "assets/cassava-word.jpg",
-    "source": "Image from the current Flora Ayiti Word document (user-provided)."
+    "source": "Image from the current Flora Ayiti Word document (user-provided).",
+    "localNames": {
+      "en": [
+        "Cassava"
+      ],
+      "ht": [
+        "Manyòk"
+      ],
+      "fr": [
+        "Manioc"
+      ]
+    }
   },
   {
     "id": "musa-x-paradisiaca-l",
@@ -163,7 +197,18 @@
       "fr": "La banane plantain est une culture alimentaire importante en Haïti. Elle est souvent cultivée dans les jardins familiaux, les petites exploitations et les systèmes de cultures associées. Les plantains verts peuvent être bouillis, frits ou préparés en bannann peze; les fruits mûrs entrent également dans plusieurs plats."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Musa%20paradisiaca%201.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online. Image placeholder should be replaced with a verified Musa image."
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online. Image placeholder should be replaced with a verified Musa image.",
+    "localNames": {
+      "en": [
+        "Plantain"
+      ],
+      "ht": [
+        "Bannann"
+      ],
+      "fr": [
+        "Banane plantain"
+      ]
+    }
   },
   {
     "id": "cocos-nucifera-l",
@@ -211,7 +256,18 @@
       "fr": "Le cocotier est un palmier familier en Haïti, surtout dans les milieux tropicaux et côtiers. Son fruit fournit l’eau de coco et une chair comestible. La noix mûre est utilisée en cuisine, en pâtisserie, dans les desserts, ainsi que pour préparer du lait et de l’huile de coco. Les coques et les feuilles servent aussi à divers usages domestiques et artisanaux."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cocos%20nucifera%20%2811033378715%29.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; TRAMIL and Haitian plant references."
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; TRAMIL and Haitian plant references.",
+    "localNames": {
+      "en": [
+        "Coconut"
+      ],
+      "ht": [
+        "Kokoye"
+      ],
+      "fr": [
+        "Cocotier / Noix de coco"
+      ]
+    }
   },
   {
     "id": "carica-papaya-l",
@@ -250,7 +306,18 @@
       "fr": "Le papayer est une plante tropicale à port arborescent, avec de grandes feuilles lobées et des fruits qui deviennent jaunes ou orangés à maturité. En Haïti, il est surtout apprécié pour ses fruits, consommés frais ou transformés en jus et en d’autres préparations. Les fruits mûrs comme les fruits verts sont utilisés en cuisine."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carica.papaya.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; TRAMIL."
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; TRAMIL.",
+    "localNames": {
+      "en": [
+        "Papaya"
+      ],
+      "ht": [
+        "Papay"
+      ],
+      "fr": [
+        "Papaye"
+      ]
+    }
   },
   {
     "id": "moringa-oleifera-lam",
@@ -290,7 +357,19 @@
       "fr": "Le moringa est un petit arbre apprécié pour ses feuilles, ses fleurs, ses gous et ses graines. Il pousse bien sous les climats chauds et peut tolérer des conditions relativement sèches une fois établi. Le document rapporte des usages traditionnels, qui doivent être présentés comme des savoirs culturels documentés et non comme des traitements médicaux scientifiquement prouvés."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moringa%20oleifera%20plant.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; Haitian ethnobotanical survey."
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; Haitian ethnobotanical survey.",
+    "localNames": {
+      "en": [
+        "Moringa"
+      ],
+      "ht": [
+        "Doliv",
+        "Morenga"
+      ],
+      "fr": [
+        "Moringa / Arbre de vie"
+      ]
+    }
   },
   {
     "id": "catalpa-longissima-jacq-dum-cours",
@@ -330,7 +409,19 @@
       "fr": "L’arbre haïtien couramment appelé chenn ou chêne haïtien est identifié dans le document comme Catalpa longissima, et non comme une espèce du genre Quercus. Le nom vernaculaire peut donc prêter à confusion; cet arbre appartient à la famille des Bignoniaceae. Des observations locales et des photographies devraient accompagner la fiche lorsque cela est possible."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Catalpa_longissima.jpg?width=1200",
-    "source": "Wikimedia Commons: Catalpa longissima.jpg — Scott Zona, CC BY 2.0."
+    "source": "Wikimedia Commons: Catalpa longissima.jpg — Scott Zona, CC BY 2.0.",
+    "localNames": {
+      "en": [
+        "Haitian oak / Haitian catalpa"
+      ],
+      "ht": [
+        "Chenn",
+        "Bwa chenn"
+      ],
+      "fr": [
+        "Chêne haïtien / Bois chêne"
+      ]
+    }
   },
   {
     "id": "cajanus-cajan-l-huth",
@@ -372,7 +463,18 @@
       "fr": "Le pois d’Angole est un arbuste légumineux cultivé en Haïti pour ses graines comestibles. Les pois peuvent être consommés frais ou secs et préparés dans des plats traditionnels. Le document souligne aussi son intérêt agronomique, car cette légumineuse contribue à la fixation biologique de l’azote."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cajanus_cajan_plant.jpg?width=1200",
-    "source": "Wikimedia Commons: Cajanus cajan plant.jpg — Vinayaraj, CC BY-SA 3.0."
+    "source": "Wikimedia Commons: Cajanus cajan plant.jpg — Vinayaraj, CC BY-SA 3.0.",
+    "localNames": {
+      "en": [
+        "Pigeon pea"
+      ],
+      "ht": [
+        "Pwa kongo"
+      ],
+      "fr": [
+        "Pois pigeon"
+      ]
+    }
   },
   {
     "id": "allium-cepa-l",
@@ -414,7 +516,18 @@
       "fr": "L’oignon est une plante cultivée pour son bulbe souterrain. En Haïti, il est largement utilisé pour assaisonner les sauces, les ragoûts, les soupes, les plats de riz, les préparations à base de viande et de nombreux repas quotidiens. Le bulbe est la principale partie consommée."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Onion_or_Allium_cepa.jpg?width=1200",
-    "source": "Wikimedia Commons: Onion or Allium cepa.jpg — Lfatty22, CC0 1.0."
+    "source": "Wikimedia Commons: Onion or Allium cepa.jpg — Lfatty22, CC0 1.0.",
+    "localNames": {
+      "en": [
+        "Onion"
+      ],
+      "ht": [
+        "Zonyon"
+      ],
+      "fr": [
+        "Oignon"
+      ]
+    }
   },
   {
     "id": "capsicum-annuum-l",
@@ -456,7 +569,18 @@
       "fr": "Le poivron est une forme cultivée de Capsicum annuum utilisée comme légume et condiment. Selon la variété et le degré de maturité, ses fruits peuvent être verts, jaunes, orange ou rouges. En Haïti, il entre dans les sauces, les ragoûts et les plats de viande ou de légumes."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Capsicum%20annuum%20%28Solanaceae%29.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online.",
+    "localNames": {
+      "en": [
+        "Bell pepper / Sweet pepper"
+      ],
+      "ht": [
+        "Piman dous"
+      ],
+      "fr": [
+        "Poivron"
+      ]
+    }
   },
   {
     "id": "dioscorea-spp-including-dioscorea-alata-l",
@@ -495,7 +619,18 @@
       "fr": "Le terme igname désigne plusieurs espèces de Dioscorea cultivées pour leurs tubercules comestibles souterrains. En Haïti, l’igname peut être bouillie, frite, écrasée ou incorporée à d’autres plats. Le document conserve une identification scientifique générale, car les ignames locales peuvent appartenir à plusieurs espèces."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Dioscorea_alata.jpg?width=1200",
-    "source": "Wikimedia Commons: Dioscorea alata.jpg — Tauʻolunga, CC BY-SA 3.0/GFDL."
+    "source": "Wikimedia Commons: Dioscorea alata.jpg — Tauʻolunga, CC BY-SA 3.0/GFDL.",
+    "localNames": {
+      "en": [
+        "Yam"
+      ],
+      "ht": [
+        "Yanm"
+      ],
+      "fr": [
+        "Igname"
+      ]
+    }
   },
   {
     "id": "terminalia-catappa-l",
@@ -538,7 +673,19 @@
       "fr": "La plante appelée zanmann ou zanmand en Haïti est l’amandier tropical, Terminalia catappa, et non l’amandier des régions tempérées, Prunus dulcis. C’est un arbre à large couronne et à grandes feuilles, qui produit des fruits comestibles contenant une graine ressemblant à une amande."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Terminalia_catappa_tree.jpg?width=1200",
-    "source": "Wikimedia Commons: Terminalia catappa tree.jpg — V.Thamaraiselvi, CC BY-SA 4.0."
+    "source": "Wikimedia Commons: Terminalia catappa tree.jpg — V.Thamaraiselvi, CC BY-SA 4.0.",
+    "localNames": {
+      "en": [
+        "Tropical almond / Sea almond"
+      ],
+      "ht": [
+        "Zanmann",
+        "Zanmand"
+      ],
+      "fr": [
+        "Amandier des Indes / Amandier tropical"
+      ]
+    }
   },
   {
     "id": "capsicum-spp-including-capsicum-annuum-l",
@@ -577,7 +724,18 @@
       "fr": "Le mot piman désigne les piments forts largement utilisés dans la cuisine haïtienne. Les différentes espèces et variétés de Capsicum produisent des fruits de formes, de couleurs, de tailles et de niveaux de piquant variés. Le document conserve l’identification générale Capsicum spp. tant qu’une variété locale précise n’a pas été identifiée."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Capsicum%20annuum%20%282%29.JPG?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online.",
+    "localNames": {
+      "en": [
+        "Hot pepper / Chili pepper"
+      ],
+      "ht": [
+        "Piman"
+      ],
+      "fr": [
+        "Piment"
+      ]
+    }
   },
   {
     "id": "roystonea-regia-kunth-ofcook",
@@ -617,7 +775,19 @@
       "fr": "Le palmier royal est un grand palmier doté d’un tronc lisse et d’un manchon foliaire vert bien visible. Le document souligne son caractère caribéen et indique Roystonea regia comme une espèce indigène d’Haïti."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Roystonea%20regia.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online."
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online.",
+    "localNames": {
+      "en": [
+        "Royal palm"
+      ],
+      "ht": [
+        "Palmis",
+        "Palmis wayal"
+      ],
+      "fr": [
+        "Palmier royal"
+      ]
+    }
   },
   {
     "id": "swietenia-mahagoni-l-jacq",
@@ -656,7 +826,18 @@
       "fr": "L’acajou est un arbre à bois dur précieux originaire de la région caraïbe, notamment d’Haïti. Swietenia mahagoni produit un bois durable et esthétique et a une importance historique comme arbre forestier exploité pour son bois. Le document souligne également l’importance de sa conservation."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Swietenia_mahagoni_%281126794924%29.jpg?width=1200",
-    "source": "Wikimedia Commons: Swietenia mahagoni (1126794924).jpg — Dinesh Valke, CC BY-SA 2.0."
+    "source": "Wikimedia Commons: Swietenia mahagoni (1126794924).jpg — Dinesh Valke, CC BY-SA 2.0.",
+    "localNames": {
+      "en": [
+        "Mahogany"
+      ],
+      "ht": [
+        "Akajou"
+      ],
+      "fr": [
+        "Acajou"
+      ]
+    }
   },
   {
     "id": "citrus-x-aurantiifolia-christm-swingle",
@@ -699,7 +880,19 @@
       "fr": "Le citron vert est un petit agrume cultivé pour ses fruits acides. En Haïti, le sitwon sert à parfumer les aliments et les boissons; il est utilisé dans les sauces, les marinades, les plats de poisson et de viande ainsi que dans différentes boissons."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Citrus_aurantifolia.jpg?width=1200",
-    "source": "Wikimedia Commons: Citrus aurantifolia.jpg — AlexandreAssatiani, CC BY 4.0."
+    "source": "Wikimedia Commons: Citrus aurantifolia.jpg — AlexandreAssatiani, CC BY 4.0.",
+    "localNames": {
+      "en": [
+        "Key lime / Mexican lime"
+      ],
+      "ht": [
+        "Sitwon",
+        "Pye sitwon"
+      ],
+      "fr": [
+        "Citron vert / Limettier"
+      ]
+    }
   },
   {
     "id": "citrus-sinensis-l-osbeck",
@@ -742,7 +935,19 @@
       "fr": "L’oranger doux est un agrume cultivé pour ses fruits, consommés frais ou largement transformés en jus. En Haïti, on l’appelle zoranj dous pour le distinguer des oranges acides ou amères."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Citrus%20sinensis.jpg?width=1000",
-    "source": "Current Flora Ayiti Word document; Haiti-Référence; Smithsonian Flora of the West Indies."
+    "source": "Current Flora Ayiti Word document; Haiti-Référence; Smithsonian Flora of the West Indies.",
+    "localNames": {
+      "en": [
+        "Sweet orange"
+      ],
+      "ht": [
+        "Zoranj dous",
+        "Pye zoranj dous"
+      ],
+      "fr": [
+        "Orange douce"
+      ]
+    }
   },
   {
     "id": "citrus-x-paradisi-macfad",
@@ -785,7 +990,19 @@
       "fr": "Le pamplemoussier produit de gros fruits juteux dont la saveur peut être douce ou très amère. En Haïti, il est souvent associé au nom chadèk. Le document signale une distinction taxonomique entre l’usage local du nom pour Citrus maxima et le concept moderne de pamplemousse, Citrus × paradisi."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Trauttmansdorff_gardens_-_Citrus_x_paradisi_02.JPG?width=1200",
-    "source": "Wikimedia Commons: Trauttmansdorff gardens - Citrus x paradisi 02.JPG — Syrio, CC BY-SA 4.0."
+    "source": "Wikimedia Commons: Trauttmansdorff gardens - Citrus x paradisi 02.JPG — Syrio, CC BY-SA 4.0.",
+    "localNames": {
+      "en": [
+        "Grapefruit"
+      ],
+      "ht": [
+        "Chadèk",
+        "Pye chadèk"
+      ],
+      "fr": [
+        "Pamplemousse"
+      ]
+    }
   },
   {
     "id": "coffea-arabica-l",
@@ -824,7 +1041,18 @@
       "fr": "Cette fiche a été conservée depuis la première version du prototype Flora Ayiti. Le caféier est une plante cultivée pour ses cerises, qui contiennent les graines transformées pour produire le café."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Coffea%20arabica%200zz.jpg?width=1000",
-    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Coffee"
+      ],
+      "ht": [
+        "Kafe"
+      ],
+      "fr": [
+        "Café"
+      ]
+    }
   },
   {
     "id": "theobroma-cacao-l",
@@ -866,7 +1094,18 @@
       "fr": "Cette fiche a été conservée depuis la première version du prototype Flora Ayiti. Le cacaoyer est cultivé pour ses cabosses et ses graines, transformées en cacao et en chocolat. En Haïti, le cacao sert aussi à préparer le chokola peyi, une boisson chaude traditionnelle."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Theobroma%20cacao%20fruit.jpg?width=1000",
-    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Cocoa"
+      ],
+      "ht": [
+        "Kakawo"
+      ],
+      "fr": [
+        "Cacao"
+      ]
+    }
   },
   {
     "id": "artocarpus-altilis-parkinson-fosberg",
@@ -905,7 +1144,18 @@
       "fr": "Cette fiche a été conservée depuis la première version du prototype Flora Ayiti. L’arbre à pain est un arbre tropical qui produit de gros fruits riches en amidon, consommés comme aliment."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Artocarpus%20altilis%20%283%29.JPG?width=1000",
-    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Breadfruit"
+      ],
+      "ht": [
+        "Lam veritab"
+      ],
+      "fr": [
+        "Fruit à pain"
+      ]
+    }
   },
   {
     "id": "psidium-guajava-l",
@@ -947,7 +1197,18 @@
       "fr": "Cette fiche a été conservée depuis la première version du prototype Flora Ayiti, et l’identification botanique est Psidium guajava. Les goyaves peuvent être consommées fraîches ou transformées en jus et en d’autres produits alimentaires."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Psidium%20guajava%20%28fruit%29.jpg?width=1000",
-    "source": "Retained from the earlier Flora Ayiti prototype; botanical/image verification from Wikimedia Commons."
+    "source": "Retained from the earlier Flora Ayiti prototype; botanical/image verification from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Guava"
+      ],
+      "ht": [
+        "Gwayav"
+      ],
+      "fr": [
+        "Goyave"
+      ]
+    }
   },
   {
     "id": "annona-muricata-l",
@@ -989,7 +1250,18 @@
       "fr": "Cette fiche a été conservée depuis la première version du prototype Flora Ayiti. Le corossolier est un arbre fruitier tropical qui produit de gros fruits verts épineux, consommés comme aliments et utilisés dans des boissons."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Anona%20Muricata.jpg?width=1000",
-    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Soursop"
+      ],
+      "ht": [
+        "Korosòl"
+      ],
+      "fr": [
+        "Corossol"
+      ]
+    }
   },
   {
     "id": "hibiscus-x-rosa-sinensis-l",
@@ -1028,7 +1300,18 @@
       "fr": "Cette fiche a été conservée depuis la première version du prototype Flora Ayiti. La plante appelée choublak, auparavant présentée sous le nom Wouj chay, est identifiée ici comme Hibiscus × rosa-sinensis L."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hibiscus%20%C3%97%20rosa-sinensis%20L.%2001.jpg?width=1000",
-    "source": "Retained from the earlier Flora Ayiti prototype; botanical/image verification from Wikimedia Commons."
+    "source": "Retained from the earlier Flora Ayiti prototype; botanical/image verification from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Hibiscus / Chinese hibiscus"
+      ],
+      "ht": [
+        "Wouj chay"
+      ],
+      "fr": [
+        "Hibiscus"
+      ]
+    }
   },
   {
     "id": "azadirachta-indica-a-juss",
@@ -1067,7 +1350,18 @@
       "fr": "Cette fiche a été conservée depuis la première version du prototype Flora Ayiti. Le neem est un arbre de la famille des acajous, largement connu dans les régions tropicales et subtropicales."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Azadirachta%20indica.jpg?width=1000",
-    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Neem"
+      ],
+      "ht": [
+        "Nim"
+      ],
+      "fr": [
+        "Margousier"
+      ]
+    }
   },
   {
     "id": "saccharum-officinarum-l",
@@ -1109,7 +1403,18 @@
       "fr": "Cette fiche a été conservée depuis la première version du prototype Flora Ayiti et mise à jour avec le nom scientifique utilisé dans le projet Flora. La canne à sucre est une grande graminée cultivée pour ses tiges riches en sucre."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Saccharum%20officinarum.JPG?width=1000",
-    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons."
+    "source": "Retained from the earlier Flora Ayiti prototype; image from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Sugarcane"
+      ],
+      "ht": [
+        "Kann sik"
+      ],
+      "fr": [
+        "Canne à sucre"
+      ]
+    }
   },
   {
     "id": "persea-americana-mill",
@@ -1151,7 +1456,18 @@
       "fr": "Cette fiche a été conservée depuis la première version du prototype Flora Ayiti; le nom scientifique a été vérifié comme étant Persea americana. L’arbre produit l’avocat, un fruit comestible."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Persea%20americana%20jpg..JPG?width=1000",
-    "source": "Retained from the earlier Flora Ayiti prototype; botanical/image verification from Wikimedia Commons."
+    "source": "Retained from the earlier Flora Ayiti prototype; botanical/image verification from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Avocado"
+      ],
+      "ht": [
+        "Zaboka"
+      ],
+      "fr": [
+        "Avocat"
+      ]
+    }
   },
   {
     "id": "zea-mays-l",
@@ -1190,6 +1506,17 @@
       "fr": "Cette fiche a été conservée et mise à jour pour l’inventaire Flora Ayiti. Le maïs est une importante céréale cultivée et utilisée dans de nombreuses préparations alimentaires."
     },
     "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Zea%20mays.jpg?width=1000",
-    "source": "Added to the current Flora website inventory because it was requested but is not present in the current Word document; image from Wikimedia Commons."
+    "source": "Added to the current Flora website inventory because it was requested but is not present in the current Word document; image from Wikimedia Commons.",
+    "localNames": {
+      "en": [
+        "Corn / Maize"
+      ],
+      "ht": [
+        "Mayi"
+      ],
+      "fr": [
+        "Maïs"
+      ]
+    }
   }
 ]
