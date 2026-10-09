@@ -10,7 +10,7 @@ fr:{tagline:"La diversité végétale d'Haïti",navInventory:"Inventaire",navAbo
 
 const $=x=>document.getElementById(x);
 function normalize(value){return String(value||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().trim()}
-function allNames(p){return [...Object.values(p.name||{}),p.scientific,...(p.local||[])].map(normalize).join(" ")}
+function allNames(p){return [...Object.values(p.name||{}),p.scientific,...(p.local||[]),...Object.values(p.localNames||{}).flat()].map(normalize).join(" ")}
 function textFor(obj){return obj?.[lang] || obj?.en || ""}
 const USE_LABELS={
  en:{"Food":"Food","Juice":"Juice","Processing":"Processing","Medicinal":"Medicinal","Medicine":"Medicine","Ornamental":"Ornamental","Timber":"Timber","Construction":"Construction","Fuel":"Fuel","Shade":"Shade","Animal feed":"Animal feed","Fodder":"Fodder","Fiber":"Fiber","Oil":"Oil","Spice":"Spice","Drink":"Drink","Beverage":"Beverage","Cosmetic":"Cosmetic","Cultural":"Cultural","Environmental":"Environmental","Agriculture":"Agriculture","Craft":"Craft","Dye":"Dye","Hedge":"Hedge","Erosion control":"Erosion control","Crop":"Crop","Markets":"Markets","Cassava bread":"Cassava bread","Flour":"Flour","Coconut water":"Coconut water","Coconut milk":"Coconut milk"},
@@ -61,7 +61,7 @@ function openProfile(i){
    <p>${textFor(p.description)}</p>
    <dl>
     <dt>${T[lang].family}</dt><dd>${p.family}</dd>
-    <dt>${T[lang].local}</dt><dd>${(p.local||[]).join(", ")}</dd>
+    <dt>${T[lang].local}</dt><dd>${((p.localNames&&p.localNames[lang]) || p.local || []).join(", ")}</dd>
     <dt>${T[lang].region}</dt><dd>${textFor(p.region)}</dd>
     <dt>${T[lang].uses}</dt><dd>${(p.uses?.[lang]||p.uses?.en||[]).join(", ")}</dd>
    </dl>
