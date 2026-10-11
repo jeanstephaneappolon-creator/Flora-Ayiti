@@ -14,8 +14,36 @@ function allNames(p){return [...Object.values(p.name||{}),p.scientific,...(p.loc
 function textFor(obj){return obj?.[lang] || obj?.en || ""}
 const USE_LABELS={
  en:{"Food":"Food","Juice":"Juice","Processing":"Processing","Medicinal":"Medicinal","Medicine":"Medicine","Ornamental":"Ornamental","Timber":"Timber","Construction":"Construction","Fuel":"Fuel","Shade":"Shade","Animal feed":"Animal feed","Fodder":"Fodder","Fiber":"Fiber","Oil":"Oil","Spice":"Spice","Drink":"Drink","Beverage":"Beverage","Cosmetic":"Cosmetic","Cultural":"Cultural","Environmental":"Environmental","Agriculture":"Agriculture","Craft":"Craft","Dye":"Dye","Hedge":"Hedge","Erosion control":"Erosion control","Crop":"Crop","Markets":"Markets","Cassava bread":"Cassava bread","Flour":"Flour","Coconut water":"Coconut water","Coconut milk":"Coconut milk"},
- ht:{"Food":"Manje","Juice":"Ji","Processing":"Transfòmasyon","Medicinal":"Medisinal","Medicine":"Medikaman","Ornamental":"Dekoratif","Timber":"Bwa","Construction":"Konstriksyon","Fuel":"Konbistib","Shade":"Lonbraj","Animal feed":"Manje bèt","Fodder":"Fouraj","Fiber":"Fib","Oil":"Lwil","Spice":"Epis","Drink":"Bwason","Beverage":"Bwason","Cosmetic":"Kosmetik","Cultural":"Kiltirèl","Environmental":"Anviwònman","Agriculture":"Agrikilti","Craft":"Atizana","Dye":"Koloran","Hedge":"Lizyè","Erosion control":"Kontwòl ewozyon","Crop":"Kilti","Markets":"Mache","Cassava bread":"Kasav","Flour":"Farin","Coconut water":"Dlo kokoye","Coconut milk":"Lèt kokoye"},
- fr:{"Food":"Alimentation","Juice":"Jus","Processing":"Transformation","Medicinal":"Médicinal","Medicine":"Médicament","Ornamental":"Ornemental","Timber":"Bois","Construction":"Construction","Fuel":"Combustible","Shade":"Ombre","Animal feed":"Alimentation animale","Fodder":"Fourrage","Fiber":"Fibre","Oil":"Huile","Spice":"Épice","Drink":"Boisson","Beverage":"Boisson","Cosmetic":"Cosmétique","Cultural":"Culturel","Environmental":"Environnemental","Agriculture":"Agriculture","Craft":"Artisanat","Dye":"Colorant","Hedge":"Haie","Erosion control":"Lutte contre l’érosion","Crop":"Culture","Markets":"Marchés","Cassava bread":"Cassave","Flour":"Farine","Coconut water":"Eau de coco","Coconut milk":"Lait de coco"}
+ ht:{```js
+"Coastal environments": "Zòn kotyè",
+"Crafts": "Atizana",
+"Cultural value": "Valè kiltirèl",
+"Drinks": "Bwason",
+"Forest": "Forè",
+"Fruit": "Fwi",
+"Landscape": "Peyizaj",
+"Seasoning": "Epis",
+"Soil fertility": "Fètilite tè",
+"Sugar": "Sik",
+"Traditional knowledge": "Konesans tradisyonèl",
+"Traditional/local knowledge": "Konesans tradisyonèl/lokal",
+"Tree": "Pye bwa"
+```"Food":"Manje","Juice":"Ji","Processing":"Transfòmasyon","Medicinal":"Medisinal","Medicine":"Medikaman","Ornamental":"Dekoratif","Timber":"Bwa","Construction":"Konstriksyon","Fuel":"Konbistib","Shade":"Lonbraj","Animal feed":"Manje bèt","Fodder":"Fouraj","Fiber":"Fib","Oil":"Lwil","Spice":"Epis","Drink":"Bwason","Beverage":"Bwason","Cosmetic":"Kosmetik","Cultural":"Kiltirèl","Environmental":"Anviwònman","Agriculture":"Agrikilti","Craft":"Atizana","Dye":"Koloran","Hedge":"Lizyè","Erosion control":"Kontwòl ewozyon","Crop":"Kilti","Markets":"Mache","Cassava bread":"Kasav","Flour":"Farin","Coconut water":"Dlo kokoye","Coconut milk":"Lèt kokoye"},
+ fr:{```js
+"Coastal environments": "Milieux côtiers",
+"Crafts": "Artisanat",
+"Cultural value": "Valeur culturelle",
+"Drinks": "Boissons",
+"Forest": "Forêt",
+"Fruit": "Fruit",
+"Landscape": "Paysage",
+"Seasoning": "Assaisonnement",
+"Soil fertility": "Fertilité du sol",
+"Sugar": "Sucre",
+"Traditional knowledge": "Savoirs traditionnels",
+"Traditional/local knowledge": "Savoirs traditionnels/locaux",
+"Tree": "Arbre"
+```"Food":"Alimentation","Juice":"Jus","Processing":"Transformation","Medicinal":"Médicinal","Medicine":"Médicament","Ornamental":"Ornemental","Timber":"Bois","Construction":"Construction","Fuel":"Combustible","Shade":"Ombre","Animal feed":"Alimentation animale","Fodder":"Fourrage","Fiber":"Fibre","Oil":"Huile","Spice":"Épice","Drink":"Boisson","Beverage":"Boisson","Cosmetic":"Cosmétique","Cultural":"Culturel","Environmental":"Environnemental","Agriculture":"Agriculture","Craft":"Artisanat","Dye":"Colorant","Hedge":"Haie","Erosion control":"Lutte contre l’érosion","Crop":"Culture","Markets":"Marchés","Cassava bread":"Cassave","Flour":"Farine","Coconut water":"Eau de coco","Coconut milk":"Lait de coco"}
 };
 function useLabel(value){return (USE_LABELS[lang]&&USE_LABELS[lang][value])||value;}
 
