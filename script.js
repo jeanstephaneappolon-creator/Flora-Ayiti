@@ -12,12 +12,74 @@ const $=x=>document.getElementById(x);
 function normalize(value){return String(value||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().trim()}
 function allNames(p){return [...Object.values(p.name||{}),p.scientific,...(p.local||[]),...Object.values(p.localNames||{}).flat()].map(normalize).join(" ")}
 function textFor(obj){return obj?.[lang] || obj?.en || ""}
-const USE_LABELS={
- en:{"Food":"Food","Juice":"Juice","Processing":"Processing","Medicinal":"Medicinal","Medicine":"Medicine","Ornamental":"Ornamental","Timber":"Timber","Construction":"Construction","Fuel":"Fuel","Shade":"Shade","Animal feed":"Animal feed","Fodder":"Fodder","Fiber":"Fiber","Oil":"Oil","Spice":"Spice","Drink":"Drink","Beverage":"Beverage","Cosmetic":"Cosmetic","Cultural":"Cultural","Environmental":"Environmental","Agriculture":"Agriculture","Craft":"Craft","Dye":"Dye","Hedge":"Hedge","Erosion control":"Erosion control","Crop":"Crop","Markets":"Markets","Cassava bread":"Cassava bread","Flour":"Flour","Coconut water":"Coconut water","Coconut milk":"Coconut milk"},
- ht:{"Food":"Manje","Juice":"Ji","Processing":"Transfòmasyon","Medicinal":"Medisinal","Medicine":"Medikaman","Ornamental":"Dekoratif","Timber":"Bwa","Construction":"Konstriksyon","Fuel":"Konbistib","Shade":"Lonbraj","Animal feed":"Manje bèt","Fodder":"Fouraj","Fiber":"Fib","Oil":"Lwil","Spice":"Epis","Drink":"Bwason","Beverage":"Bwason","Cosmetic":"Kosmetik","Cultural":"Kiltirèl","Environmental":"Anviwònman","Agriculture":"Agrikilti","Craft":"Atizana","Dye":"Koloran","Hedge":"Lizyè","Erosion control":"Kontwòl ewozyon","Crop":"Kilti","Markets":"Mache","Cassava bread":"Kasav","Flour":"Farin","Coconut water":"Dlo kokoye","Coconut milk":"Lèt kokoye"},
- fr:{"Food":"Alimentation","Juice":"Jus","Processing":"Transformation","Medicinal":"Médicinal","Medicine":"Médicament","Ornamental":"Ornemental","Timber":"Bois","Construction":"Construction","Fuel":"Combustible","Shade":"Ombre","Animal feed":"Alimentation animale","Fodder":"Fourrage","Fiber":"Fibre","Oil":"Huile","Spice":"Épice","Drink":"Boisson","Beverage":"Boisson","Cosmetic":"Cosmétique","Cultural":"Culturel","Environmental":"Environnemental","Agriculture":"Agriculture","Craft":"Artisanat","Dye":"Colorant","Hedge":"Haie","Erosion control":"Lutte contre l’érosion","Crop":"Culture","Markets":"Marchés","Cassava bread":"Cassave","Flour":"Farine","Coconut water":"Eau de coco","Coconut milk":"Lait de coco"}
+
+const USE_LABELS = {
+  en: {
+    "Food":"Food", "Juice":"Juice", "Processing":"Processing",
+    "Crop":"Crop", "Cassava bread":"Cassava bread", "Flour":"Flour",
+    "Markets":"Markets", "Coconut water":"Coconut water",
+    "Coconut milk":"Coconut milk", "Oil":"Oil", "Crafts":"Crafts",
+    "Traditional knowledge":"Traditional knowledge",
+    "Traditional/local knowledge":"Traditional/local knowledge",
+    "Timber":"Timber", "Soil fertility":"Soil fertility",
+    "Seasoning":"Seasoning", "Tree":"Tree",
+    "Coastal environments":"Coastal environments",
+    "Landscape":"Landscape", "Cultural value":"Cultural value",
+    "Forest":"Forest", "Drinks":"Drinks", "Beverage":"Beverage",
+    "Fruit":"Fruit", "Ornamental":"Ornamental", "Sugar":"Sugar",
+    "Medicinal":"Medicinal", "Medicine":"Medicine",
+    "Construction":"Construction", "Fuel":"Fuel", "Shade":"Shade",
+    "Animal feed":"Animal feed", "Fodder":"Fodder", "Fiber":"Fiber",
+    "Spice":"Spice", "Drink":"Drink", "Cosmetic":"Cosmetic",
+    "Cultural":"Cultural", "Environmental":"Environmental",
+    "Agriculture":"Agriculture", "Dye":"Dye", "Hedge":"Hedge",
+    "Erosion control":"Erosion control"
+  },
+  ht: {
+    "Food":"Manje", "Juice":"Ji", "Processing":"Transfòmasyon",
+    "Crop":"Rekòt", "Cassava bread":"Kasav", "Flour":"Farin",
+    "Markets":"Mache", "Coconut water":"Dlo kokoye",
+    "Coconut milk":"Lèt kokoye", "Oil":"Lwil", "Crafts":"Atizana",
+    "Traditional knowledge":"Konesans tradisyonèl",
+    "Traditional/local knowledge":"Konesans lokal ak tradisyonèl",
+    "Timber":"Bwa", "Soil fertility":"Fètilite tè",
+    "Seasoning":"Epis", "Tree":"Pyebwa",
+    "Coastal environments":"Anviwònman kotyè",
+    "Landscape":"Peyizaj", "Cultural value":"Valè kiltirèl",
+    "Forest":"Forè", "Drinks":"Bwason", "Beverage":"Bwason",
+    "Fruit":"Fwi", "Ornamental":"Dekoratif", "Sugar":"Sik",
+    "Medicinal":"Medisinal", "Medicine":"Medikaman",
+    "Construction":"Konstriksyon", "Fuel":"Konbistib", "Shade":"Lonbraj",
+    "Animal feed":"Manje bèt", "Fodder":"Fouraj", "Fiber":"Fib",
+    "Spice":"Epis", "Drink":"Bwason", "Cosmetic":"Kosmetik",
+    "Cultural":"Kiltirèl", "Environmental":"Anviwònman",
+    "Agriculture":"Agrikilti", "Dye":"Koloran", "Hedge":"Lizyè",
+    "Erosion control":"Kontwòl ewozyon"
+  },
+  fr: {
+    "Food":"Alimentation", "Juice":"Jus", "Processing":"Transformation",
+    "Crop":"Culture", "Cassava bread":"Cassave", "Flour":"Farine",
+    "Markets":"Marchés", "Coconut water":"Eau de coco",
+    "Coconut milk":"Lait de coco", "Oil":"Huile", "Crafts":"Artisanat",
+    "Traditional knowledge":"Savoirs traditionnels",
+    "Traditional/local knowledge":"Savoirs locaux et traditionnels",
+    "Timber":"Bois d’œuvre", "Soil fertility":"Fertilité des sols",
+    "Seasoning":"Assaisonnement", "Tree":"Arbre",
+    "Coastal environments":"Environnements côtiers",
+    "Landscape":"Aménagement paysager", "Cultural value":"Valeur culturelle",
+    "Forest":"Forêt", "Drinks":"Boissons", "Beverage":"Boisson",
+    "Fruit":"Fruit", "Ornamental":"Ornemental", "Sugar":"Sucre",
+    "Medicinal":"Médicinal", "Medicine":"Médicament",
+    "Construction":"Construction", "Fuel":"Combustible", "Shade":"Ombre",
+    "Animal feed":"Alimentation animale", "Fodder":"Fourrage",
+    "Fiber":"Fibre", "Spice":"Épice", "Drink":"Boisson",
+    "Cosmetic":"Cosmétique", "Cultural":"Culturel",
+    "Environmental":"Environnemental", "Agriculture":"Agriculture",
+    "Dye":"Colorant", "Hedge":"Haie", "Erosion control":"Lutte contre l’érosion"
+  }
 };
-function useLabel(value){return (USE_LABELS[lang]&&USE_LABELS[lang][value])||value;}
+
+
 
 
 function visual(p){
@@ -25,18 +87,43 @@ function visual(p){
   return `<img src="${p.image}" alt="${p.name?.en||p.scientific}" loading="lazy" onerror="this.parentElement.innerHTML='<div aria-label=&quot;Plant photo unavailable&quot;>🌿</div>'">`;
 }
 
-function populateFilters(){
- const fs=[...new Set(plants.map(p=>p.family))].sort(), us=[...new Set(plants.flatMap(p=>p.uses?.en||[]))].sort();
- const ff=$("familyFilter"), uf=$("useFilter");
- ff.querySelectorAll("option:not(:first-child)").forEach(x=>x.remove());
- uf.querySelectorAll("option:not(:first-child)").forEach(x=>x.remove());
- fs.forEach(x=>ff.insertAdjacentHTML("beforeend",`<option value="${x}">${x}</option>`));
- us.forEach(x=>uf.insertAdjacentHTML("beforeend",`<option value="${x}">${useLabel(x)}</option>`));
+
+function populateFilters() {
+  const fs = [...new Set(plants.map(p => p.family))].sort();
+  const us = [...new Set(plants.flatMap(p => p.uses?.en || []))].sort();
+  const ff = $("familyFilter");
+  const uf = $("useFilter");
+
+  ff.querySelectorAll("option:not(:first-child)").forEach(x => x.remove());
+  uf.querySelectorAll("option:not(:first-child)").forEach(x => x.remove());
+
+  fs.forEach(x =>
+    ff.insertAdjacentHTML("beforeend", `<option value="${x}">${x}</option>`)
+  );
+
+  const seenLabels = new Set();
+
+  us.forEach(x => {
+    const label = useLabel(x);
+    if (seenLabels.has(label)) return;
+    seenLabels.add(label);
+    uf.insertAdjacentHTML(
+      "beforeend",
+      `<option value="${label}">${label}</option>`
+    );
+  });
 }
+
 
 function render(){
  const q=normalize($("search").value), f=$("familyFilter").value,u=$("useFilter").value;
-const shown=plants.filter(p=>(!q||allNames(p).includes(q))&&(!f||p.family===f)&&(!u||(p.uses?.en||[]).includes(u)));
+
+const shown = plants.filter(p =>
+  (!q || allNames(p).includes(q)) &&
+  (!f || p.family === f) &&
+  (!u || (p.uses?.en || []).some(use => useLabel(use) === u))
+);
+
  $("resultText").textContent=`${shown.length} ${T[lang].found}`;
  $("plants").innerHTML=shown.map(p=>`<article class="card">
    <div class="photo">${visual(p)}</div>
