@@ -26,7 +26,7 @@ function visual(p){
 }
 
 function populateFilters(){
- const fs=[...new Set(plants.map(p=>p.family))].sort(), us=[...new Set(plants.flatMap(p=>Object.values(p.uses||{}).flat()))].sort();
+ const fs=[...new Set(plants.map(p=>p.family))].sort(), us=[...new Set(plants.flatMap(p=>p.uses?.en||[]))].sort();
  const ff=$("familyFilter"), uf=$("useFilter");
  ff.querySelectorAll("option:not(:first-child)").forEach(x=>x.remove());
  uf.querySelectorAll("option:not(:first-child)").forEach(x=>x.remove());
@@ -36,7 +36,7 @@ function populateFilters(){
 
 function render(){
  const q=normalize($("search").value), f=$("familyFilter").value,u=$("useFilter").value;
- const shown=plants.filter(p=>(!q||allNames(p).includes(q))&&(!f||p.family===f)&&(!u||Object.values(p.uses||{}).flat().includes(u)));
+const shown=plants.filter(p=>(!q||allNames(p).includes(q))&&(!f||p.family===f)&&(!u||(p.uses?.en||[]).includes(u)));
  $("resultText").textContent=`${shown.length} ${T[lang].found}`;
  $("plants").innerHTML=shown.map(p=>`<article class="card">
    <div class="photo">${visual(p)}</div>
