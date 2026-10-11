@@ -88,6 +88,7 @@ function visual(p){
 }
 
 
+```js
 function populateFilters() {
   const fs = [...new Set(plants.map(p => p.family))].sort();
   const us = [...new Set(plants.flatMap(p => p.uses?.en || []))].sort();
@@ -104,15 +105,17 @@ function populateFilters() {
   const seenLabels = new Set();
 
   us.forEach(x => {
-    const label = useLabel(x);
+    const label = (USE_LABELS[lang] && USE_LABELS[lang][x]) || x;
     if (seenLabels.has(label)) return;
     seenLabels.add(label);
+
     uf.insertAdjacentHTML(
       "beforeend",
-      `<option value="${label}">${label}</option>`
+      `<option value="${x}">${label}</option>`
     );
   });
 }
+```
 
 
 function render(){
