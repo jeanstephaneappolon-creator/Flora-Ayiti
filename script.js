@@ -26,33 +26,13 @@ function visual(p){
 }
 
 function populateFilters(){
- ```js
-function populateFilters() {
-  const fs = [...new Set(plants.map(p => p.family))].sort();
-  const us = [...new Set(plants.flatMap(p => p.uses?.en || []))].sort();
-  const ff = $("familyFilter");
-  const uf = $("useFilter");
-
-  ff.querySelectorAll("option:not(:first-child)").forEach(x => x.remove());
-  uf.querySelectorAll("option:not(:first-child)").forEach(x => x.remove());
-
-  fs.forEach(x =>
-    ff.insertAdjacentHTML("beforeend", `<option value="${x}">${x}</option>`)
-  );
-
-  const seenLabels = new Set();
-
-  us.forEach(x => {
-    const label = (USE_LABELS[lang] && USE_LABELS[lang][x]) || x;
-    if (seenLabels.has(label)) return;
-    seenLabels.add(label);
-    uf.insertAdjacentHTML(
-      "beforeend",
-      `<option value="${x}">${label}</option>`
-    );
-  });
+ const fs=[...new Set(plants.map(p=>p.family))].sort(), us=[...new Set(plants.flatMap(p=>Object.values(p.uses||{}).flat()))].sort();
+ const ff=$("familyFilter"), uf=$("useFilter");
+ ff.querySelectorAll("option:not(:first-child)").forEach(x=>x.remove());
+ uf.querySelectorAll("option:not(:first-child)").forEach(x=>x.remove());
+ fs.forEach(x=>ff.insertAdjacentHTML("beforeend",`<option value="${x}">${x}</option>`));
+ us.forEach(x=>uf.insertAdjacentHTML("beforeend",`<option value="${x}">${useLabel(x)}</option>`));
 }
-```
 
 function render(){
  const q=normalize($("search").value), f=$("familyFilter").value,u=$("useFilter").value;
