@@ -1518,5 +1518,106 @@
         "Maïs"
       ]
     }
+  },
+  
+  {
+    "id": "ananas-comosus",
+    "name": {
+      "en": "Pineapple",
+      "ht": "Anana",
+      "fr": "Ananas"
+    },
+    "scientific": "Ananas comosus (L.) Merr.",
+    "family": "Bromeliaceae",
+    "local": ["Anana"],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": ["Food", "Juice", "Processing"],
+      "ht": ["Manje", "Ji", "Transfòmasyon"],
+      "fr": ["Alimentation", "Jus", "Transformation"]
+    },
+    "description": {
+      "en": "Pineapple is a tropical herbaceous plant grown for its sweet, fleshy fruit. The fruit is eaten fresh and can be used in juice, preserves and other food products.",
+      "ht": "Anana se yon plant twopikal yo kiltive pou fwi li ki dous epi ki gen anpil ji. Yo ka manje fwi a fre oswa sèvi avè l pou fè ji, konfiti ak lòt pwodui manje.",
+      "fr": "L’ananas est une plante herbacée tropicale cultivée pour son fruit sucré et juteux. Le fruit se consomme frais et peut servir à préparer des jus, des conserves et d’autres produits alimentaires."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ananas_comosus.jpg?width=1000",
+    "source": "Botanical description prepared for Flora Ayiti; image link from Wikimedia Commons. Verify image availability before publication.",
+    "localNames": {
+      "en": ["Pineapple"],
+      "ht": ["Anana"],
+      "fr": ["Ananas"]
+    }
+  },
+  {
+    "id": "tamarindus-indica",
+    "name": {
+      "en": "Tamarind",
+      "ht": "Tamarenn",
+      "fr": "Tamarin"
+    },
+    "scientific": "Tamarindus indica L.",
+    "family": "Fabaceae",
+    "local": ["Tamarenn"],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": ["Food", "Beverages", "Seasoning"],
+      "ht": ["Manje", "Bwason", "Epis / kondiman"],
+      "fr": ["Alimentation", "Boissons", "Assaisonnement"]
+    },
+    "description": {
+      "en": "Tamarind is a tropical tree that produces brown pods containing a tangy, edible pulp. The pulp is used in drinks, sauces, seasonings and other foods.",
+      "ht": "Tamarenn se yon pyebwa twopikal ki bay gous mawon ki gen yon kaka asid yo ka manje. Yo sèvi ak kaka a pou prepare bwason, sòs, epis ak lòt manje.",
+      "fr": "Le tamarinier est un arbre tropical qui produit des gous brunes contenant une pulpe comestible acidulée. Cette pulpe est utilisée dans les boissons, les sauces, les assaisonnements et d’autres préparations."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Tamarindus_indica.jpg?width=1000",
+    "source": "Botanical description prepared for Flora Ayiti; image link from Wikimedia Commons. Verify image availability before publication.",
+    "localNames": {
+      "en": ["Tamarind"],
+      "ht": ["Tamarenn"],
+      "fr": ["Tamarin"]
+    }
+  },
+  {
+    "id": "citrullus-lanatus",
+    "name": {
+      "en": "Watermelon",
+      "ht": "Melon dlo",
+      "fr": "Pastèque"
+    },
+    "scientific": "Citrullus lanatus (Thunb.) Matsum. & Nakai",
+    "family": "Cucurbitaceae",
+    "local": ["Melon dlo"],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": ["Food", "Fruit", "Crop"],
+      "ht": ["Manje", "Fwi", "Rekòt"],
+      "fr": ["Alimentation", "Fruit", "Culture"]
+    },
+    "description": {
+      "en": "Watermelon is a trailing annual crop grown for its large, juicy fruit. The ripe flesh is usually eaten fresh and may also be used in drinks.",
+      "ht": "Melon dlo se yon plant anyèl ki trennen atè, yo kiltive pou gwo fwi li ki gen anpil dlo. Yo manje chè fwi a lè li mi, sitou fre; yo ka sèvi avè l tou pou prepare bwason.",
+      "fr": "La pastèque est une plante annuelle rampante cultivée pour ses gros fruits très juteux. Sa chair mûre est généralement consommée fraîche et peut aussi être utilisée dans des boissons."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Citrullus_lanatus.jpg?width=1000",
+    "source": "Botanical description prepared for Flora Ayiti; image link from Wikimedia Commons. Verify image availability before publication.",
+    "localNames": {
+      "en": ["Watermelon"],
+      "ht": ["Melon dlo"],
+      "fr": ["Pastèque"]
+    }
   }
+
 ]
