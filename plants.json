@@ -1367,13 +1367,13 @@
     "id": "saccharum-officinarum-l",
     "name": {
       "en": "Sugarcane",
-      "ht": "Kann sik",
+      "ht": "Kann",
       "fr": "Canne à sucre"
     },
     "scientific": "Saccharum officinarum L.",
     "family": "Poaceae",
     "local": [
-      "Kann sik"
+      "Kann"
     ],
     "region": {
       "en": "Haiti",
@@ -1409,7 +1409,7 @@
         "Sugarcane"
       ],
       "ht": [
-        "Kann sik"
+        "Kann"
       ],
       "fr": [
         "Canne à sucre"
