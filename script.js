@@ -52,7 +52,7 @@ const UI_TEXT = {
 };
 
 function t(key) {
-  return (UI_TEXT[currentLang] && UI_TEXT[currentLang][key]) || UI_TEXT.en[key] || key;
+  return (UI_TEXT[lang] && UI_TEXT[lang][key]) || UI_TEXT.en[key] || key;
 }
 
 function localized(value, fallback = "") {
