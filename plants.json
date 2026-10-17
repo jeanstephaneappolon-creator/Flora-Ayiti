@@ -1744,7 +1744,45 @@
       "ht": ["Pistach"],
       "fr": ["Arachide", "Cacahuète"]
     }
+  },
+    },
+  {
+    "id": "attalea-crassispatha",
+    "name": {
+      "en": "Haitian endemic palm",
+      "ht": "Palmis endemik Ayiti",
+      "fr": "Palmier endémique d’Haïti"
+    },
+    "scientific": "Attalea crassispatha (Mart.) Burret",
+    "family": "Arecaceae",
+    "local": [
+      "Carossier"
+    ],
+    "region": {
+      "en": "Southwestern Haiti",
+      "ht": "Sidwès Ayiti",
+      "fr": "Sud-ouest d’Haïti"
+    },
+    "uses": {
+      "en": ["Conservation", "Native biodiversity"],
+      "ht": ["Konsèvasyon", "Divèsite biyolojik lokal"],
+      "fr": ["Conservation", "Biodiversité locale"]
+    },
+    "description": {
+      "en": "Attalea crassispatha is a rare palm native to southwestern Haiti and considered endemic to the country, meaning it naturally occurs nowhere else in the wild. It is critically endangered and deserves special attention in Haitian plant conservation. The local name Carossier should be confirmed with local botanical sources.",
+      "ht": "Attalea crassispatha se yon palmis ra ki natif natal nan sidwès Ayiti epi ki konsidere kòm yon espès endemik peyi a. Sa vle di li pa grandi natirèlman nan bwa nan okenn lòt peyi. Espès sa a an danje kritik epi li merite atansyon espesyal pou konsèvasyon plant ann Ayiti. Nou bezwen verifye non lokal Carossier la ak sous botanik lokal yo.",
+      "fr": "Attalea crassispatha est un palmier rare originaire du sud-ouest d’Haïti et considéré comme endémique du pays, ce qui signifie qu’il ne pousse naturellement à l’état sauvage nulle part ailleurs. Il est en danger critique d’extinction et mérite une attention particulière pour la conservation des plantes haïtiennes. Le nom local Carossier reste à confirmer auprès de sources botaniques locales."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Attalea_crassispatha.jpg",
+    "source": "Kew Plants of the World Online; conservation references for Attalea crassispatha. Verify the image link and local name before publication.",
+    "localNames": {
+      "en": ["Haitian endemic palm"],
+      "ht": ["Carossier (non lokal pou verifye)"],
+      "fr": ["Palmier endémique d’Haïti"]
+    }
   }
+
+]
 
 
 ]
