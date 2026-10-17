@@ -1696,7 +1696,7 @@
     "name": {"en": "Taro", "ht": "Tayo", "fr": "Taro / Colocase"},
     "scientific": "Colocasia esculenta (L.) Schott",
     "family": "Araceae",
-    "local": ["Tayo bambou", "Malanga 2 palles"],
+    "local": ["Tayo", "Malanga"],
     "region": {"en": "Haiti", "ht": "Ayiti", "fr": "Haïti"},
     "uses": {
       "en": ["Food", "Root crop"],
