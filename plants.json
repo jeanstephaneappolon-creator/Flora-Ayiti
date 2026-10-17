@@ -1849,6 +1849,41 @@
       "ht": ["Grenadya"],
       "fr": ["Fruit de la passion"]
     }
+  },
+    {
+    "id": "aloe-vera",
+    "name": {
+      "en": "Aloe vera",
+      "ht": "Lalwa",
+      "fr": "Aloe vera"
+    },
+    "scientific": "Aloe vera (L.) Burm.f.",
+    "family": "Asphodelaceae",
+    "local": [
+      "Lalwa"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": ["Ornamental", "Traditional knowledge", "Cosmetics"],
+      "ht": ["Dekoratif", "Konesans tradisyonèl", "Pwodui kosmetik"],
+      "fr": ["Ornemental", "Savoirs traditionnels", "Cosmétiques"]
+    },
+    "description": {
+      "en": "Aloe vera is a succulent plant with thick, fleshy leaves containing a clear gel. It is grown in Haiti and many other countries. The gel is commonly used in cosmetic products and traditional practices.",
+      "ht": "Lalwa se yon plant ki gen fèy epè ak chè, epi fèy yo gen yon jèl transparan anndan yo. Yo grandi plant sa a ann Ayiti ak nan anpil lòt peyi. Yo sèvi ak jèl la nan pwodui kosmetik ak nan kèk pratik tradisyonèl.",
+      "fr": "L’aloe vera est une plante succulente aux feuilles épaisses et charnues qui contiennent un gel transparent. Elle est cultivée en Haïti et dans de nombreux autres pays. Son gel est couramment utilisé dans les produits cosmétiques et certaines pratiques traditionnelles."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Aloe_vera_flower.JPG?width=1000",
+    "source": "Scientific name and distribution: Kew Plants of the World Online. Image link from Wikimedia Commons; verify image availability before publication.",
+    "localNames": {
+      "en": ["Aloe vera"],
+      "ht": ["Lalwa"],
+      "fr": ["Aloe vera"]
+    }
   }
 
 ]
