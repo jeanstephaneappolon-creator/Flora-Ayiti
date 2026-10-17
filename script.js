@@ -60,7 +60,7 @@ function localized(value, fallback = "") {
   if (typeof value === "string") return value;
   if (Array.isArray(value)) return value.join(", ");
   if (typeof value === "object") {
-    return value[currentLang] ?? value.en ?? value.ht ?? value.fr ?? fallback;
+    return value[lang] ?? value.en ?? value.ht ?? value.fr ?? fallback;
   }
   return String(value);
 }
