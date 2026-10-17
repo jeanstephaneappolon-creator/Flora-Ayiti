@@ -1779,6 +1779,41 @@
       "ht": ["Carossier (non lokal pou verifye)"],
       "fr": ["Palmier endémique d’Haïti"]
     }
+  },
+    {
+    "id": "melicoccus-bijugatus",
+    "name": {
+      "en": "Spanish lime (Genip)",
+      "ht": "Kenèp",
+      "fr": "Quenette"
+    },
+    "scientific": "Melicoccus bijugatus Jacq.",
+    "family": "Sapindaceae",
+    "local": [
+      "Kenèp"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": ["Food", "Fruit"],
+      "ht": ["Manje", "Fwi"],
+      "fr": ["Alimentation", "Fruit"]
+    },
+    "description": {
+      "en": "Kenèp is a familiar fruit in Haiti. The tree produces small, round fruits with a green outer shell, juicy edible pulp and a large seed. The fruit is usually eaten fresh.",
+      "ht": "Kenèp se yon fwi yo byen konnen ann Ayiti. Pye bwa a bay ti fwi won ki gen po vèt, kaka ki gen ji epi yon gwo grenn. Yo konn manje fwi a fre.",
+      "fr": "La quenette est un fruit bien connu en Haïti. L’arbre produit de petits fruits ronds à peau verte, avec une pulpe juteuse comestible et un gros noyau. Le fruit se consomme généralement frais."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Melicoccus_bijugatus%2C_Fruits_01.jpg?width=1000",
+    "source": "Wikimedia Commons: Melicoccus bijugatus, Fruits 01.jpg by Filo gèn'; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Melicoccus_bijugatus,_Fruits_01.jpg. Botanical distribution: Kew Plants of the World Online.",
+    "localNames": {
+      "en": ["Spanish lime", "Genip"],
+      "ht": ["Kenèp"],
+      "fr": ["Quenette"]
+    }
   }
 
 ]
