@@ -1668,10 +1668,10 @@
   },
   {
     "id": "cucurbita-moschata",
-    "name": {"en": "Tropical pumpkin", "ht": "Joumou / Jiroumon", "fr": "Courge musquée tropicale"},
+    "name": {"en": "Tropical pumpkin", "ht": "Joumou", "fr": "Courge musquée tropicale"},
     "scientific": "Cucurbita moschata Duchesne",
     "family": "Cucurbitaceae",
-    "local": ["Joumou", "Jiroumon"],
+    "local": ["Joumou"],
     "region": {"en": "Haiti", "ht": "Ayiti", "fr": "Haïti"},
     "uses": {
       "en": ["Food", "Vegetable", "Crop"],
@@ -1687,13 +1687,13 @@
     "source": "Scientific name: Cucurbita moschata Duchesne; Haitian crop references.",
     "localNames": {
       "en": ["Tropical pumpkin", "Squash"],
-      "ht": ["Joumou", "Jiroumon"],
+      "ht": ["Joumou"],
       "fr": ["Courge musquée tropicale"]
     }
   },
   {
     "id": "colocasia-esculenta",
-    "name": {"en": "Taro", "ht": "Tayo bambou", "fr": "Taro / Colocase"},
+    "name": {"en": "Taro", "ht": "Tayo", "fr": "Taro / Colocase"},
     "scientific": "Colocasia esculenta (L.) Schott",
     "family": "Araceae",
     "local": ["Tayo bambou", "Malanga 2 palles"],
@@ -1712,7 +1712,7 @@
     "source": "Scientific name: Colocasia esculenta (L.) Schott; Haitian plant-name references.",
     "localNames": {
       "en": ["Taro"],
-      "ht": ["Tayo bambou", "Malanga 2 palles"],
+      "ht": ["Tayo", "Malanga"],
       "fr": ["Taro", "Colocase"]
     }
   },
