@@ -1884,6 +1884,41 @@
       "ht": ["Lalwa"],
       "fr": ["Aloe vera"]
     }
+  },
+    {
+    "id": "opuntia-sp",
+    "name": {
+      "en": "Prickly pear cactus",
+      "ht": "Rakèt",
+      "fr": "Figuier de Barbarie"
+    },
+    "scientific": "Opuntia sp.",
+    "family": "Cactaceae",
+    "local": [
+      "Rakèt"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": ["Ornamental", "Fruit (some species)"],
+      "ht": ["Dekoratif", "Fwi (kèk espès)"],
+      "fr": ["Ornemental", "Fruit (certaines espèces)"]
+    },
+    "description": {
+      "en": "Prickly pear cacti have flat, paddle-shaped green segments and may bear spines and edible fruits, depending on the species. The exact Opuntia species found in Haiti should be confirmed before assigning a more specific scientific name.",
+      "ht": "Rakèt yo gen pati vèt ki plat epi ki gen fòm pedal. Yo ka gen pikan ak fwi ki ka manje, selon espès la. Nou bezwen idantifye espès Opuntia ki prezan ann Ayiti a anvan nou bay yon non syantifik ki pi presi.",
+      "fr": "Les figuiers de Barbarie possèdent des segments verts aplatis en forme de raquette et peuvent porter des épines et des fruits comestibles selon l’espèce. Il faudra confirmer l’espèce d’Opuntia présente en Haïti avant d’attribuer un nom scientifique plus précis."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Opuntia_ficus-indica.jpg?width=1000",
+    "source": "General botanical description of Opuntia; image link from Wikimedia Commons. Verify the image and local species identification before publication.",
+    "localNames": {
+      "en": ["Prickly pear cactus"],
+      "ht": ["Rakèt"],
+      "fr": ["Figuier de Barbarie"]
+    }
   }
 
 ]
