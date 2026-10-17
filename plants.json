@@ -1618,6 +1618,129 @@
       "ht": ["Melon dlo"],
       "fr": ["Pastèque"]
     }
+  },
+  
+  {
+    "id": "abelmoschus-esculentus",
+    "name": {"en": "Okra", "ht": "Gombo", "fr": "Gombo"},
+    "scientific": "Abelmoschus esculentus (L.) Moench",
+    "family": "Malvaceae",
+    "local": ["Gombo"],
+    "region": {"en": "Haiti", "ht": "Ayiti", "fr": "Haïti"},
+    "uses": {
+      "en": ["Food", "Vegetable", "Crop"],
+      "ht": ["Manje", "Legim", "Rekòt"],
+      "fr": ["Alimentation", "Légume", "Culture"]
+    },
+    "description": {
+      "en": "Okra is a warm-season crop grown for its edible green pods, used in soups, stews and other dishes.",
+      "ht": "Gombo se yon plant ki renmen chalè. Yo kiltive li pou gous vèt li yo ki ka manje, sitou nan soup ak bouyon.",
+      "fr": "Le gombo est une culture de saison chaude cultivée pour ses gous vertes comestibles, utilisées dans les soupes et les ragoûts."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Abelmoschus_esculentus.jpg?width=1000",
+    "source": "Scientific name: Abelmoschus esculentus (L.) Moench; Haitian plant-name references.",
+    "localNames": {"en": ["Okra"], "ht": ["Gombo"], "fr": ["Gombo"]}
+  },
+  {
+    "id": "phaseolus-vulgaris",
+    "name": {"en": "Common bean", "ht": "Pwa", "fr": "Haricot commun"},
+    "scientific": "Phaseolus vulgaris L.",
+    "family": "Fabaceae",
+    "local": ["Pwa blan", "Pwa nwa", "Pwa wouj"],
+    "region": {"en": "Haiti", "ht": "Ayiti", "fr": "Haïti"},
+    "uses": {
+      "en": ["Food", "Crop", "Edible seeds and green pods"],
+      "ht": ["Manje", "Rekòt", "Grenn ak gous vèt pou manje"],
+      "fr": ["Alimentation", "Culture", "Graines et gous vertes comestibles"]
+    },
+    "description": {
+      "en": "Common bean is a legume grown for its dry seeds and, in some varieties, its edible green pods. Names vary by variety and region.",
+      "ht": "Pwa se yon plant nan fanmi legim yo. Yo kiltive li pou grenn sèk li yo, epi kèk varyete bay gous vèt ki ka manje tou.",
+      "fr": "Le haricot commun est une légumineuse cultivée pour ses graines sèches et, selon les variétés, ses gous vertes comestibles."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Phaseolus_vulgaris.jpg?width=1000",
+    "source": "Scientific name: Phaseolus vulgaris L.; Haitian crop references.",
+    "localNames": {
+      "en": ["Common bean"],
+      "ht": ["Pwa", "Pwa blan", "Pwa nwa", "Pwa wouj"],
+      "fr": ["Haricot commun", "Haricot blanc", "Haricot rouge"]
+    }
+  },
+  {
+    "id": "cucurbita-moschata",
+    "name": {"en": "Tropical pumpkin", "ht": "Joumou / Jiroumon", "fr": "Courge musquée tropicale"},
+    "scientific": "Cucurbita moschata Duchesne",
+    "family": "Cucurbitaceae",
+    "local": ["Joumou", "Jiroumon"],
+    "region": {"en": "Haiti", "ht": "Ayiti", "fr": "Haïti"},
+    "uses": {
+      "en": ["Food", "Vegetable", "Crop"],
+      "ht": ["Manje", "Legim", "Rekòt"],
+      "fr": ["Alimentation", "Légume", "Culture"]
+    },
+    "description": {
+      "en": "Tropical pumpkin is a creeping vine cultivated for its edible fruits and seeds. Local names can vary between communities and varieties.",
+      "ht": "Joumou se yon plant ki trennen atè. Yo kiltive li pou fwi ak grenn li yo. Non li ka varye selon kominote ak varyete.",
+      "fr": "La courge musquée tropicale est une plante rampante cultivée pour ses fruits et ses graines comestibles. Son nom local varie selon les régions et les variétés."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cucurbita_moschata.jpg?width=1000",
+    "source": "Scientific name: Cucurbita moschata Duchesne; Haitian crop references.",
+    "localNames": {
+      "en": ["Tropical pumpkin", "Squash"],
+      "ht": ["Joumou", "Jiroumon"],
+      "fr": ["Courge musquée tropicale"]
+    }
+  },
+  {
+    "id": "colocasia-esculenta",
+    "name": {"en": "Taro", "ht": "Tayo bambou", "fr": "Taro / Colocase"},
+    "scientific": "Colocasia esculenta (L.) Schott",
+    "family": "Araceae",
+    "local": ["Tayo bambou", "Malanga 2 palles"],
+    "region": {"en": "Haiti", "ht": "Ayiti", "fr": "Haïti"},
+    "uses": {
+      "en": ["Food", "Root crop"],
+      "ht": ["Manje", "Rekòt rasin"],
+      "fr": ["Alimentation", "Culture de tubercules"]
+    },
+    "description": {
+      "en": "Taro is a tropical root crop grown for its starchy corm. Local names such as malanga may also refer to other root crops, so identification matters. The corm must be thoroughly cooked before eating.",
+      "ht": "Tayo se yon plant twopikal yo kiltive pou kòn li ki gen lanmidon. Non tankou malanga ka sèvi pou lòt rekòt rasin tou. Fòk yo byen kwit kòn nan anvan yo manje li.",
+      "fr": "Le taro est une plante tropicale cultivée pour son corme riche en amidon. Des noms comme malanga peuvent désigner d’autres plantes-racines. Le corme doit être bien cuit avant consommation."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Taro_%28Colocasia_esculenta%29.jpg?width=1000",
+    "source": "Scientific name: Colocasia esculenta (L.) Schott; Haitian plant-name references.",
+    "localNames": {
+      "en": ["Taro"],
+      "ht": ["Tayo bambou", "Malanga 2 palles"],
+      "fr": ["Taro", "Colocase"]
+    }
+  },
+  {
+    "id": "arachis-hypogaea",
+    "name": {"en": "Peanut", "ht": "Pistach", "fr": "Arachide / Cacahuète"},
+    "scientific": "Arachis hypogaea L.",
+    "family": "Fabaceae",
+    "local": ["Pistach"],
+    "region": {"en": "Haiti", "ht": "Ayiti", "fr": "Haïti"},
+    "uses": {
+      "en": ["Food", "Oilseed crop"],
+      "ht": ["Manje", "Rekòt oleajine"],
+      "fr": ["Alimentation", "Culture oléagineuse"]
+    },
+    "description": {
+      "en": "Peanut is a legume whose pods develop underground. It is cultivated for its edible seeds, which can be eaten roasted or used in cooking.",
+      "ht": "Pistach se yon plant nan fanmi legim yo, epi gous li yo devlope anba tè. Yo kiltive li pou grenn li yo, ki ka manje griye oswa sèvi nan manje.",
+      "fr": "L’arachide est une légumineuse dont les gous se développent sous terre. Elle est cultivée pour ses graines comestibles, consommées grillées ou utilisées en cuisine."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Arachis_hypogaea.jpg?width=1000",
+    "source": "Scientific name: Arachis hypogaea L.; Haitian plant-name references.",
+    "localNames": {
+      "en": ["Peanut", "Groundnut"],
+      "ht": ["Pistach"],
+      "fr": ["Arachide", "Cacahuète"]
+    }
   }
+
 
 ]
