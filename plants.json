@@ -1814,6 +1814,41 @@
       "ht": ["Kenèp"],
       "fr": ["Quenette"]
     }
+  },
+    {
+    "id": "passiflora-edulis",
+    "name": {
+      "en": "Passion fruit",
+      "ht": "Grenadya",
+      "fr": "Fruit de la passion"
+    },
+    "scientific": "Passiflora edulis Sims",
+    "family": "Passifloraceae",
+    "local": [
+      "Grenadya"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": ["Food", "Fruit", "Juice"],
+      "ht": ["Manje", "Fwi", "Ji"],
+      "fr": ["Alimentation", "Fruit", "Jus"]
+    },
+    "description": {
+      "en": "Passion fruit grows on a climbing vine. Its round or oval fruit contains juicy pulp and many seeds. The pulp is eaten fresh or used to prepare juice and other drinks.",
+      "ht": "Grenadya se yon fwi ki grandi sou yon plant k ap grenpe. Fwi a won oswa oval, epi li gen kaka ki gen anpil ji ak anpil grenn. Yo ka manje kaka a fre oswa sèvi avè l pou fè ji ak lòt bwason.",
+      "fr": "Le fruit de la passion pousse sur une plante grimpante. Son fruit, rond ou ovale, contient une pulpe juteuse et de nombreuses graines. La pulpe se consomme fraîche ou sert à préparer des jus et d’autres boissons."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Passiflora_edulis_fruit.jpg?width=1000",
+    "source": "Scientific name: Passiflora edulis Sims. Image link from Wikimedia Commons; verify image availability before publication.",
+    "localNames": {
+      "en": ["Passion fruit"],
+      "ht": ["Grenadya"],
+      "fr": ["Fruit de la passion"]
+    }
   }
 
 ]
