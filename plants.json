@@ -1919,6 +1919,43 @@
       "ht": ["Rakèt"],
       "fr": ["Figuier de Barbarie"]
     }
+  },
+  
+  {
+    "id": "kalanchoe-pinnata",
+    "name": {
+      "en": "Cathedral bells",
+      "ht": "Fèy Lougawou",
+      "fr": "Kalanchoé penné"
+    },
+    "scientific": "Kalanchoe pinnata (Lam.) Pers.",
+    "family": "Crassulaceae",
+    "local": [
+      "Fèy Lougawou"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": ["Ornamental", "Traditional knowledge"],
+      "ht": ["Dekoratif", "Konesans tradisyonèl"],
+      "fr": ["Ornemental", "Savoirs traditionnels"]
+    },
+    "description": {
+      "en": "Kalanchoe pinnata is a succulent plant with fleshy leaves and scalloped margins. The plant in this record was photographed in a backyard. Its identification should be confirmed before assigning more specific botanical details.",
+      "ht": "Kalanchoe pinnata se yon plant sukilan ki gen fèy charnèl ak rebò ki gen ti dan. Plant ki nan fich sa a te pran foto nan yon lakou. Li ta bon pou konfime idantifikasyon an anvan nou bay plis detay botanik.",
+      "fr": "Kalanchoe pinnata est une plante succulente aux feuilles charnues et aux bords crénelés. La plante de cette fiche a été photographiée dans un jardin. Son identification doit être confirmée avant d'ajouter des détails botaniques plus précis."
+    },
+    "image": "Fèy Lougawou image 1.jpg",
+    "source": "Original photograph taken by the Flora Ayiti project owner in a backyard in Florida, USA.",
+    "localNames": {
+      "en": ["Cathedral bells"],
+      "ht": ["Fèy Lougawou"],
+      "fr": ["Kalanchoé penné"]
+    }
   }
+
 
 ]
