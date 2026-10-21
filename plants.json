@@ -1989,6 +1989,52 @@
     "ht": ["Gaïac"],
     "fr": ["Gaïac"]
   }
+},
+
+{
+  "id": "anacardium-occidentale",
+  "name": {
+    "en": "Cashew tree",
+    "ht": "Nwa",
+    "fr": "Anacardier"
+  },
+  "scientific": "Anacardium occidentale L.",
+  "family": "Anacardiaceae",
+  "local": ["Nwa"],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": [
+      "Food",
+      "Roasted cashew nuts",
+      "Traditional cashew sauce"
+    ],
+    "ht": [
+      "Manje",
+      "Nwa griye",
+      "Sòs nwa"
+    ],
+    "fr": [
+      "Alimentation",
+      "Noix de cajou grillées",
+      "Sauce traditionnelle à base de noix de cajou"
+    ]
+  },
+  "description": {
+    "en": "In Haiti, cashews are mainly valued for consumption. The nuts are roasted and eaten throughout the country. In northern Haiti, cashews are also used to prepare a sauce, often served over rice.",
+    "ht": "Ann Ayiti, yo sèvi ak nwa sitou pou manje. Yo griye nwa yo epi yo manje yo nan tout peyi a. Nan nò peyi a, yo prepare yon sòs ak nwa tou, epi pi souvan yo sèvi sòs sa a sou diri.",
+    "fr": "En Haïti, la noix de cajou est principalement appréciée pour sa consommation. Les noix sont grillées et consommées dans tout le pays. Dans le nord d’Haïti, elles servent également à préparer une sauce, souvent servie avec du riz."
+  },
+  "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/A_cultivated_cashew_tree_%28Anacardium_occidentale%29_at_Pellikonda.JPG?width=1000",
+  "source": "Scientific name and family: Kew Plants of the World Online. Image: A cultivated cashew tree (Anacardium occidentale) at Pellikonda.JPG by Adityamadhav83, CC BY-SA 4.0, Wikimedia Commons.",
+  "localNames": {
+    "en": ["Cashew"],
+    "ht": ["Nwa"],
+    "fr": ["Anacardier", "Noix de cajou"]
+  }
 }
 
 
