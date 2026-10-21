@@ -1955,7 +1955,42 @@
       "ht": ["Fèy Lougawou"],
       "fr": ["Kalanchoé penné"]
     }
+  },
+  
+{
+  "id": "guaiacum-officinale",
+  "name": {
+    "en": "Lignum-vitae",
+    "ht": "Gaïac",
+    "fr": "Gaïac"
+  },
+  "scientific": "Guaiacum officinale L.",
+  "family": "Zygophyllaceae",
+  "local": ["Gaïac"],
+  "region": {
+    "en": "Caribbean, including Haiti",
+    "ht": "Karayib la, tankou Ayiti",
+    "fr": "Caraïbes, dont Haïti"
+  },
+  "uses": {
+    "en": ["Ornamental", "Hardwood"],
+    "ht": ["Dekoratif", "Bwa di"],
+    "fr": ["Ornemental", "Bois dur"]
+  },
+  "description": {
+    "en": "Gaïac is a Caribbean tree known for its exceptionally hard, heavy wood and blue to purple flowers. The species is subject to international trade controls for conservation. Protecting wild trees helps preserve this valuable native plant.",
+    "ht": "Gaïac se yon pyebwa Karayib la ki renome pou bwa li ki trè di e ki lou, ansanm ak flè ble rive vyolèt li yo. Espès sa a anba kontwòl komès entènasyonal pou rezon konsèvasyon. Pwoteje pyebwa sovaj yo ede prezève plant natif natal sa a.",
+    "fr": "Le gaïac est un arbre des Caraïbes connu pour son bois exceptionnellement dur et lourd ainsi que ses fleurs bleues à violettes. Cette espèce est soumise à des contrôles du commerce international à des fins de conservation. Protéger les arbres sauvages contribue à préserver cette plante indigène."
+  },
+  "image": "",
+  "source": "Scientific name, family and native range: Kew Science, Plants of the World Online. Wood characteristics: Flora of the Cayman Islands, Royal Botanic Gardens, Kew. Conservation: CITES Appendix II.",
+  "localNames": {
+    "en": ["Lignum-vitae"],
+    "ht": ["Gaïac"],
+    "fr": ["Gaïac"]
   }
+}
+
 
 
 ]
