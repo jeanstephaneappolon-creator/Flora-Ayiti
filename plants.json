@@ -2035,7 +2035,54 @@
     "ht": ["Nwa"],
     "fr": ["Anacardier", "Noix de cajou"]
   }
+},
+  
+{
+  "id": "sitwonel",
+  "name": {
+    "en": "Lemongrass",
+    "ht": "Sitwonèl",
+    "fr": "Citronnelle"
+  },
+  "scientific": "Cymbopogon citratus (DC.) Stapf",
+  "family": "Poaceae",
+  "local": ["Sitwonèl"],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": [
+      "Herbal infusions",
+      "Traditional household use",
+      "Food flavoring"
+    ],
+    "ht": [
+      "Enfizyon fèy",
+      "Itilizasyon tradisyonèl nan kay",
+      "Bay manje gou"
+    ],
+    "fr": [
+      "Infusions de feuilles",
+      "Usage traditionnel domestique",
+      "Aromatisation des aliments"
+    ]
+  },
+  "description": {
+    "en": "Lemongrass is a perennial aromatic grass with long, narrow leaves that have a lemon-like scent. In Haiti, it is known as sitwonèl and is traditionally used to prepare herbal infusions. Its fragrant leaves are also valued for their aroma.",
+    "ht": "Sitwonèl se yon zèb aromatik ki viv plizyè ane. Li gen fèy long ak etwat ki gen yon sant ki sanble ak sitwon. Ann Ayiti, yo sèvi ak fèy li pou prepare enfizyon epi yo apresye bon sant li.",
+    "fr": "La citronnelle est une graminée aromatique vivace aux longues feuilles étroites dégageant une odeur citronnée. En Haïti, elle est connue sous le nom de sitwonèl et ses feuilles sont traditionnellement utilisées pour préparer des infusions."
+  },
+  "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cymbopogon_citratus_lemongrass_plant_in_garden.jpg?width=1000",
+  "source": "Scientific name and family: Kew Plants of the World Online. Traditional uses: TRAMIL, Cymbopogon citratus. Image: Cymbopogon citratus lemongrass plant in garden.jpg, Wikimedia Commons, CC BY-SA 4.0.",
+  "localNames": {
+    "en": ["Lemongrass"],
+    "ht": ["Sitwonèl", "Sitwonel"],
+    "fr": ["Citronnelle"]
+  }
 }
+
 
 
 ]
