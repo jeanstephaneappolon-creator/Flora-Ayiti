@@ -2081,7 +2081,111 @@
     "ht": ["Sitwonèl", "Sitwonel"],
     "fr": ["Citronnelle"]
   }
+},
+  
+{
+  "id": "berejen",
+  "name": {
+    "en": "Eggplant",
+    "ht": "Berejèn",
+    "fr": "Aubergine"
+  },
+  "scientific": "Solanum melongena L.",
+  "family": "Solanaceae",
+  "local": ["Berejèn"],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": ["Food", "Cooking"],
+    "ht": ["Manje", "Kwit manje"],
+    "fr": ["Alimentation", "Cuisine"]
+  },
+  "description": {
+    "en": "Eggplant is a cultivated plant grown for its edible fruit, which is commonly prepared as a vegetable in many dishes.",
+    "ht": "Berejèn se yon plant yo kiltive pou fwi li, yo prepare kòm legim nan divès kalite manje.",
+    "fr": "L’aubergine est une plante cultivée pour son fruit comestible, utilisé comme légume dans de nombreux plats."
+  },
+  "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Solanum_melongena_ja01.jpg?width=1000",
+  "source": "Scientific name and family: Kew Plants of the World Online. Image: Wikimedia Commons.",
+  "localNames": {
+    "en": ["Eggplant", "Aubergine"],
+    "ht": ["Berejèn"],
+    "fr": ["Aubergine"]
+  }
+},
+  
+{
+  "id": "chou",
+  "name": {
+    "en": "Cabbage",
+    "ht": "Chou",
+    "fr": "Chou"
+  },
+  "scientific": "Brassica oleracea L. (Capitata Group)",
+  "family": "Brassicaceae",
+  "local": ["Chou"],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": ["Food", "Cooking"],
+    "ht": ["Manje", "Kwit manje"],
+    "fr": ["Alimentation", "Cuisine"]
+  },
+  "description": {
+    "en": "Cabbage is a cultivated leafy vegetable that forms a compact head of overlapping leaves. It is eaten raw or cooked.",
+    "ht": "Chou se yon legim fèy yo kiltive. Fèy li yo fòme yon tèt sere, epi yo ka manje l kri oswa kwit.",
+    "fr": "Le chou est un légume cultivé dont les feuilles se regroupent en une pomme compacte. Il se consomme cru ou cuit."
+  },
+  "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cabbage_and_cross_section_on_white.jpg?width=1000",
+  "source": "Scientific name and family: Kew Plants of the World Online. Image: Wikimedia Commons.",
+  "localNames": {
+    "en": ["Cabbage"],
+    "ht": ["Chou"],
+    "fr": ["Chou"]
+  }
+},
+  
+{
+  "id": "kawot",
+  "name": {
+    "en": "Carrot",
+    "ht": "Kawòt",
+    "fr": "Carotte"
+  },
+  "scientific": "Daucus carota L. subsp. sativus",
+  "family": "Apiaceae",
+  "local": ["Kawòt"],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": ["Food", "Cooking"],
+    "ht": ["Manje", "Kwit manje"],
+    "fr": ["Alimentation", "Cuisine"]
+  },
+  "description": {
+    "en": "Carrot is a cultivated root vegetable. Its usually orange root is eaten raw or cooked, and its leafy tops grow above the soil.",
+    "ht": "Kawòt se yon legim rasin yo kiltive. Rasin li, ki souvan gen koulè zoranj, ka manje kri oswa kwit. Fèy li yo grandi anlè tè a.",
+    "fr": "La carotte est un légume-racine cultivé. Sa racine, généralement orange, se consomme crue ou cuite, tandis que ses feuilles poussent au-dessus du sol."
+  },
+  "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carrots_of_many_colors.jpg?width=1000",
+  "source": "Scientific name and family: Kew Plants of the World Online. Image: Wikimedia Commons.",
+  "localNames": {
+    "en": ["Carrot"],
+    "ht": ["Kawòt"],
+    "fr": ["Carotte"]
+  }
 }
+
+
 
 
 
