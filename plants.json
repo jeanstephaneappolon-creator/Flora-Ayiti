@@ -36,7 +36,7 @@
     },
     "description": {
       "en": "Mango can be eaten ripe and processed into mango juice, dried slices, pulp and pickles. Haiti has different mango varieties, including Mango doudous, Mango Baptiste, Mango fil blan or Mango Madan Blan, and Mango Jan Mari. Madan Francique is described in the document as the most exported and widespread, especially in Gros-Morne.",
-      "ht": "Mango ka manje lè li mi, epi yo ka transfòme li an ji mango, tranch mango seche, kaka mango ak mango marinen. Gen plizyè varyete mango ann Ayiti, tankou mango doudous, mango Baptiste, mango fil blan oswa mango Madan Blan, ak mango Jan Mari. Dapre dokiman an, Madan Francique se varyete yo ekspòte plis la epi li gaye anpil, sitou nan Gros-Morne.",
+      "ht": "Mango ka manje lè li mi, epi yo ka transfòme li an ji mango, tranch mango seche ak lòt pwodui alimantè. Gen plizyè varyete mango an Ayiti, tankou mango doudous, mango Baptiste, mango fil blan oswa mango Madan Blan, ak mango Jan Mari. Dapre dokiman an, Madan Francique se varyete yo ekspòte plis la epi li gaye anpil, sitou nan Gros-Morne.",
       "fr": "La mangue peut être consommée mûre et transformée en jus, en tranches séchées, en pulpe ou en mangues marinées. Haïti possède différentes variétés, notamment Mango doudous, Mango Baptiste, Mango fil blan ou Mango Madan Blan, et Mango Jan Mari. Selon le document, la variété Madan Francique est la plus exportée et l’une des plus répandues, particulièrement à Gros-Morne."
     },
     "image": "assets/mango-word.jpg",
@@ -86,9 +86,9 @@
       ]
     },
     "description": {
-      "en": "Sweet potatoes are commonly used for consumption in Haiti. The tuberous roots are boiled or fried, and the document also notes a special Haitian Creole dessert prepared with sweet potatoes.",
-      "ht": "Patat se yon manje yo konsome anpil ann Ayiti. Yo bouyi oswa fri rasin patat la; dokiman an mansyone tou yon desè ayisyen espesyal yo prepare ak patat.",
-      "fr": "La patate douce est couramment consommée en Haïti. Ses racines tubéreuses sont bouillies ou frites, et le document mentionne également un dessert haïtien particulier préparé avec de la patate douce."
+      "en": "Sweet potatoes are commonly used for consumption in Haiti. The tuberous roots are boiled or fried, and they also prepare a special Haitian dessert from it called pen patat (Sweet potatoes bread) .",
+      "ht": "Patat se yon manje yo konsome anpil ann Ayiti. Yo bouyi oswa fri rasin patat la; yo konn prepare tou avèk li yon desè ayisyen espesyal ki rele pen patat.",
+      "fr": "La patate douce est couramment consommée en Haïti. Ses racines tubéreuses sont bouillies ou frites; et on en prépare également un dessert spécial appelé pen patat (Pain patate)."
     },
     "image": "assets/sweet-potato-word.png",
     "source": "Image from the current Flora Ayiti Word document (user-provided).",
@@ -139,9 +139,9 @@
       ]
     },
     "description": {
-      "en": "The document distinguishes sweet and bitter cassava. Sweet cassava is commonly used for direct consumption. Bitter cassava contains cyanogenic compounds and is processed rather than eaten directly; it is used for cassave, flour and moussa.",
-      "ht": "Dokiman an fè diferans ant manyòk dous ak manyòk anmè. Yo konn manje manyòk dous dirèkteman. Manyòk anmè gen konpoze ki ka lage cyanure; se poutèt sa yo dwe trete li kòmsadwa olye yo manje li kri oswa san preparasyon apwopriye. Yo sèvi avè l pou fè kasav, farin ak moussa.",
-      "fr": "Le document distingue le manioc doux du manioc amer. Le manioc doux est couramment consommé directement. Le manioc amer contient des composés cyanogènes et doit être transformé correctement plutôt que consommé cru ou sans préparation appropriée. Il sert notamment à produire la cassave, la farine et la moussa."
+      "en": "There are sweet and bitter cassava. Sweet cassava is commonly used for direct consumption. Bitter cassava contains cyanogenic compounds and is processed rather than eaten directly; it is used for cassave, flour and moussa.",
+      "ht": "Nou distenge 2 tip de manyòk: manyòk dous ak manyòk anmè. Yo konn manje manyòk dous dirèkteman. Manyòk anmè gen konpoze chimik ki rele cyanure d'hydrogène ki se yon pwazon; se poutèt sa yo dwe trete li kòmsadwa olye yo manje li kri oswa san preparasyon apwopriye. Yo sèvi avè l pou fè kasav, farin ak moussa.",
+      "fr": "On distingue le manioc doux du manioc amer. Le manioc doux est couramment consommé directement. Le manioc amer contient des composés cyanogènes et doit être transformé correctement plutôt que consommé cru ou sans préparation appropriée. Il sert notamment à produire la cassave, la farine et la moussa."
     },
     "image": "assets/cassava-word.jpg",
     "source": "Image from the current Flora Ayiti Word document (user-provided).",
