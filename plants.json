@@ -1,118 +1,537 @@
 [
   {
-  "mangifera-indica-l": {
+    "id": "mangifera-indica-l",
+    "name": {
+      "en": "Mango",
+      "ht": "Mango, Mang",
+      "fr": "Mangue"
+    },
+    "scientific": "Mangifera indica L.",
+    "family": "Anacardiaceae",
+    "local": [
+      "Mango",
+      "Mang"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Juice",
+        "Processing"
+      ],
+      "ht": [
+        "Manje",
+        "Ji",
+        "Transfòmasyon"
+      ],
+      "fr": [
+        "Alimentation",
+        "Jus",
+        "Transformation"
+      ]
+    },
     "description": {
-      "en": "Mango is eaten fresh when ripe and can be processed into juice, dried slices and other food products. Haiti has several mango varieties, including Mango Doudous, Mango Baptiste, Mango Fil Blan (also called Mango Madan Blan) and Mango Jan Mari.",
-      "ht": "Yo manje mango lè li mi, epi yo ka transfòme li an ji, tranch mango seche ak lòt pwodui alimantè. Gen plizyè varyete mango an Ayiti, tankou Mango Doudous, Mango Baptiste, Mango Fil Blan (yo rele l Mango Madan Blan tou) ak Mango Jan Mari.",
-      "fr": "La mangue se consomme fraîche lorsqu’elle est mûre et peut être transformée en jus, en tranches séchées et en d’autres produits alimentaires. Haïti possède plusieurs variétés de mangues, notamment Mango Doudous, Mango Baptiste, Mango Fil Blan (également appelé Mango Madan Blan) et Mango Jan Mari."
+      "en": "Mango can be eaten ripe and processed into mango juice, dried slices, pulp and pickles. Haiti has different mango varieties, including Mango doudous, Mango Baptiste, Mango fil blan or Mango Madan Blan, and Mango Jan Mari. Madan Francique is described in the document as the most exported and widespread, especially in Gros-Morne.",
+      "ht": "Mango ka manje lè li mi, epi yo ka transfòme li an ji mango, tranch mango seche ak lòt pwodui alimantè. Gen plizyè varyete mango an Ayiti, tankou mango doudous, mango Baptiste, mango fil blan oswa mango Madan Blan, ak mango Jan Mari. Dapre dokiman an, Madan Francique se varyete yo ekspòte plis la epi li gaye anpil, sitou nan Gros-Morne.",
+      "fr": "La mangue peut être consommée mûre et transformée en jus, en tranches séchées, en pulpe ou en mangues marinées. Haïti possède différentes variétés, notamment Mango doudous, Mango Baptiste, Mango fil blan ou Mango Madan Blan, et Mango Jan Mari. Selon le document, la variété Madan Francique est la plus exportée et l’une des plus répandues, particulièrement à Gros-Morne."
+    },
+    "image": "assets/mango-word.jpg",
+    "source": "Image from the current Flora Ayiti Word document (user-provided).",
+    "localNames": {
+      "en": [
+        "Mango"
+      ],
+      "ht": [
+        "Mango",
+        "Mang"
+      ],
+      "fr": [
+        "Mangue"
+      ]
     }
   },
-  "ipomoea-batatas-l-lam": {
+  {
+    "id": "ipomoea-batatas-l-lam",
+    "name": {
+      "en": "Sweet potato",
+      "ht": "Patat",
+      "fr": "Patate douce"
+    },
+    "scientific": "Ipomoea batatas (L.) Lam.",
+    "family": "Convolvulaceae",
+    "local": [
+      "Patat"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Crop"
+      ],
+      "ht": [
+        "Manje",
+        "Rekòt"
+      ],
+      "fr": [
+        "Alimentation",
+        "Culture"
+      ]
+    },
     "description": {
-      "en": "Sweet potato is an important food crop in Haiti. Its tuberous roots are commonly boiled or fried and used in various food preparations.",
-      "ht": "Patat se yon rekòt alimantè enpòtan an Ayiti. Yo konn bouyi oswa fri rasin patat la, epi yo sèvi avè l nan divès preparasyon manje.",
-      "fr": "La patate douce est une culture alimentaire importante en Haïti. Ses racines tubéreuses sont souvent bouillies ou frites et utilisées dans diverses préparations culinaires."
+      "en": "Sweet potatoes are commonly used for consumption in Haiti. The tuberous roots are boiled or fried, and they also prepare a special Haitian dessert from it called pen patat (Sweet potatoes bread) .",
+      "ht": "Patat se yon manje yo konsome anpil ann Ayiti. Yo bouyi oswa fri rasin patat la; yo konn prepare tou avèk li yon desè ayisyen espesyal ki rele pen patat.",
+      "fr": "La patate douce est couramment consommée en Haïti. Ses racines tubéreuses sont bouillies ou frites; et on en prépare également un dessert spécial appelé pen patat (Pain patate)."
+    },
+    "image": "assets/sweet-potato-word.png",
+    "source": "Image from the current Flora Ayiti Word document (user-provided).",
+    "localNames": {
+      "en": [
+        "Sweet potato"
+      ],
+      "ht": [
+        "Patat"
+      ],
+      "fr": [
+        "Patate douce"
+      ]
     }
   },
-  "manihot-esculenta": {
+  {
+    "id": "manihot-esculenta",
+    "name": {
+      "en": "Cassava",
+      "ht": "Manyòk",
+      "fr": "Manioc"
+    },
+    "scientific": "Manihot esculenta",
+    "family": "Euphorbiaceae",
+    "local": [
+      "Manyòk"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Cassava bread",
+        "Flour"
+      ],
+      "ht": [
+        "Manje",
+        "Kasav",
+        "Farin"
+      ],
+      "fr": [
+        "Alimentation",
+        "Cassave",
+        "Farine"
+      ]
+    },
     "description": {
-      "en": "Cassava is an important food crop in Haiti. There are sweet and bitter varieties. Bitter cassava contains naturally occurring cyanogenic compounds and must be properly processed before consumption. Cassava is used to prepare cassava bread (cassave) and flour. From this flour, people also prepare mousa and labouyi, traditional Haitian foods.",
-      "ht": "Manyòk se yon rekòt alimantè enpòtan an Ayiti. Gen manyòk dous ak manyòk anmè. Manyòk anmè gen konpoze natirèl ki ka lage cyanure; se poutèt sa li dwe trete kòmsadwa anvan yo manje l. Yo sèvi ak manyòk pou fè kasav ak farin. Apati farin sa a, yo konn prepare mousa oswa labouyi.",
-      "fr": "Le manioc est une culture alimentaire importante en Haïti. Il existe des variétés douces et amères. Le manioc amer contient naturellement des composés cyanogènes et doit être correctement transformé avant consommation. Le manioc sert à préparer la cassave et la farine. Cette farine permet également de préparer la mousa et le labouyi, des préparations traditionnelles haïtiennes."
+      "en": "There are sweet and bitter cassava. Sweet cassava is commonly used for direct consumption. Bitter cassava contains cyanogenic compounds and is processed rather than eaten directly; it is used for cassave, flour and moussa.",
+      "ht": "Nou distenge 2 tip de manyòk: manyòk dous ak manyòk anmè. Yo konn manje manyòk dous dirèkteman. Manyòk anmè gen konpoze chimik ki rele cyanure d'hydrogène ki se yon pwazon; se poutèt sa yo dwe trete li kòmsadwa olye yo manje li kri oswa san preparasyon apwopriye. Yo sèvi avè l pou fè kasav, farin ak moussa.",
+      "fr": "On distingue le manioc doux du manioc amer. Le manioc doux est couramment consommé directement. Le manioc amer contient des composés cyanogènes et doit être transformé correctement plutôt que consommé cru ou sans préparation appropriée. Il sert notamment à produire la cassave, la farine et la moussa."
+    },
+    "image": "assets/cassava-word.jpg",
+    "source": "Image from the current Flora Ayiti Word document (user-provided).",
+    "localNames": {
+      "en": [
+        "Cassava"
+      ],
+      "ht": [
+        "Manyòk"
+      ],
+      "fr": [
+        "Manioc"
+      ]
     }
   },
-  "musa-x-paradisiaca-l": {
+  {
+    "id": "musa-x-paradisiaca-l",
+    "name": {
+      "en": "Plantain",
+      "ht": "Bannann",
+      "fr": "Banane plantain"
+    },
+    "scientific": "Musa × paradisiaca L.",
+    "family": "Musaceae",
+    "local": [
+      "Bannann"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Crop",
+        "Markets"
+      ],
+      "ht": [
+        "Manje",
+        "Rekòt",
+        "Mache"
+      ],
+      "fr": [
+        "Alimentation",
+        "Culture",
+        "Marchés"
+      ]
+    },
     "description": {
-      "en": "Plantain is an important food crop in Haiti. Green plantains are commonly boiled or fried and can be prepared as bannann peze. Ripe plantains are also used in various dishes.",
-      "ht": "Bannann se yon rekòt alimantè enpòtan an Ayiti. Yo konn bouyi oswa fri bannann vèt, epi yo ka prepare bannann peze avè l. Yo sèvi ak bannann mi tou nan divès plat.",
-      "fr": "La banane plantain est une culture alimentaire importante en Haïti. Les fruits verts sont souvent bouillis ou frits et peuvent être préparés en bannann peze. Les fruits mûrs sont également utilisés dans différents plats."
+      "en": "Plantain is an important food crop in Haiti and is commonly grown in home gardens, small farms and mixed cropping systems. Green plantain may be boiled, fried or prepared as bannann peze; ripe fruit is also used in several dishes.",
+      "ht": "Bannann plantain se yon rekòt manje enpòtan ann Ayiti. Yo grandi li souvan nan lakou, nan ti jaden ak nan sistèm kote yo melanje plizyè kilti. Yo ka bouyi oswa fri bannann vèt, oswa prepare bannann peze avè l; bannann mi sèvi tou nan plizyè plat.",
+      "fr": "La banane plantain est une culture alimentaire importante en Haïti. Elle est souvent cultivée dans les jardins familiaux, les petites exploitations et les systèmes de cultures associées. Les plantains verts peuvent être bouillis, frits ou préparés en bannann peze; les fruits mûrs entrent également dans plusieurs plats."
+    },
+    
+
+
+"image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bunch_of_Plantain.jpg?width=1000",   
+"source": "Wikimedia Commons: A bunch of Plantain.jpg by Andikan Efiok Eduok; CC0 1.0. https://commons.wikimedia.org/wiki/File:A_bunch_of_Plantain.jpg",
+    "localNames": {
+      "en": [
+        "Plantain"
+      ],
+      "ht": [
+        "Bannann"
+      ],
+      "fr": [
+        "Banane plantain"
+      ]
     }
   },
-  "cocos-nucifera-l": {
+  {
+    "id": "cocos-nucifera-l",
     "name": {
       "en": "Coconut",
       "ht": "Kokoye",
-      "fr": "Cocotier"
+      "fr": "Cocotier / Noix de coco"
     },
-    "localNames": {
-      "en": ["Coconut"],
-      "ht": ["Kokoye"],
-      "fr": ["Cocotier"]
+    "scientific": "Cocos nucifera L.",
+    "family": "Arecaceae",
+    "local": [
+      "Kokoye"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Coconut water",
+        "Coconut milk",
+        "Oil",
+        "Crafts"
+      ],
+      "ht": [
+        "Manje",
+        "Dlo kokoye",
+        "Lèt kokoye",
+        "Lwil",
+        "Atizana"
+      ],
+      "fr": [
+        "Alimentation",
+        "Eau de coco",
+        "Lait de coco",
+        "Huile",
+        "Artisanat"
+      ]
     },
     "description": {
       "en": "Coconut is a familiar palm in Haiti, especially in tropical and coastal environments. The fruit provides coconut water and edible flesh; mature coconut is used in cooking, baking, desserts, coconut milk and oil. Shells and leaves can also be used in household activities and crafts.",
-      "ht": "Pye kokoye se yon pye palmis yo byen konnen an Ayiti, sitou nan zòn twopikal ak bò lanmè. Fwi a bay dlo kokoye ak chè kokoye yo ka manje. Yo sèvi ak kokoye mi nan manje, gato, desè, lèt kokoye ak lwil. Koki yo ak fèy yo ka sèvi tou nan travay kay ak atizana.",
+      "ht": "Pye kokoye se yon pye palmis yo byen konnen ann Ayiti, sitou nan zòn twopikal ak bò lanmè. Fwi a bay dlo kokoye ak chè kokoye yo ka manje. Yo sèvi ak kokoye mi nan manje, gato, desè, lèt kokoye ak lwil. Koki yo ak fèy yo ka sèvi tou nan travay kay ak atizana.",
       "fr": "Le cocotier est un palmier familier en Haïti, surtout dans les milieux tropicaux et côtiers. Son fruit fournit l’eau de coco et une chair comestible. La noix mûre est utilisée en cuisine, en pâtisserie, dans les desserts, ainsi que pour préparer du lait et de l’huile de coco. Les coques et les feuilles servent aussi à divers usages domestiques et artisanaux."
+    },
+"image": "https://commons.wikimedia.org/wiki/Special:FilePath/Cocos_nucifera_%28coconut_palm_tree%29_%28Sanibel_Island%2C_Florida%2C_USA%29_1_%2823632928554%29.jpg?width=1000",
+"source": "Wikimedia Commons: Cocos nucifera (coconut palm tree) (Sanibel Island, Florida, USA) 1 by James St. John; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Cocos_nucifera_(coconut_palm_tree)_(Sanibel_Island,_Florida,_USA)_1_(23632928554).jpg",
+    "localNames": {
+      "en": [
+        "Coconut"
+      ],
+      "ht": [
+        "Kokoye"
+      ],
+      "fr": [
+        "Cocotier / Noix de coco"
+      ]
     }
-  }
-},
+  },
   {
-  "carica-papaya-l": {
+    "id": "carica-papaya-l",
     "name": {
       "en": "Papaya",
       "ht": "Papay",
-      "fr": "Papayer"
+      "fr": "Papaye"
     },
+    "scientific": "Carica papaya L.",
+    "family": "Caricaceae",
+    "local": [
+      "Papay"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Juice"
+      ],
+      "ht": [
+        "Manje",
+        "Ji"
+      ],
+      "fr": [
+        "Alimentation",
+        "Jus"
+      ]
+    },
+    "description": {
+      "en": "Papaya is a small tree-like tropical plant with large lobed leaves and fleshy fruits that become yellow or orange as they mature. In Haiti it is valued mainly for its edible fruit, which can be eaten fresh or processed into juice and other foods. Both ripe and unripe fruits are used in different culinary preparations.",
+      "ht": "Papay se yon plant twopikal ki sanble ak yon ti pyebwa, ak gwo fèy ki gen plizyè lob ak fwi ki vin jòn oswa zoranj lè yo mi. Ann Ayiti, yo apresye li sitou pou fwi yo, yo ka manje fre oswa transfòme an ji ak lòt manje. Yo sèvi ak papay mi ak papay vèt nan diferan preparasyon manje.",
+      "fr": "Le papayer est une plante tropicale à port arborescent, avec de grandes feuilles lobées et des fruits qui deviennent jaunes ou orangés à maturité. En Haïti, il est surtout apprécié pour ses fruits, consommés frais ou transformés en jus et en d’autres préparations. Les fruits mûrs comme les fruits verts sont utilisés en cuisine."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Carica.papaya.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; TRAMIL.",
     "localNames": {
-      "en": ["Papaya"],
-      "ht": ["Papay"],
-      "fr": ["Papayer"]
-    },
-    "description": {
-      "en": "Papaya is a large herbaceous tropical plant with a tree-like appearance, broad lobed leaves and fleshy fruits that turn yellow or orange as they ripen. In Haiti, it is valued mainly for its edible fruits, which can be eaten fresh or processed into juice and other food products. Both ripe and unripe papayas are used in different culinary preparations.",
-      "ht": "Papay se yon gwo plant twopikal ki gen aparans yon ti pyebwa, ak gwo fèy ki gen plizyè lob. Fwi li yo gen chè epi yo vin jòn abriko lè yo mi. An Ayiti, yo apresye papay sitou pou fwi li yo, yo ka manje yo fre oswa transfòme yo an ji ak lòt pwodui alimantè. Yo sèvi ak papay mi ak papay vèt nan divès preparasyon manje.",
-      "fr": "Le papayer est une grande plante herbacée tropicale à port arborescent, avec de larges feuilles lobées et des fruits charnus qui deviennent jaunes ou orangés à maturité. En Haïti, il est surtout apprécié pour ses fruits comestibles, consommés frais ou transformés en jus et en d’autres produits alimentaires. Les fruits mûrs comme les fruits verts sont utilisés dans différentes préparations culinaires."
+      "en": [
+        "Papaya"
+      ],
+      "ht": [
+        "Papay"
+      ],
+      "fr": [
+        "Papaye"
+      ]
     }
   },
-  "moringa-oleifera-lam": {
-    "description": {
-      "en": "Moringa is a small, fast-growing tree valued for its leaves, flowers, pods and seeds. It grows well in warm climates and can tolerate relatively dry conditions once established. In Haiti, it is known by local names such as Doliv and Morenga. Its leaves are used for human consumption and also as feed for livestock, particularly goats. It is also used in some traditional practices.",
-      "ht": "Moringa se yon ti pyebwa ki grandi rapid. Yo apresye li pou fèy, flè, gous ak grenn li yo. Li grandi byen nan klima cho epi, lè li fin pran, li ka sipòte kondisyon ki relativman sèk. An Ayiti, gen moun ki rele li Doliv oswa Morenga. Yo sèvi ak fèy li yo pou manje, men yo sèvi avè yo tou pou bay bèt manje, sitou kabrit. Yo itilize plant sa a tou nan kèk pratik tradisyonèl.",
-      "fr": "Le moringa est un petit arbre à croissance rapide, apprécié pour ses feuilles, ses fleurs, ses gous et ses graines. Il pousse bien sous les climats chauds et peut tolérer des conditions relativement sèches une fois établi. En Haïti, il est connu sous des noms locaux tels que Doliv et Morenga. Ses feuilles sont utilisées dans l’alimentation humaine, mais aussi comme fourrage pour les animaux d’élevage, notamment les chèvres. La plante est également utilisée dans certaines pratiques traditionnelles."
-    }
-  },
-  "catalpa-longissima-jacq-dum-cours": {
+  {
+    "id": "moringa-oleifera-lam",
     "name": {
-      "en": "Haitian catalpa",
-      "ht": "Chenn / Bwa chenn",
-      "fr": "Catalpa d’Haïti"
+      "en": "Moringa",
+      "ht": "Doliv / Morenga",
+      "fr": "Moringa / Arbre de vie"
     },
-    "localNames": {
-      "en": ["Haitian catalpa"],
-      "ht": ["Chenn", "Bwa chenn"],
-      "fr": ["Catalpa d’Haïti"]
+    "scientific": "Moringa oleifera Lam.",
+    "family": "Moringaceae",
+    "local": [
+      "Doliv",
+      "Morenga"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Traditional knowledge"
+      ],
+      "ht": [
+        "Manje",
+        "Konesans tradisyonèl"
+      ],
+      "fr": [
+        "Alimentation",
+        "Savoirs traditionnels"
+      ]
     },
     "description": {
-      "en": "Haitian catalpa is a tree species identified in Haiti as Catalpa longissima, belonging to the Bignoniaceae family. It is locally known as Chenn or Bwa chenn. Despite the use of the name Chenn, it is not a true oak and does not belong to the genus Quercus. Its scientific name helps distinguish it from other trees that may have similar common names in different countries.",
-      "ht": "Catalpa d’Haïti se yon espès pyebwa yo idantifye kòm Catalpa longissima, ki fè pati fanmi Bignoniaceae. An Ayiti, yo rele li Chenn oswa Bwa chenn. Malgre yo sèvi ak non Chenn pou li, se pa yon vrè pye chenn nan genus Quercus. Non syantifik li pèmèt nou fè diferans ant espès sa a ak lòt pyebwa ki ka gen non komen ki sanble nan diferan peyi.",
-      "fr": "Le catalpa d’Haïti est une espèce d’arbre identifiée sous le nom scientifique Catalpa longissima, appartenant à la famille des Bignoniaceae. En Haïti, il est connu sous les noms locaux Chenn ou Bwa chenn. Malgré l’utilisation du nom Chenn, il ne s’agit pas d’un véritable chêne et il n’appartient pas au genre Quercus. Son nom scientifique permet de le distinguer d’autres arbres pouvant porter des noms communs similaires dans différents pays."
+      "en": "Moringa is a small tree valued for its leaves, flowers, pods and seeds. It grows well in warm conditions and can tolerate relatively dry environments once established. The document records traditional uses and notes that these should be presented as documented cultural knowledge rather than as medically proven treatments.",
+      "ht": "Moringa se yon ti pyebwa yo apresye pou fèy, flè, gous ak grenn li yo. Li grandi byen nan klima cho epi, lè li fin pran, li ka sipòte kondisyon ki relativman sèk. Dokiman an rapòte kèk itilizasyon tradisyonèl; yo dwe prezante yo kòm konesans kiltirèl ki dokimante, pa kòm tretman medikal ki pwouve.",
+      "fr": "Le moringa est un petit arbre apprécié pour ses feuilles, ses fleurs, ses gous et ses graines. Il pousse bien sous les climats chauds et peut tolérer des conditions relativement sèches une fois établi. Le document rapporte des usages traditionnels, qui doivent être présentés comme des savoirs culturels documentés et non comme des traitements médicaux scientifiquement prouvés."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Moringa%20oleifera%20plant.jpg?width=1000",
+    "source": "Current Flora Ayiti Word document; Kew Plants of the World Online; Haitian ethnobotanical survey.",
+    "localNames": {
+      "en": [
+        "Moringa"
+      ],
+      "ht": [
+        "Doliv",
+        "Morenga"
+      ],
+      "fr": [
+        "Moringa / Arbre de vie"
+      ]
     }
   },
-  "cajanus-cajan-l-huth": {
+  {
+    "id": "catalpa-longissima-jacq-dum-cours",
+    "name": {
+      "en": "Haitian oak / Haitian catalpa",
+      "ht": "Chenn / Bwa chenn",
+      "fr": "Chêne haïtien / Bois chêne"
+    },
+    "scientific": "Catalpa longissima (Jacq.) Dum. Cours.",
+    "family": "Bignoniaceae",
+    "local": [
+      "Chenn",
+      "Bwa chenn"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Timber",
+        "Traditional/local knowledge"
+      ],
+      "ht": [
+        "Bwa",
+        "Konesans tradisyonèl/lokal"
+      ],
+      "fr": [
+        "Bois d’œuvre",
+        "Savoirs traditionnels et locaux"
+      ]
+    },
+    "description": {
+      "en": "The Haitian tree commonly called Haitian oak or chenn is identified in the current document as Catalpa longissima rather than a species of Quercus. The common name can therefore be misleading; the tree belongs to Bignoniaceae. Local observations and photographs should accompany the entry where possible.",
+      "ht": "Pye bwa ayisyen yo rele chenn oswa chenn ayisyen nan dokiman an idantifye kòm Catalpa longissima, olye li ta yon espès Quercus. Se poutèt sa non komen an ka bay konfizyon; pye bwa sa a fè pati fanmi Bignoniaceae. Lè sa posib, li ta bon pou mete obsèvasyon lokal ak foto bò kote fich la.",
+      "fr": "L’arbre haïtien couramment appelé chenn ou chêne haïtien est identifié dans le document comme Catalpa longissima, et non comme une espèce du genre Quercus. Le nom vernaculaire peut donc prêter à confusion; cet arbre appartient à la famille des Bignoniaceae. Des observations locales et des photographies devraient accompagner la fiche lorsque cela est possible."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Catalpa_longissima_6zz.jpg?width=1200",
+    "source": "Wikimedia Commons: Catalpa longissima 6zz.jpg by David J. Stang; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Catalpa_longissima_6zz.jpg",
+    "localNames": {
+      "en": [
+        "Haitian oak / Haitian catalpa"
+      ],
+      "ht": [
+        "Chenn",
+        "Bwa chenn"
+      ],
+      "fr": [
+        "Chêne haïtien / Bois chêne"
+      ]
+    }
+  },
+  {
+    "id": "cajanus-cajan-l-huth",
     "name": {
       "en": "Pigeon pea",
       "ht": "Pwa kongo",
-      "fr": "Pois d’Angole"
+      "fr": "Pois pigeon"
     },
-    "localNames": {
-      "en": ["Pigeon pea"],
-      "ht": ["Pwa kongo"],
-      "fr": ["Pois d’Angole"]
+    "scientific": "Cajanus cajan (L.) Huth",
+    "family": "Fabaceae",
+    "local": [
+      "Pwa kongo"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Crop",
+        "Soil fertility"
+      ],
+      "ht": [
+        "Manje",
+        "Rekòt",
+        "Fètilite tè a"
+      ],
+      "fr": [
+        "Alimentation",
+        "Culture",
+        "Fertilité des sols"
+      ]
     },
     "description": {
-      "en": "Pigeon pea is a leguminous shrub cultivated in Haiti for its edible seeds. The peas can be eaten fresh or dried and are commonly used in traditional meals. As a legume, the plant can also contribute to soil fertility through its association with nitrogen-fixing bacteria.",
-      "ht": "Pwa kongo se yon ti pyebwa nan fanmi pwa yo, yo kiltive li an Ayiti pou grenn li yo ki ka manje. Yo ka manje pwa yo fre oswa seche, epi yo sèvi avè yo nan divès manje tradisyonèl. Kòm yon plant nan fanmi pwa yo, li ka kontribye nan fètilite tè a grasa relasyon li genyen ak bakteri ki ede fikse azòt.",
-      "fr": "Le pois d’Angole est un arbuste légumineux cultivé en Haïti pour ses graines comestibles. Les pois peuvent être consommés frais ou secs et sont souvent utilisés dans les plats traditionnels. Comme d’autres légumineuses, cette plante peut contribuer à la fertilité des sols grâce à son association avec des bactéries fixatrices d’azote."
+      "en": "Pigeon pea is a leguminous shrub cultivated in Haiti for its edible seeds. The peas may be eaten fresh or dried and prepared in traditional meals. The document also notes its agricultural value as a legume associated with biological nitrogen fixation.",
+      "ht": "Pwa kongo se yon ti pyebwa nan fanmi legim yo kiltive ann Ayiti pou grenn li yo ki ka manje. Yo ka manje pwa yo fre oswa seche, epi prepare yo nan manje tradisyonèl. Dokiman an note tou enpòtans li nan agrikilti, paske plant sa a ka ede fikse azòt nan tè a.",
+      "fr": "Le pois d’Angole est un arbuste légumineux cultivé en Haïti pour ses graines comestibles. Les pois peuvent être consommés frais ou secs et préparés dans des plats traditionnels. Le document souligne aussi son intérêt agronomique, car cette légumineuse contribue à la fixation biologique de l’azote."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cajanus_cajan_plant.jpg?width=1200",
+    "source": "Wikimedia Commons: Cajanus cajan plant.jpg — Vinayaraj, CC BY-SA 3.0.",
+    "localNames": {
+      "en": [
+        "Pigeon pea"
+      ],
+      "ht": [
+        "Pwa kongo"
+      ],
+      "fr": [
+        "Pois pigeon"
+      ]
     }
   },
-  "allium-cepa-l": {
+  {
+    "id": "allium-cepa-l",
+    "name": {
+      "en": "Onion",
+      "ht": "Zonyon",
+      "fr": "Oignon"
+    },
+    "scientific": "Allium cepa L.",
+    "family": "Amaryllidaceae",
+    "local": [
+      "Zonyon"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Seasoning",
+        "Crop"
+      ],
+      "ht": [
+        "Manje",
+        "Epis / kondiman",
+        "Rekòt"
+      ],
+      "fr": [
+        "Alimentation",
+        "Assaisonnement",
+        "Culture"
+      ]
+    },
     "description": {
-      "en": "Onion is a bulb-forming crop widely used as a seasoning and food ingredient. In Haiti, it is commonly used in sauces, stews, soups, rice dishes, meat preparations and many other everyday meals. The underground bulb is the main part consumed.",
-      "ht": "Zonyon se yon plant yo kiltive pou anpoul li ki grandi anba tè. An Ayiti, yo sèvi avè l anpil pou bay manje gou, tankou sòs, bouyon, soup, diri, vyann ak anpil lòt plat chak jou. Anpoul la se pati plant lan yo konsome prensipalman.",
+      "en": "Onion is a bulb-forming crop widely used as a seasoning and food ingredient. In Haiti it is used in sauces, stews, soups, rice dishes, meat preparations and other everyday foods. The underground bulb is the principal part consumed.",
+      "ht": "Zonyon se yon plant yo kiltive pou anpoul li ki grandi anba tè. Yo sèvi avè l anpil pou bay manje gou ann Ayiti, tankou sòs, bouyon, soup, diri, vyann ak lòt plat chak jou. Anpoul la se pati yo konsome prensipalman.",
       "fr": "L’oignon est une plante cultivée pour son bulbe souterrain. En Haïti, il est largement utilisé pour assaisonner les sauces, les ragoûts, les soupes, les plats de riz, les préparations à base de viande et de nombreux repas quotidiens. Le bulbe est la principale partie consommée."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Onion_or_Allium_cepa.jpg?width=1200",
+    "source": "Wikimedia Commons: Onion or Allium cepa.jpg — Lfatty22, CC0 1.0.",
+    "localNames": {
+      "en": [
+        "Onion"
+      ],
+      "ht": [
+        "Zonyon"
+      ],
+      "fr": [
+        "Oignon"
+      ]
     }
-  }
-},
+  },
   {
     "id": "capsicum-annuum-l",
     "name": {
