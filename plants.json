@@ -2217,6 +2217,809 @@
     "ht": ["Pòmdetè"],
     "fr": ["Pomme de terre"]
   }
-}
+},
+  {
+    "id": "solanum-lycopersicum-l",
+    "name": {
+      "en": "Tomato",
+      "ht": "Tomat",
+      "fr": "Tomate"
+    },
+    "scientific": "Solanum lycopersicum L.",
+    "family": "Solanaceae",
+    "local": [
+      "Tomat"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Cooking"
+      ],
+      "ht": [
+        "Manje",
+        "Kwit manje"
+      ],
+      "fr": [
+        "Alimentation",
+        "Cuisine"
+      ]
+    },
+    "description": {
+      "en": "Tomato is a widely cultivated plant grown for its edible fruits. In Haiti, tomatoes are commonly used in cooking to prepare sauces, soups, stews, and salads. They are also an important ingredient in many traditional dishes.",
+      "ht": "Tomat se yon plant yo kiltive anpil pou fwi li yo. An Ayiti, yo sèvi ak tomat nan preparasyon sòs, soup, ragou ak salad. Li se yon engredyan enpòtan nan anpil manje nan peyi a.",
+      "fr": "La tomate est une plante largement cultivée pour ses fruits comestibles. En Haïti, elle est couramment utilisée dans la préparation des sauces, des soupes, des ragoûts et des salades. Elle constitue également un ingrédient important dans de nombreux plats traditionnels."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Solanum_lycopersicum_-_fruits.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Solanum lycopersicum - fruits.jpg”; Filo gèn', CC BY-SA 4.0. File page: https://commons.wikimedia.org/wiki/File:Solanum_lycopersicum_-_fruits.jpg",
+    "localNames": {
+      "en": [
+        "Tomato"
+      ],
+      "ht": [
+        "Tomat"
+      ],
+      "fr": [
+        "Tomate"
+      ]
+    }
+  },
+  {
+    "id": "allium-sativum-l",
+    "name": {
+      "en": "Garlic",
+      "ht": "Lay",
+      "fr": "Ail"
+    },
+    "scientific": "Allium sativum L.",
+    "family": "Amaryllidaceae",
+    "local": [
+      "Lay"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Seasoning",
+        "Traditional knowledge"
+      ],
+      "ht": [
+        "Manje",
+        "Epis / kondiman",
+        "Konesans tradisyonèl"
+      ],
+      "fr": [
+        "Alimentation",
+        "Assaisonnement",
+        "Savoirs traditionnels"
+      ]
+    },
+    "description": {
+      "en": "Garlic is a bulb-producing plant widely cultivated and used as a seasoning. In Haiti, it is an important ingredient in cooking, adding flavor to sauces, marinades, soups, and various traditional dishes. It is also used to prepare infusions as part of traditional medicine.",
+      "ht": "Lay se yon plant ki fèt nan fòm yon anpoul, yo itilize l anpil kòm epis nan manje. An Ayiti, li se yon engredyan enpòtan nan kuizin nan. Yo sèvi avè l pou bay sòs, marinad, soup ak divès manje tradisyonèl plis gou. Yo sèvi avè l tou pou prepare enfizyon nan kad medsin tradisyonèl.",
+      "fr": "L’ail est une plante qui produit un bulbe largement utilisé comme condiment. En Haïti, il constitue un ingrédient important en cuisine. Il sert à relever le goût des sauces, des marinades, des soupes et de divers plats traditionnels. Il est également utilisé dans la préparation d’infusions en médecine traditionnelle."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Garlic_(Allium_sativum).jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Garlic (Allium sativum).jpg”; Rubel Das, CC0 1.0. File page: https://commons.wikimedia.org/wiki/File:Garlic_(Allium_sativum).jpg",
+    "localNames": {
+      "en": [
+        "Garlic"
+      ],
+      "ht": [
+        "Lay"
+      ],
+      "fr": [
+        "Ail"
+      ]
+    }
+  },
+  {
+    "id": "sechium-edule",
+    "name": {
+      "en": "Chayote",
+      "ht": "Militon",
+      "fr": "Chayotte"
+    },
+    "scientific": "Sechium edule (Jacq.) Sw.",
+    "family": "Cucurbitaceae",
+    "local": [
+      "Militon"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Cooking"
+      ],
+      "ht": [
+        "Manje",
+        "Kwit manje"
+      ],
+      "fr": [
+        "Alimentation",
+        "Cuisine"
+      ]
+    },
+    "description": {
+      "en": "Chayote is a climbing plant cultivated for its edible fruits. In Haiti, the fruit is commonly used in cooking and can be boiled, sautéed, or incorporated into soups, stews, and other dishes. Its tender shoots and leaves can also be eaten.",
+      "ht": "Militon se yon plant ki grenpe, yo kiltive pou fwi li yo. An Ayiti, yo sèvi ak militon nan divès preparasyon manje. Yo ka bouyi l, fè l sote, mete l nan soup, ragou ak lòt manje. Jèn branch ak fèy li yo ka manje tou.",
+      "fr": "La chayotte est une plante grimpante cultivée pour ses fruits comestibles. En Haïti, le fruit est utilisé dans diverses préparations culinaires. Il peut être bouilli, sauté ou incorporé dans des soupes, des ragoûts et d’autres plats. Les jeunes pousses et les feuilles sont également comestibles."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sechium_edule_chayote_contd_24_lo.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Sechium edule chayote contd 24 lo.jpg”; Neil Palmer / CIAT, CC BY-SA 2.0. File page: https://commons.wikimedia.org/wiki/File:Sechium_edule_chayote_contd_24_lo.jpg",
+    "localNames": {
+      "en": [
+        "Chayote"
+      ],
+      "ht": [
+        "Militon"
+      ],
+      "fr": [
+        "Chayotte"
+      ]
+    }
+  },
+  {
+    "id": "cucumis-sativus-l",
+    "name": {
+      "en": "Cucumber",
+      "ht": "Konkonm",
+      "fr": "Concombre"
+    },
+    "scientific": "Cucumis sativus L.",
+    "family": "Cucurbitaceae",
+    "local": [
+      "Konkonm"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Salads",
+        "Juice"
+      ],
+      "ht": [
+        "Manje",
+        "Salad",
+        "Ji"
+      ],
+      "fr": [
+        "Alimentation",
+        "Salades",
+        "Jus"
+      ]
+    },
+    "description": {
+      "en": "Cucumber is a creeping or climbing plant cultivated for its edible fruits. In Haiti, cucumbers are commonly eaten fresh in salads and can also be used in juices and other food preparations. They are valued for their refreshing taste and high water content.",
+      "ht": "Konkonm se yon plant ki trennen oswa ki grenpe, yo kiltive pou fwi li yo. An Ayiti, yo manje konkonm fre nan salad, epi yo sèvi avè l tou pou prepare ji ak lòt manje. Yo apresye l pou gou fre li ak kantite dlo li genyen.",
+      "fr": "Le concombre est une plante rampante ou grimpante cultivée pour ses fruits comestibles. En Haïti, il est généralement consommé frais dans les salades et peut également être utilisé pour préparer des jus et d’autres aliments. Il est apprécié pour son goût rafraîchissant et sa forte teneur en eau."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cucumus_sativus.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Cucumus sativus.jpg”; Affitisciuto, CC BY-SA 4.0. File page: https://commons.wikimedia.org/wiki/File:Cucumus_sativus.jpg",
+    "localNames": {
+      "en": [
+        "Cucumber"
+      ],
+      "ht": [
+        "Konkonm"
+      ],
+      "fr": [
+        "Concombre"
+      ]
+    }
+  },
+  {
+    "id": "lactuca-sativa-l",
+    "name": {
+      "en": "Lettuce",
+      "ht": "Leti",
+      "fr": "Laitue"
+    },
+    "scientific": "Lactuca sativa L.",
+    "family": "Asteraceae",
+    "local": [
+      "Leti"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Salads"
+      ],
+      "ht": [
+        "Manje",
+        "Salad"
+      ],
+      "fr": [
+        "Alimentation",
+        "Salades"
+      ]
+    },
+    "description": {
+      "en": "Lettuce is a leafy vegetable cultivated for its tender leaves. In Haiti, it is commonly eaten raw in salads and served as a side dish. It is often combined with tomatoes, cucumbers, carrots, and other vegetables.",
+      "ht": "Leti se yon legim yo kiltive pou fèy li yo. An Ayiti, yo manje l kri nan salad epi yo sèvi l kòm akonpayman ak lòt manje. Souvan, yo melanje l ak tomat, konkonm, kawòt ak lòt legim.",
+      "fr": "La laitue est un légume-feuille cultivé pour ses feuilles tendres. En Haïti, elle est généralement consommée crue dans les salades et servie en accompagnement. Elle est souvent mélangée à des tomates, des concombres, des carottes et d’autres légumes."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Lettuce_(Lactuca_sativa)_growing_in_a_pot.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Lettuce (Lactuca sativa) growing in a pot.jpg”; 999real, CC0 1.0. File page: https://commons.wikimedia.org/wiki/File:Lettuce_(Lactuca_sativa)_growing_in_a_pot.jpg",
+    "localNames": {
+      "en": [
+        "Lettuce"
+      ],
+      "ht": [
+        "Leti"
+      ],
+      "fr": [
+        "Laitue"
+      ]
+    }
+  },
+  {
+    "id": "spondias-mombin-l",
+    "name": {
+      "en": "Spanish plum / Hog plum",
+      "ht": "Monben / Siwèl",
+      "fr": "Mombin"
+    },
+    "scientific": "Spondias mombin L.",
+    "family": "Anacardiaceae",
+    "local": [
+      "Monben",
+      "Siwèl"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Fruit",
+        "Juice",
+        "Preserves"
+      ],
+      "ht": [
+        "Manje",
+        "Fwi",
+        "Ji",
+        "Konfiti"
+      ],
+      "fr": [
+        "Alimentation",
+        "Fruit",
+        "Jus",
+        "Confitures"
+      ]
+    },
+    "description": {
+      "en": "Spanish plum is a tropical fruit tree that grows in Haiti. Its fruits turn yellow when ripe and have a sweet-and-sour taste. They are eaten fresh and can also be used to prepare juices, preserves, and other food products.",
+      "ht": "Monben se yon pyebwa fwi twopikal ki grandi an Ayiti. Fwi li yo vin jòn lè yo mi, epi yo gen yon gou dous ak asid. Yo ka manje yo fre oswa sèvi avè yo pou prepare ji, konfiti ak lòt pwodui alimantè.",
+      "fr": "Le mombin est un arbre fruitier tropical présent en Haïti. Ses fruits deviennent jaunes à maturité et ont une saveur à la fois sucrée et acidulée. Ils se consomment frais et peuvent également servir à préparer des jus, des confitures et d’autres produits alimentaires."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Yellow_Mombin_(Spondias_mombin)_fruit.JPG?width=1200",
+    "source": "Image: Wikimedia Commons, “Yellow Mombin (Spondias mombin) fruit.JPG”; Martin Reith, CC BY-SA 4.0. File page: https://commons.wikimedia.org/wiki/File:Yellow_Mombin_(Spondias_mombin)_fruit.JPG",
+    "localNames": {
+      "en": [
+        "Spanish plum"
+      ],
+      "ht": [
+        "Monben",
+        "Siwèl"
+      ],
+      "fr": [
+        "Mombin"
+      ]
+    }
+  },
+  {
+    "id": "averrhoa-carambola-l",
+    "name": {
+      "en": "Star fruit",
+      "ht": "Karanbòl",
+      "fr": "Carambole"
+    },
+    "scientific": "Averrhoa carambola L.",
+    "family": "Oxalidaceae",
+    "local": [
+      "Karanbòl"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Fruit",
+        "Juice",
+        "Salads"
+      ],
+      "ht": [
+        "Manje",
+        "Fwi",
+        "Ji",
+        "Salad"
+      ],
+      "fr": [
+        "Alimentation",
+        "Fruit",
+        "Jus",
+        "Salades"
+      ]
+    },
+    "description": {
+      "en": "Star fruit is a tropical fruit tree known for its distinctive star-shaped fruits when cut crosswise. The fruits turn yellow as they ripen and have a sweet-and-sour taste. They can be eaten fresh or used to prepare juices, salads, and other food products.",
+      "ht": "Karanbòl se yon pyebwa fwi twopikal yo rekonèt pou fòm zetwal fwi li yo genyen lè yo koupe yo an travè. Fwi yo vin jòn lè yo mi, epi yo gen yon gou dous ak asid. Yo ka manje yo fre oswa sèvi avè yo pou prepare ji, salad ak lòt pwodui alimantè.",
+      "fr": "Le carambolier est un arbre fruitier tropical connu pour ses fruits qui présentent une forme étoilée lorsqu’on les coupe transversalement. Les fruits deviennent jaunes à maturité et ont une saveur sucrée et acidulée. Ils peuvent être consommés frais ou utilisés pour préparer des jus, des salades et d’autres produits alimentaires."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Star_Fruit_(Averrhoa_carambola).jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Star Fruit (Averrhoa carambola).jpg”; Mokkie, CC BY-SA 3.0. File page: https://commons.wikimedia.org/wiki/File:Star_Fruit_(Averrhoa_carambola).jpg",
+    "localNames": {
+      "en": [
+        "Star fruit"
+      ],
+      "ht": [
+        "Karanbòl"
+      ],
+      "fr": [
+        "Carambole"
+      ]
+    }
+  },
+  {
+    "id": "manilkara-zapota-l-p-royen",
+    "name": {
+      "en": "Sapodilla",
+      "ht": "Sapoti",
+      "fr": "Sapotille"
+    },
+    "scientific": "Manilkara zapota (L.) P. Royen",
+    "family": "Sapotaceae",
+    "local": [
+      "Sapoti"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Fruit",
+        "Juice",
+        "Desserts"
+      ],
+      "ht": [
+        "Manje",
+        "Fwi",
+        "Ji",
+        "Desè"
+      ],
+      "fr": [
+        "Alimentation",
+        "Fruit",
+        "Jus",
+        "Desserts"
+      ]
+    },
+    "description": {
+      "en": "Sapodilla is a tropical fruit tree cultivated for its sweet, brown fruits. The ripe fruit has soft, grainy flesh and a sweet flavor similar to brown sugar. It is usually eaten fresh and can also be used to prepare juices, desserts, and other food products.",
+      "ht": "Sapoti se yon pyebwa fwi twopikal yo kiltive pou fwi mawon li yo ki gen gou dous. Lè fwi a mi, chè li mou, li gen yon ti teksti grenn, epi li gen yon gou ki sanble ak sik mawon. Yo manje l sitou fre, men yo ka sèvi avè l tou pou prepare ji, desè ak lòt pwodui alimantè.",
+      "fr": "Le sapotillier est un arbre fruitier tropical cultivé pour ses fruits bruns et sucrés. À maturité, le fruit possède une chair tendre et légèrement granuleuse, au goût rappelant le sucre brun. Il est généralement consommé frais et peut également servir à préparer des jus, des desserts et d’autres produits alimentaires."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Manilkara_zapota_-_Nispero_fruit_(sapodilla)_and_leaves_03.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Manilkara zapota - Nispero fruit (sapodilla) and leaves 03.jpg”; Daniel Di Palma, CC BY-SA 4.0. File page: https://commons.wikimedia.org/wiki/File:Manilkara_zapota_-_Nispero_fruit_(sapodilla)_and_leaves_03.jpg",
+    "localNames": {
+      "en": [
+        "Sapodilla"
+      ],
+      "ht": [
+        "Sapoti"
+      ],
+      "fr": [
+        "Sapotille"
+      ]
+    }
+  },
+  {
+    "id": "mammea-americana-l",
+    "name": {
+      "en": "Mammee apple",
+      "ht": "Abriko",
+      "fr": "Mamey d’Amérique"
+    },
+    "scientific": "Mammea americana L.",
+    "family": "Calophyllaceae",
+    "local": [
+      "Abriko"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Fruit",
+        "Juice",
+        "Jams",
+        "Desserts"
+      ],
+      "ht": [
+        "Manje",
+        "Fwi",
+        "Ji",
+        "Konfiti",
+        "Desè"
+      ],
+      "fr": [
+        "Alimentation",
+        "Fruit",
+        "Jus",
+        "Confitures",
+        "Desserts"
+      ]
+    },
+    "description": {
+      "en": "Mammee apple is a tropical evergreen tree cultivated for its large, round fruits. When ripe, the fruit has thick skin and aromatic orange-colored flesh with a sweet or slightly tangy flavor. It is eaten fresh and can also be used to prepare juices, jams, and desserts.",
+      "ht": "Abriko se yon pyebwa twopikal ki toujou gen fèy, yo kiltive pou gwo fwi won li yo. Lè fwi a mi, li gen yon po epè ak yon chè ki gen bon sant, ki gen koulè jòn abriko ak yon gou dous oswa yon ti jan asid. Yo ka manje l fre oswa sèvi avè l pou prepare ji, konfiti ak desè.",
+      "fr": "Le mamey d’Amérique est un arbre tropical à feuillage persistant, cultivé pour ses gros fruits arrondis. À maturité, le fruit possède une peau épaisse et une chair parfumée, de couleur orangée, au goût sucré ou légèrement acidulé. Il se consomme frais et peut également être utilisé pour préparer des jus, des confitures et des desserts."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Mammea_americana_Fruit.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Mammea americana Fruit.jpg”; Filo gèn', CC BY-SA 4.0. File page: https://commons.wikimedia.org/wiki/File:Mammea_americana_Fruit.jpg",
+    "localNames": {
+      "en": [
+        "Mammee apple"
+      ],
+      "ht": [
+        "Abriko"
+      ],
+      "fr": [
+        "Mamey d’Amérique"
+      ]
+    }
+  },
+  {
+    "id": "ceiba-pentandra-l-gaertn",
+    "name": {
+      "en": "Kapok tree",
+      "ht": "Mapou",
+      "fr": "Fromager"
+    },
+    "scientific": "Ceiba pentandra (L.) Gaertn.",
+    "family": "Malvaceae",
+    "local": [
+      "Mapou"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Ecological importance",
+        "Traditional knowledge",
+        "Kapok fiber"
+      ],
+      "ht": [
+        "Enpòtans ekolojik",
+        "Konesans tradisyonèl",
+        "Fib kapok"
+      ],
+      "fr": [
+        "Importance écologique",
+        "Savoirs traditionnels",
+        "Fibre de kapok"
+      ]
+    },
+    "description": {
+      "en": "The kapok tree is a large tropical tree known for its massive trunk, broad canopy, and distinctive buttress roots. In Haiti, it is commonly known as Mapou and holds cultural and ecological importance. Its seeds are surrounded by a soft, cotton-like fiber called kapok.",
+      "ht": "Mapou se yon gwo pyebwa twopikal yo rekonèt pou gwo twon li, branch li yo ki fòme yon gwo kouwòn, ak rasin li yo ki laj nan baz twon an. An Ayiti, li gen yon enpòtans kiltirèl ak ekolojik. Grenn li yo kouvri ak yon fib mou ki sanble ak koton, yo rele kapok.",
+      "fr": "Le fromager est un grand arbre tropical connu pour son tronc imposant, sa large couronne et ses contreforts racinaires caractéristiques. En Haïti, il est communément appelé Mapou et possède une importance culturelle et écologique. Ses graines sont entourées d’une fibre douce et cotonneuse appelée kapok."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Kapok_(Ceiba_pentandra)_tree%2C_used_for_making_artisanal_fishing_canoes.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Kapok (Ceiba pentandra) tree, used for making artisanal fishing canoes.jpg”; Maxfield Weiss / NOAA, public domain. File page: https://commons.wikimedia.org/wiki/File:Kapok_(Ceiba_pentandra)_tree,_used_for_making_artisanal_fishing_canoes.jpg",
+    "localNames": {
+      "en": [
+        "Kapok tree"
+      ],
+      "ht": [
+        "Mapou"
+      ],
+      "fr": [
+        "Fromager"
+      ]
+    }
+  },
+  {
+    "id": "delonix-regia-bojer-ex-hook-raf",
+    "name": {
+      "en": "Flamboyant",
+      "ht": "Flanboyan",
+      "fr": "Flamboyant"
+    },
+    "scientific": "Delonix regia (Bojer ex Hook.) Raf.",
+    "family": "Fabaceae",
+    "local": [
+      "Flanboyan"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Ornamental",
+        "Shade"
+      ],
+      "ht": [
+        "Dekoratif",
+        "Lonbraj"
+      ],
+      "fr": [
+        "Ornemental",
+        "Ombrage"
+      ]
+    },
+    "description": {
+      "en": "The flamboyant is an ornamental tropical tree famous for its broad, spreading canopy and spectacular red or orange flowers. In Haiti, it is commonly planted along roads, in gardens, public parks, and other public spaces for shade and decoration. Its flowering season adds vibrant color to the landscape.",
+      "ht": "Flanboyan se yon pyebwa dekoratif twopikal yo rekonèt pou gwo kouwòn li ki byen etale ak bèl flè wouj oswa jòn abriko li yo. An Ayiti, yo plante l sou bò wout, nan jaden, nan plas piblik ak lòt espas piblik pou bay lonbraj ak anbeli anviwònman an. Lè li fleri, li ajoute anpil koulè nan peyizaj la.",
+      "fr": "Le flamboyant est un arbre ornemental tropical connu pour sa large couronne étalée et ses magnifiques fleurs rouges ou orangées. En Haïti, il est souvent planté le long des routes, dans les jardins, les parcs publics et d’autres espaces publics pour son ombrage et sa valeur décorative. Sa floraison apporte de belles couleurs au paysage."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Delonix_regia_tree.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Delonix regia tree.jpg”; Pushpak Kolhe, CC BY-SA 4.0. File page: https://commons.wikimedia.org/wiki/File:Delonix_regia_tree.jpg",
+    "localNames": {
+      "en": [
+        "Flamboyant"
+      ],
+      "ht": [
+        "Flanboyan"
+      ],
+      "fr": [
+        "Flamboyant"
+      ]
+    }
+  },
+  {
+    "id": "pinus-occidentalis-sw",
+    "name": {
+      "en": "Hispaniolan pine",
+      "ht": "Pen",
+      "fr": "Pin d’Hispaniola"
+    },
+    "scientific": "Pinus occidentalis Sw.",
+    "family": "Pinaceae",
+    "local": [
+      "Pen"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Ecological importance",
+        "Timber",
+        "Kindling"
+      ],
+      "ht": [
+        "Enpòtans ekolojik",
+        "Bwa",
+        "Bwa pou limen dife"
+      ],
+      "fr": [
+        "Importance écologique",
+        "Bois",
+        "Bois d’allumage"
+      ]
+    },
+    "description": {
+      "en": "The Hispaniolan pine is a coniferous tree native to the island of Hispaniola. In Haiti, it grows mainly in mountainous areas and forms an important part of the country's natural forests. It contributes to soil protection, water conservation, and wildlife habitat. Its wood is also used as kindling to start fires.",
+      "ht": "Pen se yon pyebwa rezine natif natal sou zile Ispanyola. An Ayiti, li grandi sitou nan zòn montay yo epi li fè pati forè natirèl peyi a. Li ede pwoteje tè a, konsève dlo epi bay bèt sovaj abita. Yo sèvi ak moso bwa pen tou pou limen dife.",
+      "fr": "Le pin d’Hispaniola est un conifère originaire de l’île d’Hispaniola. En Haïti, il pousse principalement dans les régions montagneuses et constitue une composante importante des forêts naturelles du pays. Il contribue à la protection des sols, à la conservation de l’eau et à la préservation des habitats de la faune sauvage. Son bois est également utilisé comme bois d’allumage."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hispaniolan_pine%2C_Haiti_250470519.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Hispaniolan pine, Haiti 250470519.jpg”; Patrick (iNaturalist), CC0 1.0. File page: https://commons.wikimedia.org/wiki/File:Hispaniolan_pine,_Haiti_250470519.jpg",
+    "localNames": {
+      "en": [
+        "Hispaniolan pine"
+      ],
+      "ht": [
+        "Pen"
+      ],
+      "fr": [
+        "Pin d’Hispaniola"
+      ]
+    }
+  },
+  {
+    "id": "cedrela-odorata-l",
+    "name": {
+      "en": "Spanish cedar",
+      "ht": "Sèd",
+      "fr": "Cèdre acajou"
+    },
+    "scientific": "Cedrela odorata L.",
+    "family": "Meliaceae",
+    "local": [
+      "Sèd"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Timber",
+        "Carpentry",
+        "Furniture"
+      ],
+      "ht": [
+        "Bwa",
+        "Chapant",
+        "Mèb"
+      ],
+      "fr": [
+        "Bois",
+        "Menuiserie",
+        "Meubles"
+      ]
+    },
+    "description": {
+      "en": "Spanish cedar is a tropical tree native to the Americas, including the Caribbean. In Haiti, it is valued for its timber, which is used in carpentry, furniture making, and other woodworking activities. It is also part of the country's forest resources.",
+      "ht": "Sèd se yon pyebwa twopikal ki natif natal nan Amerik yo, tankou nan Karayib la. An Ayiti, yo itilize bwa li pou travay chapant, fabrikasyon mèb ak lòt travay ak bwa. Li fè pati resous forè peyi a tou.",
+      "fr": "Le cèdre acajou est un arbre tropical originaire des Amériques, notamment des Caraïbes. En Haïti, il est apprécié pour son bois, utilisé en menuiserie, dans la fabrication de meubles et pour d’autres travaux du bois. Il fait également partie des ressources forestières du pays."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cedrela_odorata.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Cedrela odorata.jpg”; Arn, CC BY 4.0. File page: https://commons.wikimedia.org/wiki/File:Cedrela_odorata.jpg",
+    "localNames": {
+      "en": [
+        "Spanish cedar"
+      ],
+      "ht": [
+        "Sèd"
+      ],
+      "fr": [
+        "Cèdre acajou"
+      ]
+    }
+  },
+  {
+    "id": "beta-vulgaris-l",
+    "name": {
+      "en": "Beetroot",
+      "ht": "Bètrav / Bètwouj",
+      "fr": "Betterave"
+    },
+    "scientific": "Beta vulgaris L.",
+    "family": "Amaranthaceae",
+    "local": [
+      "Bètrav",
+      "Bètwouj"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Salads",
+        "Juice"
+      ],
+      "ht": [
+        "Manje",
+        "Salad",
+        "Ji"
+      ],
+      "fr": [
+        "Alimentation",
+        "Salades",
+        "Jus"
+      ]
+    },
+    "description": {
+      "en": "Beetroot is a root vegetable cultivated for its edible, usually deep-red root and nutritious leaves. In Haiti, it is commonly used in salads and can also be boiled, juiced, or included in other food preparations. Its distinctive color makes it a popular ingredient in certain dishes.",
+      "ht": "Bètrav se yon plant yo kiltive pou rasin li, ki gen koulè wouj fonse anjeneral, ansanm ak fèy li yo ki ka manje. An Ayiti, yo sèvi avè l souvan nan salad. Yo ka bouyi l, prepare ji avè l oswa mete l nan lòt manje. Koulè espesyal li fè li yon engredyan yo itilize nan kèk plat.",
+      "fr": "La betterave est une plante cultivée pour sa racine comestible, généralement rouge foncé, ainsi que pour ses feuilles nutritives. En Haïti, elle est souvent utilisée dans les salades. Elle peut également être bouillie, transformée en jus ou intégrée à d’autres préparations culinaires. Sa couleur caractéristique en fait un ingrédient apprécié dans certains plats."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Rote_Bete.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Rote Bete.jpg”; Garitzko, public domain. File page: https://commons.wikimedia.org/wiki/File:Rote_Bete.jpg",
+    "localNames": {
+      "en": [
+        "Beetroot"
+      ],
+      "ht": [
+        "Bètrav",
+        "Bètwouj"
+      ],
+      "fr": [
+        "Betterave"
+      ]
+    }
+  },
+  {
+    "id": "raphanus-sativus-l",
+    "name": {
+      "en": "Radish",
+      "ht": "Radi",
+      "fr": "Radis"
+    },
+    "scientific": "Raphanus sativus L.",
+    "family": "Brassicaceae",
+    "local": [
+      "Radi"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Salads",
+        "Cooking"
+      ],
+      "ht": [
+        "Manje",
+        "Salad",
+        "Kwit manje"
+      ],
+      "fr": [
+        "Alimentation",
+        "Salades",
+        "Cuisine"
+      ]
+    },
+    "description": {
+      "en": "Radish is a root vegetable cultivated for its edible roots and leaves. Its roots are usually round or elongated and may have red, white, or pink skin, depending on the variety. They are commonly eaten raw in salads but can also be cooked or used in other food preparations.",
+      "ht": "Radi se yon plant yo kiltive pou rasin li ak fèy li yo ki ka manje. Rasin li yo ka won oswa long, epi koulè po yo ka wouj, blan oswa woz, selon varyete a. Yo manje yo souvan kri nan salad, men yo ka kwit yo oswa sèvi avè yo nan lòt preparasyon manje.",
+      "fr": "Le radis est une plante cultivée pour ses racines et ses feuilles comestibles. Ses racines sont généralement rondes ou allongées et peuvent avoir une peau rouge, blanche ou rose, selon la variété. Elles sont souvent consommées crues dans les salades, mais peuvent également être cuites ou utilisées dans d’autres préparations culinaires."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Raphanus_sativus.jpg?width=1200",
+    "source": "Image: Wikimedia Commons, “Raphanus sativus.jpg”; Patrickov, public domain. File page: https://commons.wikimedia.org/wiki/File:Raphanus_sativus.jpg",
+    "localNames": {
+      "en": [
+        "Radish"
+      ],
+      "ht": [
+        "Radi"
+      ],
+      "fr": [
+        "Radis"
+      ]
+    }
+  }
+
 
 ]
