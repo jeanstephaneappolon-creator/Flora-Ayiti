@@ -3019,7 +3019,140 @@
         "Radis"
       ]
     }
-  }
+  },
  
+{
+  "id": "annona-squamosa-l",
+  "name": {
+    "en": "Sugar apple",
+    "ht": "Pòm kanèl",
+    "fr": "Pomme cannelle"
+  },
+  "scientific": "Annona squamosa L.",
+  "family": "Annonaceae",
+  "local": ["Pòm kanèl"],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": ["Food", "Fresh fruit"],
+    "ht": ["Manje", "Fwi fre"],
+    "fr": ["Alimentation", "Fruit frais"]
+  },
+  "description": {
+    "en": "Sugar apple is a tropical fruit tree that produces sweet, aromatic fruits with a distinctive segmented green skin. Its creamy white pulp is commonly eaten fresh.",
+    "ht": "Pòm kanèl se yon pyebwa fwi twopikal ki bay fwi dous ak bon sant, ak yon po vèt ki gen plizyè ti pati byen make. Yo konn manje chè fwi a fre.",
+    "fr": "Le pommier-cannelle est un arbre fruitier tropical qui produit des fruits sucrés et parfumés, à la peau verte formée de segments caractéristiques. Sa pulpe blanche et crémeuse se consomme généralement fraîche."
+  },
+  "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Starr_071024-8775_Annona_squamosa.jpg?width=1200",
+  "source": "Forest & Kim Starr, Wikimedia Commons; CC BY 3.0. https://commons.wikimedia.org/wiki/File:Starr_071024-8775_Annona_squamosa.jpg",
+  "localNames": {
+    "en": ["Sugar apple"],
+    "ht": ["Pòm kanèl"],
+    "fr": ["Pomme cannelle"]
+  }
+},
+{
+  "id": "annona-reticulata-l",
+  "name": {
+    "en": "Bullock's heart",
+    "ht": "Kachiman",
+    "fr": "Cœur de bœuf"
+  },
+  "scientific": "Annona reticulata L.",
+  "family": "Annonaceae",
+  "local": ["Kachiman"],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": ["Food", "Fresh fruit", "Juice"],
+    "ht": ["Manje", "Fwi fre", "Ji"],
+    "fr": ["Alimentation", "Fruit frais", "Jus"]
+  },
+  "description": {
+    "en": "Bullock's heart is a tropical fruit tree that produces heart-shaped fruits with reddish-brown or yellowish skin. Its soft, sweet pulp is eaten fresh and is also used to prepare juice.",
+    "ht": "Kachiman se yon pyebwa fwi twopikal ki bay fwi ki gen fòm kè, ak yon po ki ka mawon-wouj oswa jòn. Chè fwi a mou, li dous, epi yo manje l fre oswa yo sèvi avè l pou prepare ji.",
+    "fr": "Le cachiman est un arbre fruitier tropical qui produit des fruits en forme de cœur, à la peau brun rougeâtre ou jaunâtre. Sa pulpe tendre et sucrée se consomme fraîche et sert également à préparer du jus."
+  },
+  "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Annona_reticulata_bullock%27s_heart.jpg?width=1200",
+  "source": "Sridhar Rao, Wikimedia Commons; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Annona_reticulata_bullock%27s_heart.jpg",
+  "localNames": {
+    "en": ["Bullock's heart"],
+    "ht": ["Kachiman"],
+    "fr": ["Cœur de bœuf"]
+  }
+},
+{
+  "id": "chrysophyllum-cainito-l",
+  "name": {
+    "en": "Star apple",
+    "ht": "Kayimit",
+    "fr": "Caïmit"
+  },
+  "scientific": "Chrysophyllum cainito L.",
+  "family": "Sapotaceae",
+  "local": ["Kayimit"],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": ["Food", "Fresh fruit"],
+    "ht": ["Manje", "Fwi fre"],
+    "fr": ["Alimentation", "Fruit frais"]
+  },
+  "description": {
+    "en": "Star apple is a tropical fruit tree that produces round fruits with purple or green skin. Its sweet, milky pulp reveals a star-shaped pattern when the fruit is cut crosswise.",
+    "ht": "Kayimit se yon pyebwa fwi twopikal ki bay fwi won ki gen po koulè mov oswa vèt. Chè fwi a dous, li gen yon aparans lèt, epi lè ou koupe fwi a an travè, ou ka wè yon desen ki gen fòm zetwal.",
+    "fr": "Le caïmitier est un arbre fruitier tropical qui produit des fruits ronds à la peau violette ou verte. Sa pulpe douce et laiteuse laisse apparaître un motif en forme d'étoile lorsque le fruit est coupé transversalement."
+  },
+  "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chrysophyllum_cainito0.jpg?width=1200",
+  "source": "Hans B., Wikimedia Commons; public domain. https://commons.wikimedia.org/wiki/File:Chrysophyllum_cainito0.jpg",
+  "localNames": {
+    "en": ["Star apple"],
+    "ht": ["Kayimit"],
+    "fr": ["Caïmit"]
+  }
+},
+{
+  "id": "blighia-sapida",
+  "name": {
+    "en": "Ackee",
+    "ht": "Aki",
+    "fr": "Aki"
+  },
+  "scientific": "Blighia sapida K.D.Koenig",
+  "family": "Sapindaceae",
+  "local": ["Aki"],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": ["Food", "Cooking"],
+    "ht": ["Manje", "Kwit manje"],
+    "fr": ["Alimentation", "Cuisine"]
+  },
+  "description": {
+    "en": "Ackee is a tropical fruit tree native to West Africa and widely cultivated in the Caribbean. Only the fleshy arils from naturally fully opened, ripe fruit, properly prepared, are edible. The seeds, rind, and unripe fruit are toxic and must never be eaten.",
+    "ht": "Aki se yon pyebwa fwi twopikal ki soti nan Afrik de Lwès e yo kiltive l anpil nan Karayib la. Se sèlman pati chè ki antoure grenn yo, nan fwi ki mi epi ki louvri poukont li, apre bon preparasyon, ki ka manje. Grenn yo, po fwi a ak fwi ki poko mi yo gen pwazon; yo pa dwe janm manje yo.",
+    "fr": "L'aki est un arbre fruitier tropical originaire d'Afrique de l'Ouest et largement cultivé dans les Caraïbes. Seules les arilles charnues provenant de fruits mûrs qui se sont ouverts naturellement, et correctement préparées, sont comestibles. Les graines, la coque et les fruits non mûrs sont toxiques et ne doivent jamais être consommés."
+  },
+  "image": "https://www.ncbi.nlm.nih.gov/books/NBK431101/figure/article-30301.image.f1/",
+  "source": "NCBI Bookshelf image. Photographer attribution and reuse licence should be confirmed before publication.",
+  "localNames": {
+    "en": ["Ackee"],
+    "ht": ["Aki"],
+    "fr": ["Aki"]
+  }
+}
+
 
 ]
