@@ -3020,68 +3020,6 @@
       ]
     }
   },
-  [
-  {
-    "id": 66,
-    "name": "Sugar apple",
-    "scientificName": "Annona squamosa L.",
-    "creoleName": "Pòm kanèl",
-    "description": {
-      "en": "Sugar apple is a tropical fruit tree that produces sweet, aromatic fruits with a distinctive segmented green skin. Its creamy white pulp is commonly eaten fresh.",
-      "ht": "Pòm kanèl se yon pyebwa fwi twopikal ki bay fwi dous ak bon sant, ak yon po vèt ki gen plizyè ti pati byen make. Yo konn manje chè fwi a fre.",
-      "fr": "Le pommier-cannelle est un arbre fruitier tropical qui produit des fruits sucrés et parfumés, à la peau verte formée de segments caractéristiques. Sa pulpe blanche et crémeuse se consomme généralement fraîche."
-    },
-    "image": "Starr_071024-8775_Annona_squamosa.jpg",
-    "imageCredit": "Forest & Kim Starr",
-    "imageLicense": "CC BY 3.0",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Starr_071024-8775_Annona_squamosa.jpg"
-  },
-  {
-    "id": 67,
-    "name": "Bullock's heart",
-    "scientificName": "Annona reticulata L.",
-    "creoleName": "Kachiman",
-    "description": {
-      "en": "Bullock's heart is a tropical fruit tree that produces heart-shaped fruits with reddish-brown or yellowish skin. Its soft, sweet pulp is eaten fresh and is also used to prepare juice.",
-      "ht": "Kachiman se yon pyebwa fwi twopikal ki bay fwi ki gen fòm kè, ak yon po ki ka mawon-wouj oswa jòn. Chè fwi a mou, li dous, epi yo manje l fre oswa yo sèvi avè l pou prepare ji.",
-      "fr": "Le cachiman est un arbre fruitier tropical qui produit des fruits en forme de cœur, à la peau brun rougeâtre ou jaunâtre. Sa pulpe tendre et sucrée se consomme fraîche et sert également à préparer du jus."
-    },
-    "image": "Annona_reticulata_bullock's_heart.jpg",
-    "imageCredit": "Sridhar Rao",
-    "imageLicense": "CC BY-SA 4.0",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Annona_reticulata_bullock%27s_heart.jpg"
-  },
-  {
-    "id": 68,
-    "name": "Star apple",
-    "scientificName": "Chrysophyllum cainito L.",
-    "creoleName": "Kayimit",
-    "description": {
-      "en": "Star apple is a tropical fruit tree that produces round fruits with purple or green skin. Its sweet, milky pulp reveals a star-shaped pattern when the fruit is cut crosswise.",
-      "ht": "Kayimit se yon pyebwa fwi twopikal ki bay fwi won ki gen po koulè mov oswa vèt. Chè fwi a dous, li gen yon aparans lèt, epi lè ou koupe fwi a an travè, ou ka wè yon desen ki gen fòm zetwal.",
-      "fr": "Le caïmitier est un arbre fruitier tropical qui produit des fruits ronds à la peau violette ou verte. Sa pulpe douce et laiteuse laisse apparaître un motif en forme d'étoile lorsque le fruit est coupé transversalement."
-    },
-    "image": "Chrysophyllum_cainito0.jpg",
-    "imageCredit": "Hans B.",
-    "imageLicense": "Public domain",
-    "imageSource": "https://commons.wikimedia.org/wiki/File:Chrysophyllum_cainito0.jpg"
-  },
-  {
-    "id": 69,
-    "name": "Ackee",
-    "scientificName": "Blighia sapida K.D.Koenig",
-    "creoleName": "Aki",
-    "description": {
-      "en": "Ackee is a tropical fruit tree native to West Africa and widely cultivated in the Caribbean. Only the fleshy arils from naturally fully opened, ripe fruit, properly prepared, are edible. The seeds, rind, and unripe fruit are toxic and must never be eaten.",
-      "ht": "Aki se yon pyebwa fwi twopikal ki soti nan Afrik de Lwès e yo kiltive l anpil nan Karayib la. Se sèlman pati chè ki antoure grenn yo, nan fwi ki mi epi ki louvri poukont li, apre bon preparasyon, ki ka manje. Grenn yo, po fwi a ak fwi ki poko mi yo gen pwazon; yo pa dwe janm manje yo.",
-      "fr": "L'aki est un arbre fruitier tropical originaire d'Afrique de l'Ouest et largement cultivé dans les Caraïbes. Seules les arilles charnues provenant de fruits mûrs qui se sont ouverts naturellement, et correctement préparées, sont comestibles. Les graines, la coque et les fruits non mûrs sont toxiques et ne doivent jamais être consommés."
-    },
-    "image": "ackee",
-    "imageCredit": "Fpalli",
-    "imageLicense": "CC BY-SA 3.0",
-    "imageSource": "https://www.ncbi.nlm.nih.gov/books/NBK431101/figure/article-30301.image.f1/"
-  }
-]
-
+ 
 
 ]
