@@ -3186,7 +3186,440 @@
     "ht": ["Krotòn"],
     "fr": ["Croton"]
   }
-}
+},
+{
+    "id": "chrysopogon-zizanioides-l-roberty",
+    "name": {
+      "en": "Vetiver",
+      "ht": "Vetivè",
+      "fr": "Vétiver"
+    },
+    "scientific": "Chrysopogon zizanioides (L.) Roberty",
+    "family": "Poaceae",
+    "local": [
+      "Vetivè"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Essential oil",
+        "Perfume",
+        "Erosion control",
+        "Medicinal"
+      ],
+      "ht": [
+        "Lwil esansyèl",
+        "Pafen",
+        "Kontwòl ewozyon",
+        "Medsin"
+      ],
+      "fr": [
+        "Huile essentielle",
+        "Parfum",
+        "Lutte contre l'érosion",
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Vetiver is a fragrant perennial grass. Its deep roots are steam-distilled to produce vetiver essential oil, an important Haitian export produced especially in the Les Cayes area of the south. The roots and leaves are also reported in Haitian traditional medicine, including decoctions and baths; these are traditional uses, not proven treatments.",
+      "ht": "Vetivè se yon zèb ki gen bon sant. Yo distile rasin li yo pou pwodui lwil esansyèl vetivè, yon pwodui enpòtan pou ekspòtasyon ann Ayiti, sitou nan zòn Okay nan sid la. Yo rapòte tou itilizasyon rasin ak fèy li yo nan medsin tradisyonèl ayisyen, tankou nan dekoksyon ak nan ben; sa yo se pratik tradisyonèl, yo pa tretman ki pwouve.",
+      "fr": "Le vétiver est une graminée vivace parfumée. Ses racines sont distillées à la vapeur pour produire l'huile essentielle de vétiver, un produit important des exportations haïtiennes, notamment dans la région des Cayes, au sud. Les racines et les feuilles sont également signalées dans la médecine traditionnelle haïtienne, notamment en décoctions et en bains; ce sont des usages traditionnels, pas des traitements dont l'efficacité est prouvée."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Chrysopogon%20zizanioides-seeding%20habit-Kokomo%20Haiku.jpg?width=1000",
+    "source": "TRAMIL, Chrysopogon zizanioides (Haiti: vetivè); Védrine, Kèk plant kreyòl ak non yo an laten.; Image: Wikimedia Commons: Chrysopogon zizanioides-seeding habit-Kokomo Haiku.jpg by Forest and Kim Starr; CC BY 2.0. https://commons.wikimedia.org/wiki/File:Chrysopogon%20zizanioides-seeding%20habit-Kokomo%20Haiku.jpg",
+    "localNames": {
+      "en": [
+        "Vetiver"
+      ],
+      "ht": [
+        "Vetivè"
+      ],
+      "fr": [
+        "Vétiver"
+      ]
+    }
+  },
+  {
+    "id": "hibiscus-sabdariffa-l",
+    "name": {
+      "en": "Roselle",
+      "ht": "Rozèl",
+      "fr": "Oseille de Guinée"
+    },
+    "scientific": "Hibiscus sabdariffa L.",
+    "family": "Malvaceae",
+    "local": [
+      "Rozèl"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Drink",
+        "Food",
+        "Medicinal"
+      ],
+      "ht": [
+        "Bwason",
+        "Manje",
+        "Medsin"
+      ],
+      "fr": [
+        "Boisson",
+        "Alimentation",
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Roselle is grown for its deep-red calyces, which are brewed into a tart red drink across the Caribbean. The calyces are also used in traditional practices. It is a different species from the ornamental hibiscus (choublak) already in the inventory.",
+      "ht": "Yo kiltive rozèl pou kalis wouj fonse li yo, yo fè yon bwason wouj ki gen gou si avè l nan tout Karayib la. Yo sèvi ak kalis yo tou nan kèk pratik tradisyonèl. Se yon espès diferan de ibiskis dekoratif la (choublak) ki deja nan envantè a.",
+      "fr": "La roselle est cultivée pour ses calices rouge foncé, qui donnent une boisson rouge acidulée dans toute la Caraïbe. Les calices sont également utilisés dans certaines pratiques traditionnelles. C'est une espèce différente de l'hibiscus ornemental (choublak) déjà présent dans l'inventaire."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Roselle%20%28Hibiscus%20sabdariffa%29%20fruits.jpg?width=1000",
+    "source": "McGill Archival Collections Catalogue, Roselle (Haitian Creole: Rozèl; French: Oseille de Guinée); Ali et al., Phytotherapy Research 2005.; Image: Wikimedia Commons: Roselle (Hibiscus sabdariffa) fruits.jpg by Salil Kumar Mukherjee; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Roselle%20%28Hibiscus%20sabdariffa%29%20fruits.jpg",
+    "localNames": {
+      "en": [
+        "Roselle",
+        "Red sorrel"
+      ],
+      "ht": [
+        "Rozèl"
+      ],
+      "fr": [
+        "Oseille de Guinée"
+      ]
+    }
+  },
+  {
+    "id": "zingiber-officinale-roscoe",
+    "name": {
+      "en": "Ginger",
+      "ht": "Jenjanm",
+      "fr": "Gingembre"
+    },
+    "scientific": "Zingiber officinale Roscoe",
+    "family": "Zingiberaceae",
+    "local": [
+      "Jenjanm"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Drink",
+        "Medicinal"
+      ],
+      "ht": [
+        "Manje",
+        "Bwason",
+        "Medsin"
+      ],
+      "fr": [
+        "Alimentation",
+        "Boisson",
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Ginger is a rhizome spice used in Haitian cooking and in te jenjanm (ginger tea). In Haitian traditional medicine, ginger is prepared as a decoction for complaints such as colds and fever. A study published in 2024 reported ginger among the medicinal plants frequently cited in a survey in Haiti's West Department. These are reported traditional uses, not proof that ginger treats or cures these conditions.",
+      "ht": "Jenjanm se yon epis ki soti nan yon rizòm; yo sèvi avè l nan manje ayisyen ak nan te jenjanm. Nan medsin tradisyonèl ayisyen, yo prepare jenjanm an dekoksyon pou pwoblèm tankou rim ak lafyèv. Yon etid ki te pibliye an 2024 rapòte jenjanm pami plant medsin yo te site souvan nan yon ankèt nan Depatman Lwès la. Sa yo se itilizasyon tradisyonèl yo rapòte, se pa prèv jenjanm geri pwoblèm sa yo.",
+      "fr": "Le gingembre est un rhizome utilisé comme épice dans la cuisine haïtienne et dans le te jenjanm (thé au gingembre). Dans la médecine traditionnelle haïtienne, il est préparé en décoction pour des troubles tels que le rhume et la fièvre. Une étude publiée en 2024 indique qu'il figurait parmi les plantes médicinales fréquemment citées dans une enquête menée dans le département de l'Ouest. Il s'agit d'usages traditionnels rapportés, non d'une preuve d'efficacité thérapeutique."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cultivo%20de%20Jengibre%20%28Zingiber%20officinale%29%2C%20Takiwasi%2C%20Per%C3%BA.jpg?width=1000",
+    "source": "Survey on the Traditional Use of Medicinal Herbs in Haiti, Plants 2024, 13, 2383; McGill Archival Collections Catalogue, Ginger (Jenjanm).; Image: Wikimedia Commons: Cultivo de Jengibre (Zingiber officinale), Takiwasi, Perú.jpg by Martín Huamán; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Cultivo%20de%20Jengibre%20%28Zingiber%20officinale%29%2C%20Takiwasi%2C%20Per%C3%BA.jpg",
+    "localNames": {
+      "en": [
+        "Ginger"
+      ],
+      "ht": [
+        "Jenjanm"
+      ],
+      "fr": [
+        "Gingembre"
+      ]
+    }
+  },
+  {
+    "id": "curcuma-longa-l",
+    "name": {
+      "en": "Turmeric",
+      "ht": "Safran",
+      "fr": "Curcuma"
+    },
+    "scientific": "Curcuma longa L.",
+    "family": "Zingiberaceae",
+    "local": [
+      "Safran"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Medicinal",
+        "Dye"
+      ],
+      "ht": [
+        "Manje",
+        "Medsin",
+        "Koloran"
+      ],
+      "fr": [
+        "Alimentation",
+        "Médicinal",
+        "Colorant"
+      ]
+    },
+    "description": {
+      "en": "Turmeric is a yellow rhizome in the ginger family. In Haiti it is called safran, but it is not the same plant as true saffron. It is used as a spice and yellow colouring in cooking, and is also mentioned in traditional practices as a dye and in herbal preparations.",
+      "ht": "Safran se yon rizòm jòn nan fanmi jenjanm lan. Ann Ayiti yo rele li safran, men se pa menm plant ak vrè safran an. Yo sèvi avè l kòm epis ak koloran jòn nan manje; yo itilize l tou nan kèk pratik tradisyonèl kòm koloran ak nan preparasyon fèy.",
+      "fr": "Le curcuma est un rhizome jaune de la famille du gingembre. En Haïti, on l'appelle safran, mais il ne s'agit pas de la même plante que le véritable safran. Il sert d'épice et de colorant jaune en cuisine; il est également mentionné dans certaines pratiques traditionnelles comme colorant et dans des préparations à base de plantes."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Curcuma%20longa%20roots.jpg?width=1000",
+    "source": "TRAMIL, Curcuma longa (Haiti: curcuma, safran); Plants 2024, 13, 2383 (Safran).; Image: Wikimedia Commons: Curcuma longa roots.jpg by Simon A. Eugster; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Curcuma%20longa%20roots.jpg",
+    "localNames": {
+      "en": [
+        "Turmeric"
+      ],
+      "ht": [
+        "Safran"
+      ],
+      "fr": [
+        "Curcuma"
+      ]
+    }
+  },
+  {
+    "id": "momordica-charantia-l",
+    "name": {
+      "en": "Bitter melon",
+      "ht": "Asosi",
+      "fr": "Margose"
+    },
+    "scientific": "Momordica charantia L.",
+    "family": "Cucurbitaceae",
+    "local": [
+      "Asosi",
+      "Asorosi"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Medicinal",
+        "Food"
+      ],
+      "ht": [
+        "Medsin",
+        "Manje"
+      ],
+      "fr": [
+        "Médicinal",
+        "Alimentation"
+      ]
+    },
+    "description": {
+      "en": "Asosi is a bitter climbing vine. Its leaves and stems are used to prepare a bitter tea in Haitian traditional practice, and its fruit is eaten as a vegetable. These are traditional uses only; medicinal preparations may carry risks, particularly during pregnancy, so they should not be used for self-treatment.",
+      "ht": "Asosi se yon lyann anmè k ap grenpe. Nan pratik tradisyonèl ann Ayiti, yo sèvi ak fèy ak tij li pou prepare yon te anmè, epi yo manje fwi li kòm legim. Sa yo se itilizasyon tradisyonèl sèlman; preparasyon medsin yo ka gen risk, sitou pandan gwosès, kidonk li pa bon pou sèvi avè yo kòm tretman san konsèy pwofesyonèl.",
+      "fr": "L'asosi est une liane grimpante amère. Dans la tradition haïtienne, ses feuilles et ses tiges servent à préparer une infusion amère, et son fruit se mange comme légume. Ces informations décrivent uniquement des usages traditionnels; les préparations médicinales peuvent présenter des risques, notamment pendant la grossesse, et ne doivent pas servir à l'automédication."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Momordica%20charantia%2008052014.jpg?width=1000",
+    "source": "TRAMIL, Momordica charantia (Haiti: asorosi, Asosi); Plants 2024, 13, 2383.; Image: Wikimedia Commons: Momordica charantia 08052014.jpg by Joydeep; CC BY-SA 3.0. https://commons.wikimedia.org/wiki/File:Momordica%20charantia%2008052014.jpg",
+    "localNames": {
+      "en": [
+        "Bitter melon",
+        "Cerasee"
+      ],
+      "ht": [
+        "Asosi",
+        "Asorosi"
+      ],
+      "fr": [
+        "Margose"
+      ]
+    }
+  },
+  {
+    "id": "crescentia-cujete-l",
+    "name": {
+      "en": "Calabash tree",
+      "ht": "Kalbas",
+      "fr": "Calebassier"
+    },
+    "scientific": "Crescentia cujete L.",
+    "family": "Bignoniaceae",
+    "local": [
+      "Kalbas"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Crafts",
+        "Household utensils",
+        "Medicinal",
+        "Ritual"
+      ],
+      "ht": [
+        "Atizana",
+        "Istensil kay",
+        "Medsin",
+        "Rityèl"
+      ],
+      "fr": [
+        "Artisanat",
+        "Ustensiles de ménage",
+        "Médicinal",
+        "Rituel"
+      ]
+    },
+    "description": {
+      "en": "The calabash tree bears hard-shelled fruits that are hollowed out into bowls, cups and containers. In Haiti, the dried fruit is also used to make the ason, a ceremonial rattle used in Vodou traditions. Some traditional herbal uses are also reported.",
+      "ht": "Pye kalbas la bay fwi ki gen kok di; yo vide yo pou fè bòl, gode ak lòt resipyan. Ann Ayiti, yo sèvi ak fwi sèk la tou pou fè ason an, yon enstriman seremoni yo itilize nan tradisyon Vodou. Gen kèk itilizasyon li nan pratik medsin tradisyonèl yo rapòte tou.",
+      "fr": "Le calebassier porte des fruits à coque dure que l'on évide pour en faire des bols, des tasses et d'autres récipients. En Haïti, le fruit séché sert aussi à fabriquer l'ason, un hochet cérémoniel utilisé dans les traditions vodou. Certains usages dans les pratiques médicinales traditionnelles sont également rapportés."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Calabash%20Tree%20%28Crescentia%20cujete%29.jpg?width=1000",
+    "source": "Wikipedia, Crescentia cujete (Haiti: kalbas kouran, ason); Plants for a Future, Crescentia cujete.; Image: Wikimedia Commons: Calabash Tree (Crescentia cujete).jpg by Mokkie; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Calabash%20Tree%20%28Crescentia%20cujete%29.jpg",
+    "localNames": {
+      "en": [
+        "Calabash tree"
+      ],
+      "ht": [
+        "Kalbas"
+      ],
+      "fr": [
+        "Calebassier"
+      ]
+    }
+  },
+  {
+    "id": "bixa-orellana-l",
+    "name": {
+      "en": "Annatto",
+      "ht": "Woukou",
+      "fr": "Roucou"
+    },
+    "scientific": "Bixa orellana L.",
+    "family": "Bixaceae",
+    "local": [
+      "Woukou"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food colouring",
+        "Dye",
+        "Medicinal"
+      ],
+      "ht": [
+        "Koloran manje",
+        "Koloran",
+        "Medsin"
+      ],
+      "fr": [
+        "Colorant alimentaire",
+        "Colorant",
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Annatto is a small tree with spiny red pods containing red seeds. The seeds provide an orange-red pigment called bixin, used to colour foods and as a dye. Traditional medicinal uses are also reported, but these should not be understood as proven treatments.",
+      "ht": "Woukou se yon ti pyebwa ki bay gous wouj ki gen pikan, ak grenn wouj anndan yo. Grenn yo bay yon pigman wouj-oranj ki rele biksin, yo sèvi avè l pou bay manje koulè ak kòm koloran. Yo rapòte kèk itilizasyon nan medsin tradisyonèl tou, men sa pa vle di yo se tretman ki pwouve.",
+      "fr": "Le roucou est un petit arbre aux gousses rouges épineuses contenant des graines rouges. Celles-ci fournissent un pigment rouge-orangé appelé bixine, utilisé pour colorer les aliments et comme teinture. Des usages médicinaux traditionnels sont également rapportés, sans constituer pour autant des traitements dont l'efficacité est démontrée."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Bixa%20orellana%20fruit%20open.jpg?width=1000",
+    "source": "ApotheCaribe, Roucou (Woukou in Haiti); PlantaeDB, Bixa orellana (ht: woukou, pye roukou); TRAMIL (Haiti: woukou).; Image: Wikimedia Commons: Bixa orellana fruit open.jpg by Leonardo Ré-Jorge; CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Bixa%20orellana%20fruit%20open.jpg",
+    "localNames": {
+      "en": [
+        "Annatto",
+        "Achiote"
+      ],
+      "ht": [
+        "Woukou"
+      ],
+      "fr": [
+        "Roucou"
+      ]
+    }
+  },
+  {
+    "id": "sorghum-bicolor-l-moench",
+    "name": {
+      "en": "Sorghum",
+      "ht": "Pitimi",
+      "fr": "Sorgho"
+    },
+    "scientific": "Sorghum bicolor (L.) Moench",
+    "family": "Poaceae",
+    "local": [
+      "Pitimi"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Crop",
+        "Animal feed"
+      ],
+      "ht": [
+        "Manje",
+        "Rekòt",
+        "Manje bèt"
+      ],
+      "fr": [
+        "Alimentation",
+        "Culture",
+        "Alimentation animale"
+      ]
+    },
+    "description": {
+      "en": "Sorghum is a drought-tolerant cereal and the third most important cereal crop produced in Haiti, after maize and rice. It is grown in several departments, including Artibonite and Centre. The grain is used for human food and processed drinks; the plant can also be used for animal feed. In Haiti, sorghum is also commonly called pitimi.",
+      "ht": "Pitimi se yon sereyal ki reziste sechrès. Se twazyèm sereyal ki pi enpòtan yo pwodui ann Ayiti, apre mayi ak diri. Yo kiltive li nan plizyè depatman, tankou Latibonit ak Sant. Yo sèvi ak grenn li pou manje ak nan bwason trete; yo ka sèvi ak plant lan tou pou manje bèt. Ann Ayiti, yo rele sorghum nan pitimi tou.",
+      "fr": "Le sorgho est une céréale résistante à la sécheresse et la troisième céréale la plus importante produite en Haïti, après le maïs et le riz. Il est cultivé dans plusieurs départements, notamment l'Artibonite et le Centre. Le grain sert à l'alimentation humaine et entre dans la fabrication de boissons transformées; la plante peut aussi servir à l'alimentation animale. En Haïti, le sorgho est également appelé pitimi."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sorghum%20bicolor%20Bild0902.jpg?width=1000",
+    "source": "Charles et al., Crop Science 2024 (third most crucial cereal in Haiti); ScienceDirect (pitimi cooked like rice in Haiti); NParks (porridge with green peas in Haiti).; Image: Wikimedia Commons: Sorghum bicolor Bild0902.jpg by Marco Schmidt; CC BY-SA 2.5. https://commons.wikimedia.org/wiki/File:Sorghum%20bicolor%20Bild0902.jpg FEWS NET, Haiti Staple Food Market Fundamentals (2018), section 5; Leclerc et al. (2014), as cited in Crop Science 2024.",
+    "localNames": {
+      "en": [
+        "Sorghum"
+      ],
+      "ht": [
+        "Pitimi"
+      ],
+      "fr": [
+        "Sorgho"
+      ]
+    }
+  }
+  
 
 
 
