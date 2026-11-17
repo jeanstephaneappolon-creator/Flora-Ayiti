@@ -3618,7 +3618,122 @@
         "Sorgho"
       ]
     }
+  },
+  {
+    "id": "coleus-amboinicus-lour",
+    "name": {
+      "en": "Cuban oregano",
+      "ht": "Gwo ten",
+      "fr": "Gros thym"
+    },
+    "scientific": "Coleus amboinicus Lour.",
+    "family": "Lamiaceae",
+    "local": [
+      "Gwo ten",
+      "Orèg",
+      "Gwo bònm"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Medicinal"
+      ],
+      "ht": [
+        "Manje",
+        "Medsin"
+      ],
+      "fr": [
+        "Alimentation",
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Gwo ten (Cuban oregano) is a thick-leaved, strongly scented herb in the mint family. Its fleshy, fuzzy leaves smell and taste like oregano and thyme, and are used fresh to season soups, stews and meat. In traditional medicine in Haiti and across the Caribbean, the leaves are used for coughs, colds and asthma, and as an infusion for painful periods. These are traditional uses, not proven medical treatments. The species is also known by the scientific synonym Plectranthus amboinicus, which remains widely used in Caribbean sources.",
+      "ht": "Gwo ten se yon zèb ak fèy epè ki gen bon sant fò, nan fanmi mant lan. Fèy li yo ki epè, chanèl epi ki kouvri ak ti plim gen sant ak gou origan ak ten; yo sèvi avè yo fre pou bay soup, bouyon ak vyann gou. Nan medsin tradisyonèl ann Ayiti ak nan tout Karayib la, yo sèvi ak fèy yo pou tous, rim ak opresyon, epi yo prepare enfizyon avè yo pou règ douloure. Se itilizasyon tradisyonèl sèlman — se pa yon konsèy medikal. Non syantifik li ekri tou Plectranthus amboinicus, yon sinonim yo itilize anpil nan sous Karayib yo.",
+      "fr": "Le gros thym est une herbe aux feuilles épaisses et très parfumées, de la famille des Lamiacées. Ses feuilles charnues et veloutées ont une odeur et un goût d'origan et de thym, et on les utilise fraîches pour parfumer les soupes, les ragoûts et les viandes. Dans la médecine traditionnelle en Haïti et dans toute la Caraïbe, les feuilles sont utilisées contre la toux, le rhume et l'asthme, et en infusion contre les règles douloureuses. Il s'agit d'usages traditionnels, et non de traitements médicaux dont l'efficacité est démontrée. L'espèce est également connue sous le synonyme scientifique Plectranthus amboinicus, encore très utilisé dans les sources caribéennes."
+    },
+    "image": "assets/Gwo-ten.jpg",
+    "source": "Photo: Jean Stéphane Appolon, Flora Ayiti.",
+    "localNames": {
+      "en": [
+        "Cuban oregano",
+        "Indian borage",
+        "Broad leaf thyme"
+      ],
+      "ht": [
+        "Gwo ten",
+        "Orèg",
+        "Gwo bònm",
+        "Gwo diten"
+      ],
+      "fr": [
+        "Gros thym",
+        "Origan cubain"
+      ]
+    }
+  },
+  {
+    "id": "lippia-alba-mill-nebr-ex-britton-p-wilson",
+    "name": {
+      "en": "Bushy lippia",
+      "ht": "Feblès",
+      "fr": "Mélisse de calme"
+    },
+    "scientific": "Lippia alba (Mill.) N.E.Br. ex Britton & P.Wilson",
+    "family": "Verbenaceae",
+    "local": [
+      "Feblès",
+      "Mélis"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Medicinal",
+        "Drink",
+        "Food"
+      ],
+      "ht": [
+        "Medsin",
+        "Bwason",
+        "Manje"
+      ],
+      "fr": [
+        "Médicinal",
+        "Boisson",
+        "Alimentation"
+      ]
+    },
+    "description": {
+      "en": "Feblès (Lippia alba) is an aromatic shrub, usually about 1 to 2 m high, with long, slender branches and opposite, wrinkled leaves with prominent veins and finely toothed edges. In Haiti, the leaves are traditionally prepared as a tea for tiredness, flu and colds, and are also used as a seasoning. These are traditional uses, not proven medical treatments. TRAMIL advises against use during pregnancy or breastfeeding, in children under 8 years old, and alongside antidepressant, anxiolytic or sedative treatments.",
+      "ht": "Feblès se yon ti pyebwa aromatik ki ka mezire anviwon 1 a 2 m wotè. Li gen branch long ak mens, ansanm ak fèy opoze ki ridye, ki gen venn byen vizib ak rebò ki gen ti dan. Ann Ayiti, nan medsin tradisyonèl, yo prepare fèy yo an te pou fatig, grip ak rim; yo sèvi avè yo tou kòm epis. Sa yo se itilizasyon tradisyonèl, se pa tretman medikal ki pwouve. Dapre TRAMIL, yo pa dwe sèvi avè l pandan gwosès oswa pandan y ap bay tete, ni pou timoun ki poko gen 8 an. Yo pa dwe konbine l ak tretman antidepresè, anksyolitik oswa sedatif.",
+      "fr": "Feblès (Lippia alba) est un arbuste aromatique d'environ 1 à 2 m de haut, aux longues branches fines et aux feuilles opposées, ridées, aux nervures bien visibles et aux bords finement dentés. En Haïti, dans la tradition, les feuilles sont préparées en infusion contre la fatigue, la grippe et le rhume; elles sont également utilisées comme condiment. Il s'agit d'usages traditionnels et non de traitements médicaux dont l'efficacité est démontrée. Selon TRAMIL, la plante ne doit pas être utilisée pendant la grossesse ou l'allaitement, chez les enfants de moins de 8 ans, ni en association avec des traitements antidépresseurs, anxiolytiques ou sédatifs."
+    },
+    "image": "assets/Melisse.jpg",
+    "source": "Photo: Jean Stéphane Appolon, Flora Ayiti.",
+    "localNames": {
+      "en": [
+        "Bushy lippia",
+        "Bushy matgrass"
+      ],
+      "ht": [
+        "Feblès",
+        "Melis"
+      ],
+      "fr": [
+        "Mélisse de calme"
+      ]
+    }
   }
+
   
 
 
