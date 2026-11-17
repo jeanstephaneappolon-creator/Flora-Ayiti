@@ -3732,7 +3732,524 @@
         "Mélisse de calme"
       ]
     }
+  },
+  {
+    "id": "petiveria-alliacea-l",
+    "name": {
+      "en": "Guinea hen weed",
+      "ht": "Ave",
+      "fr": "Herbe aux poules"
+    },
+    "scientific": "Petiveria alliacea L.",
+    "family": "Phytolaccaceae",
+    "local": [
+      "Ave",
+      "Fèy ave",
+      "Anamu",
+      "Vèvènn"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Medicinal"
+      ],
+      "ht": [
+        "Medsin"
+      ],
+      "fr": [
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Ave is a perennial herb with a strong, garlic-like smell when its leaves are crushed. TRAMIL records several traditional Caribbean uses, including preparations of the leaves or roots for digestive complaints, colds, skin conditions and other complaints. These are traditional practices, not proof of medical effectiveness. TRAMIL advises against use during pregnancy, breastfeeding and in children under 8, and notes possible interactions with diabetes medicines.",
+      "ht": "Ave se yon plant vivas ki gen yon sant fò ki sanble ak lay lè yo kraze fèy li yo. TRAMIL dokimante plizyè itilizasyon tradisyonèl nan Karayib la, tankou preparasyon fèy oswa rasin pou pwoblèm dijesyon, rim, pwoblèm po ak lòt malèz. Se pratik tradisyonèl sa yo ye; sa pa vle di yo pwouve kòm tretman medikal. TRAMIL pa rekòmande itilizasyon li pandan gwosès, lè moun ap bay tete, ni pou timoun ki poko gen 8 an; li note tou posib entèraksyon ak medikaman pou dyabèt.",
+      "fr": "L'ave est une plante vivace à forte odeur d'ail lorsque ses feuilles sont froissées. TRAMIL recense plusieurs usages traditionnels dans les Caraïbes, notamment des préparations de feuilles ou de racines pour des troubles digestifs, les refroidissements, les problèmes de peau et d'autres symptômes. Il s'agit de pratiques traditionnelles, et non d'une preuve d'efficacité médicale. TRAMIL déconseille son usage pendant la grossesse et l'allaitement, ainsi que chez les enfants de moins de 8 ans, et signale des interactions possibles avec les médicaments contre le diabète."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Petiveria%20alliacea%20leaves%20in%20West%20Bengal%2C%20India.jpg?width=1000",
+    "source": "TRAMIL, Petiveria alliacea (Haiti: ave; other Haitian vernacular names include Anamú/ave, Ave and Vèvènn; traditional uses and safety information), https://tramil.net/en/plant/petiveria-alliacea. Image: Wikimedia Commons, Petiveria alliacea leaves in West Bengal, India.jpg, Billjones94, CC BY-SA 4.0.",
+    "localNames": {
+      "en": [
+        "Guinea hen weed",
+        "Anamu"
+      ],
+      "ht": [
+        "Ave",
+        "Fèy ave",
+        "Anamu",
+        "Vèvènn"
+      ],
+      "fr": [
+        "Herbe aux poules"
+      ]
+    }
+  },
+  {
+    "id": "cecropia-peltata-l",
+    "name": {
+      "en": "Trumpet tree",
+      "ht": "Tronpèt",
+      "fr": "Bois trompette"
+    },
+    "scientific": "Cecropia peltata L.",
+    "family": "Urticaceae",
+    "local": [
+      "Tronpèt",
+      "Tronpet",
+      "Twonpèt"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [],
+      "ht": [],
+      "fr": []
+    },
+    "description": {
+      "en": "Tronpèt is a fast-growing tropical tree with large, deeply lobed leaves that are pale and felt-like underneath. TRAMIL records Tronpèt, Tronpet and Twonpèt as Haitian names for Cecropia peltata. The species is also known regionally as a trumpet tree. Specific food or medicinal uses should be added only when supported by a reliable Haiti-specific source.",
+      "ht": "Tronpèt se yon pyebwa twopikal ki grandi vit, ak gwo fèy ki fann an plizyè pati epi ki gen yon anba pal, tankou li kouvri ak ti plim. TRAMIL bay Tronpèt, Tronpet ak Twonpèt kòm non ayisyen pou Cecropia peltata. Yo konnen espès sa a tou nan rejyon an kòm yon pyebwa twonpèt. Nou ta dwe ajoute itilizasyon kòm manje oswa medikaman sèlman lè gen yon sous serye ki konfime yo pou Ayiti.",
+      "fr": "Le tronpèt est un arbre tropical à croissance rapide, aux grandes feuilles profondément lobées et au revers pâle et velouté. TRAMIL recense Tronpèt, Tronpet et Twonpèt comme noms haïtiens de Cecropia peltata. L'espèce est également connue dans la région comme arbre trompette. Les usages alimentaires ou médicinaux ne devraient être ajoutés que s'ils sont confirmés par une source fiable propre à Haïti."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Cecropia%20peltata%2006.jpg?width=1000",
+    "source": "TRAMIL, Cecropia peltata (Haitian vernacular names: Tronpèt, Tronpet, Twonpèt), https://www.tramil.net/en/plant/cecropia-peltata; Useful Tropical Plants, Cecropia peltata (botanical description and regional uses). Image: Wikimedia Commons, Cecropia peltata 06.jpg, Alexespinosaco, CC BY 4.0.",
+    "localNames": {
+      "en": [
+        "Trumpet tree"
+      ],
+      "ht": [
+        "Tronpèt",
+        "Tronpet",
+        "Twonpèt"
+      ],
+      "fr": [
+        "Bois trompette"
+      ]
+    }
+  },
+  {
+    "id": "stachytarpheta-jamaicensis-l-vahl",
+    "name": {
+      "en": "Jamaican vervain",
+      "ht": "Vèvènn",
+      "fr": "Verveine bleue"
+    },
+    "scientific": "Stachytarpheta jamaicensis (L.) Vahl",
+    "family": "Verbenaceae",
+    "local": [
+      "Vèvènn",
+      "Vèvènn karayib",
+      "Vèvènn ke rat"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Medicinal",
+        "Drink"
+      ],
+      "ht": [
+        "Medsin",
+        "Bwason"
+      ],
+      "fr": [
+        "Médicinal",
+        "Boisson"
+      ]
+    },
+    "description": {
+      "en": "Vèvènn is a low-growing herb with small blue flowers arranged along long, slender spikes. A Haitian ethnobotanical survey records its use in infusions or decoctions for headaches. This documents traditional practice, not a proven medical treatment.",
+      "ht": "Vèvènn se yon ti plant ki grandi ba, ak ti flè ble ki ranje sou long grap mens. Yon etid etnobotanik ann Ayiti dokimante itilizasyon li nan te oswa dekoksyon pou tèt fè mal. Sa dokimante yon pratik tradisyonèl; li pa pwouve plant lan kòm tretman medikal.",
+      "fr": "La vèvènn est une plante herbacée basse portant de petites fleurs bleues disposées le long de longs épis fins. Une étude ethnobotanique menée en Haïti documente son utilisation en infusion ou en décoction contre les maux de tête. Cela décrit une pratique traditionnelle et ne constitue pas une preuve d'efficacité médicale."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Stachytarpheta%20jamaicensis%20florida.jpg?width=1000",
+    "source": "TRAMIL, Stachytarpheta jamaicensis (Haitian names: Vèvèn/verbena, Vèvènn, Vèvènn ke rat), https://www.tramil.net/en/plant/stachytarpheta-jamaicensis; Survey on the Traditional Use of Medicinal Herbs in Haiti (traditional infusion/decoction use for headaches). Image: Wikimedia Commons, Stachytarpheta jamaicensis florida.jpg, Swflhort, CC BY-SA 4.0.",
+    "localNames": {
+      "en": [
+        "Jamaican vervain",
+        "Blue porterweed"
+      ],
+      "ht": [
+        "Vèvènn",
+        "Vèvènn karayib",
+        "Vèvènn ke rat"
+      ],
+      "fr": [
+        "Verveine bleue"
+      ]
+    }
+  },
+  {
+    "id": "ocimum-basilicum-l",
+    "name": {
+      "en": "Sweet basil",
+      "ht": "Bazilik",
+      "fr": "Basilic"
+    },
+    "scientific": "Ocimum basilicum L.",
+    "family": "Lamiaceae",
+    "local": [
+      "Bazilik"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Medicinal"
+      ],
+      "ht": [
+        "Manje",
+        "Medsin"
+      ],
+      "fr": [
+        "Alimentation",
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Bazilik is an aromatic herb cultivated for its fragrant leaves, which are used to season sauces, stews, salads and vegetables. It is also used in some traditional preparations, although particular medicinal effects should not be treated as established medical benefits.",
+      "ht": "Bazilik se yon plant aromatik yo kiltive pou fèy santi bon li yo, yo sèvi pou bay sòs, bouyon, salad ak legim bon gou. Yo sèvi avè l tou nan kèk preparasyon tradisyonèl, men sa pa dwe prezante kòm prèv li gen efè medikal ki deja etabli.",
+      "fr": "Le basilic est une plante aromatique cultivée pour ses feuilles parfumées, utilisées pour assaisonner les sauces, les ragoûts, les salades et les légumes. Il entre aussi dans certaines préparations traditionnelles, sans que cela constitue une preuve d'effets médicaux établis."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ocimum%20basilicum%20CG%20NBG%20LR.jpg?width=1000",
+    "source": "Purdue Extension, Basil (culinary herb and cultivation information); traditional medicinal uses are not specified here. Image: Wikimedia Commons, Ocimum basilicum CG NBG LR.jpg, PumpkinSky, CC BY-SA 4.0.",
+    "localNames": {
+      "en": [
+        "Sweet basil",
+        "Basil"
+      ],
+      "ht": [
+        "Bazilik"
+      ],
+      "fr": [
+        "Basilic"
+      ]
+    }
+  },
+  {
+    "id": "jatropha-curcas-l",
+    "name": {
+      "en": "Physic nut",
+      "ht": "Medsiyen",
+      "fr": "Médicinier"
+    },
+    "scientific": "Jatropha curcas L.",
+    "family": "Euphorbiaceae",
+    "local": [
+      "Medsiyen",
+      "Medsinyen",
+      "Metsiyen",
+      "Gwo medsiyen"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Medicinal"
+      ],
+      "ht": [
+        "Medsin"
+      ],
+      "fr": [
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Medsiyen is a shrub or small tree, usually up to about 5 m tall, with lobed leaves and milky latex. A Haitian ethnobotanical survey records fresh leaves used in a bath. WARNING: TRAMIL advises not to ingest the seeds or any other part of the plant because of toxicity; it also lists precautions for pregnancy, breastfeeding and young children. Traditional use only — not medical advice.",
+      "ht": "Medsiyen se yon ti pyebwa oswa yon ti pye bwa ki ka rive anviwon 5 m wotè, ak fèy ki gen plizyè lob epi yon sèv blan. Yon etid etnobotanik ann Ayiti dokimante itilizasyon fèy fre li yo nan beny. ATANSYON: TRAMIL konseye pou moun pa vale grenn li yo ni okenn lòt pati plant lan akoz toksisite li. Li bay prekosyon tou pou gwosès, bay tete ak timoun piti. Se yon itilizasyon tradisyonèl sèlman — se pa yon konsèy medikal.",
+      "fr": "Le médicinier est un arbuste ou petit arbre pouvant atteindre environ 5 m, avec des feuilles lobées et un latex laiteux. Une étude ethnobotanique menée en Haïti rapporte l'utilisation de feuilles fraîches dans le bain. ATTENTION : TRAMIL déconseille d'ingérer les graines ou toute autre partie de la plante en raison de sa toxicité et mentionne des précautions pendant la grossesse, l'allaitement et chez les jeunes enfants. Usage traditionnel uniquement — ce n'est pas un avis médical."
+    },
+    "image": "",
+    "source": "TRAMIL, Jatropha curcas (Haiti: medsiyen; traditional uses, botanical description and safety recommendations), https://tramil.net/en/plant/jatropha-curcas; Survey on the Traditional Use of Medicinal Herbs in Haiti (Gwo medsiyen; fresh leaves used for bathing). Image omitted pending verification of the exact Wikimedia Commons file license.",
+    "localNames": {
+      "en": [
+        "Physic nut",
+        "Barbados nut"
+      ],
+      "ht": [
+        "Medsiyen",
+        "Medsinyen",
+        "Metsiyen",
+        "Gwo medsiyen"
+      ],
+      "fr": [
+        "Médicinier",
+        "Pignon d'Inde"
+      ]
+    }
+  },
+  {
+    "id": "ricinus-communis-l",
+    "name": {
+      "en": "Castor bean",
+      "ht": "Maskreti",
+      "fr": "Ricin"
+    },
+    "scientific": "Ricinus communis L.",
+    "family": "Euphorbiaceae",
+    "local": [
+      "Maskreti",
+      "Fèy maskreti",
+      "Palma Christi"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Medicinal"
+      ],
+      "ht": [
+        "Medsin"
+      ],
+      "fr": [
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Maskreti is a fast-growing shrub with large, palm-shaped leaves. Its seeds are processed industrially to produce castor oil, which has non-food uses. WARNING: the seeds are highly poisonous because they contain ricin and must never be eaten. Do not confuse the toxic seeds with properly manufactured castor oil.",
+      "ht": "Maskreti se yon ti pyebwa ki grandi vit, ak gwo fèy ki gen fòm pla men. Yo trete grenn li yo nan endistri pou pwodui lwil maskreti, ki gen itilizasyon ki pa manje. ATANSYON: grenn yo gen risin, yon sibstans ki trè pwazon; yo pa dwe manje yo janm. Pa konfonn grenn pwazon yo ak lwil maskreti ki fabrike nan bon kondisyon.",
+      "fr": "Le ricin est un arbuste à croissance rapide, aux grandes feuilles en forme de main. Ses graines sont transformées industriellement pour produire l'huile de ricin, qui a des usages non alimentaires. ATTENTION : les graines sont très toxiques parce qu'elles contiennent de la ricine et ne doivent jamais être consommées. Il ne faut pas confondre les graines toxiques avec l'huile de ricin correctement fabriquée."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Ricinus%20communis%20-%20Fruits.jpg?width=1000",
+    "source": "Survey on the Traditional Use of Medicinal Herbs in Haiti (Ricinus communis; Haitian name: Fèy maskreti; recorded use: oil); authoritative toxicology references on ricin and castor beans. Image: Wikimedia Commons, Ricinus communis - Fruits.jpg, Moonik, CC BY-SA 3.0.",
+    "localNames": {
+      "en": [
+        "Castor bean",
+        "Castor oil plant"
+      ],
+      "ht": [
+        "Maskreti",
+        "Fèy maskreti",
+        "Palma Christi"
+      ],
+      "fr": [
+        "Ricin"
+      ]
+    }
+  },
+  {
+    "id": "vigna-unguiculata-l-walp",
+    "name": {
+      "en": "Cowpea",
+      "ht": "Pwa je nwa",
+      "fr": "Niébé"
+    },
+    "scientific": "Vigna unguiculata (L.) Walp.",
+    "family": "Fabaceae",
+    "local": [
+      "Pwa je nwa",
+      "Pwa Nèg",
+      "Pwa Enkoni",
+      "Pwa Long"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food"
+      ],
+      "ht": [
+        "Manje"
+      ],
+      "fr": [
+        "Alimentation"
+      ]
+    },
+    "description": {
+      "en": "Pwa je nwa is a warm-season annual legume cultivated for its protein-rich seeds; young pods and leaves may also be eaten as vegetables. Haitian agricultural literature records several regional names, including Pwa je nwa in the Central Plateau, Pwa Nèg in the North and Pwa Enkoni in Artibonite. As a legume, cowpea can fix atmospheric nitrogen through its root nodules.",
+      "ht": "Pwa je nwa se yon legim anyèl ki renmen chalè, yo kiltive l pou grenn li yo ki gen anpil pwoteyin; yo ka manje jenn gous ak fèy li yo tou kòm legim. Dokiman agrikòl sou Ayiti bay plizyè non selon rejyon an, tankou Pwa je nwa nan Plato Santral, Pwa Nèg nan Nò ak Pwa Enkoni nan Latibonit. Tankou lòt legim nan fanmi sa a, li ka fikse azòt nan lè a grasa ti boul ki sou rasin li yo.",
+      "fr": "Le niébé est une légumineuse annuelle de saison chaude cultivée pour ses graines riches en protéines; les jeunes gousses et les feuilles peuvent également être consommées comme légumes. La littérature agronomique haïtienne relève plusieurs noms régionaux, dont Pwa je nwa dans le Plateau central, Pwa Nèg dans le Nord et Pwa Enkoni dans l'Artibonite. Comme les autres légumineuses, le niébé peut fixer l'azote atmosphérique grâce aux nodules de ses racines."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/BlackEyedPeas.JPG?width=1000",
+    "source": "Haitian agronomy thesis on Vigna unguiculata (regional Haitian names: Pwa je nwa, Pwa Nèg, Pwa Enkoni, Pwa Long); Iowa State University Extension, cowpea production and crop uses. Image: Wikimedia Commons, BlackEyedPeas.JPG, Toby Hudson, CC BY-SA 3.0.",
+    "localNames": {
+      "en": [
+        "Cowpea",
+        "Black-eyed pea"
+      ],
+      "ht": [
+        "Pwa je nwa",
+        "Pwa Nèg",
+        "Pwa Enkoni",
+        "Pwa Long"
+      ],
+      "fr": [
+        "Niébé"
+      ]
+    }
+  },
+  {
+    "id": "xanthosoma-sagittifolium-l-schott",
+    "name": {
+      "en": "Malanga",
+      "ht": "Malanga",
+      "fr": "Tannia"
+    },
+    "scientific": "Xanthosoma sagittifolium (L.) Schott",
+    "family": "Araceae",
+    "local": [
+      "Malanga"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food"
+      ],
+      "ht": [
+        "Manje"
+      ],
+      "fr": [
+        "Alimentation"
+      ]
+    },
+    "description": {
+      "en": "Malanga is a tropical food crop grown for its starchy corms and edible leaves. The corms are commonly boiled, fried or mashed, while young leaves are cooked as greens. It must be thoroughly cooked; raw or undercooked parts may irritate the mouth and throat.",
+      "ht": "Malanga se yon plant manje twopikal yo kiltive pou kòm li yo ki gen anpil lanmidon ak fèy li yo ki ka manje. Yo konn bouyi, fri oswa kraze kòm yo; yo kwit jenn fèy yo tankou lòt fèy legim. Fòk yo byen kwit li; pati ki kri oswa ki pa kwit ase ka irite bouch ak gòj.",
+      "fr": "Le malanga est une plante vivrière tropicale cultivée pour ses cormes riches en amidon et ses feuilles comestibles. Les cormes sont généralement bouillis, frits ou réduits en purée, tandis que les jeunes feuilles sont cuites comme des légumes verts. Il doit être bien cuit : les parties crues ou insuffisamment cuites peuvent irriter la bouche et la gorge."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Xanthosoma%20sagittifolium.jpg?width=1000",
+    "source": "Nutrition and You, Malanga (food use and preparation); scientific literature on Xanthosoma sagittifolium as a tropical staple and food crop. Image: Wikimedia Commons, Xanthosoma sagittifolium.jpg, Tauʻolunga, CC BY-SA 2.5.",
+    "localNames": {
+      "en": [
+        "Malanga",
+        "Tannia"
+      ],
+      "ht": [
+        "Malanga"
+      ],
+      "fr": [
+        "Tannia",
+        "Malanga"
+      ]
+    }
+  },
+  {
+    "id": "sesamum-indicum-l",
+    "name": {
+      "en": "Sesame",
+      "ht": "Wowoli",
+      "fr": "Sésame"
+    },
+    "scientific": "Sesamum indicum L.",
+    "family": "Pedaliaceae",
+    "local": [
+      "Wowoli"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food",
+        "Medicinal"
+      ],
+      "ht": [
+        "Manje",
+        "Medsin"
+      ],
+      "fr": [
+        "Alimentation",
+        "Médicinal"
+      ]
+    },
+    "description": {
+      "en": "Wowoli is an annual oilseed crop cultivated for its small seeds, which are eaten whole, roasted or ground and pressed to produce sesame oil. The Haitian Creole name is retained here but should be confirmed with a local speaker or agricultural source before publication. Traditional medicinal claims are omitted because a reliable Haiti-specific source was not verified.",
+      "ht": "Wowoli se yon plant anyèl yo kiltive pou ti grenn li yo. Yo manje grenn yo antye, griye oswa moulen, epi yo peze yo pou fè lwil wowoli. Nou kenbe non kreyòl la pou kounye a, men li ta bon pou yon moun nan kominote a oswa yon sous agrikòl ann Ayiti konfime li anvan piblikasyon. Nou pa mete reklamasyon medsin tradisyonèl paske nou poko jwenn yon sous serye ki konfime yo ann Ayiti.",
+      "fr": "Le sésame est une culture oléagineuse annuelle cultivée pour ses petites graines, consommées entières, grillées ou moulues, et pressées pour produire de l'huile de sésame. Le nom créole est conservé ici, mais devrait être confirmé par un locuteur local ou une source agricole haïtienne avant publication. Les affirmations médicinales traditionnelles sont omises faute de source haïtienne fiable vérifiée."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Sesamum%20indicum%201369.jpg?width=1000",
+    "source": "Purdue Extension, Sesame (crop and seed uses); Practical Plants, Sesame (seed and oil uses). Haitian Creole name 'Wowoli' retained provisionally pending local confirmation. Image: Wikimedia Commons, Sesamum indicum 1369.jpg, Vengolis, CC BY-SA 4.0.",
+    "localNames": {
+      "en": [
+        "Sesame"
+      ],
+      "ht": [
+        "Wowoli"
+      ],
+      "fr": [
+        "Sésame"
+      ]
+    }
+  },
+  {
+    "id": "pouteria-sapota-jacq-h-e-moore-stearn",
+    "name": {
+      "en": "Mamey sapote",
+      "ht": "Sapot",
+      "fr": "Sapote mamey"
+    },
+    "scientific": "Pouteria sapota (Jacq.) H.E. Moore & Stearn",
+    "family": "Sapotaceae",
+    "local": [
+      "Sapot",
+      "Gwo sapot"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Food"
+      ],
+      "ht": [
+        "Manje"
+      ],
+      "fr": [
+        "Alimentation"
+      ]
+    },
+    "description": {
+      "en": "Sapot is a large tropical fruit tree with rough brown skin and sweet, salmon-orange flesh. The ripe pulp is eaten fresh and used in milkshakes, ice cream and preserves. The seed is not ordinarily eaten; avoid presenting it as food.",
+      "ht": "Sapot se yon gwo pye fwi twopikal ki gen po mawon ki graj ak yon chè dous koulè somon-oranj. Yo manje chè fwi mi an fre oswa yo sèvi avè l pou fè milkshake, krèm glase ak konfiti. An jeneral, yo pa manje grenn lan; pa prezante l kòm manje.",
+      "fr": "La sapote mamey est un grand arbre fruitier tropical à peau brune rugueuse et à chair douce, de couleur saumon-orangé. La pulpe mûre se consomme fraîche ou sert à préparer des milkshakes, des glaces et des confitures. La graine n'est généralement pas consommée; il ne faut pas la présenter comme un aliment."
+    },
+    "image": "https://commons.wikimedia.org/wiki/Special:Redirect/file/ARS-%20Pouteria%20sapota.jpg?width=1000",
+    "source": "Postharvest review on mamey sapote (fruit pulp and food uses); World Agroforestry, Pouteria sapota (botanical description and fruit characteristics). Image: Wikimedia Commons, ARS- Pouteria sapota.jpg, USDA-ARS, public domain.",
+    "localNames": {
+      "en": [
+        "Mamey sapote",
+        "Marmalade plum"
+      ],
+      "ht": [
+        "Sapot",
+        "Gwo sapot"
+      ],
+      "fr": [
+        "Sapote mamey",
+        "Grosse sapote"
+      ]
+    }
   }
+
 
   
 
