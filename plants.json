@@ -4248,7 +4248,56 @@
         "Grosse sapote"
       ]
     }
+  },
+  {
+    "description": {
+      "en": "Ixora is a dense evergreen shrub with glossy, leathery, oblong leaves in opposite pairs and dense rounded clusters of small tubular orange-red flowers with four petals, blooming almost all year. In Haiti it is grown as a garden shrub and hedge; the Haiti plant-name glossary lists it simply as Ixora. It is native to southern India, Bangladesh and Sri Lanka and is widely cultivated in the Caribbean and Florida. In Indian traditional medicine the flowers, leaves, roots and stem are used for various ailments, but no Haitian medicinal use was found — that use is not claimed here.",
+      "fr": "L'ixora est un arbuste persistant et dense, aux feuilles brillantes, coriaces et oblongues, disposées en paires opposées, et aux grappes arrondies et denses de petites fleurs tubulaires orange-rouge à quatre pétales, qui fleurissent presque toute l'année. En Haïti, on le cultive comme arbuste de jardin et en haie ; le lexique des noms de plantes d'Haïti l'appelle tout simplement Ixora. Il est originaire du sud de l'Inde, du Bangladesh et du Sri Lanka, et il est largement cultivé dans la Caraïbe et en Floride. En médecine traditionnelle indienne, on utilise ses fleurs, ses feuilles, ses racines et sa tige contre diverses affections, mais aucun usage médicinal haïtien n'a été trouvé — cet usage n'est pas revendiqué ici.",
+      "ht": "Ixora se yon ti pyebwa ki rete vèt tout ane a, ak fèy briyan, ki gen fòm oval long, epi ki grandi an pè opoze. Li bay grap wonn ti flè tib koulè oranj-wouj, ak kat petal, prèske tout ane a. Ann Ayiti yo kiltive l kòm plant dekoratif nan jaden ak kòm bòdi. Pou kounye a, nou poko konfime yon non kreyòl apa pou espès sa a. Li soti nan sid Lend, Bangladèch ak Sri Lanka, epi yo kiltive l nan anpil zòn twopikal."
+    },
+    "family": "Rubiaceae",
+    "id": "ixora-coccinea-l",
+    "image": "assets/Ixora.jpg",
+    "local": [
+      "Ixora"
+    ],
+    "localNames": {
+      "en": [
+        "Jungle geranium",
+        "Flame of the woods",
+        "Jungle flame",
+        "Red ixora"
+      ],
+      "fr": [
+        "Ixora"
+      ],
+      "ht": []
+    },
+    "name": {
+      "en": "Jungle geranium",
+      "fr": "Ixora",
+      "ht": "Non poko konfime"
+    },
+    "region": {
+      "en": "Haiti",
+      "fr": "Haïti",
+      "ht": "Ayiti"
+    },
+    "scientific": "Ixora coccinea L.",
+    "source": "Pl@ntUse, Glossary of plantnames in Haiti (Ekman herbarium: Ixora — Ixora coccinea L., Rubiaceae); NC State Extension, Ixora coccinea; Missouri Botanical Garden Plant Finder; NYBG Steere Herbarium (Haiti specimens, 1920 and 1941). Haitian Creole common name not yet confirmed; image to be supplied by the project owner. Photo: Jean Stéphane Appolon, Flora Ayiti.",
+    "uses": {
+      "en": [
+        "Ornamental"
+      ],
+      "fr": [
+        "Ornemental"
+      ],
+      "ht": [
+        "Dekoratif"
+      ]
+    }
   }
+
 
 
   
