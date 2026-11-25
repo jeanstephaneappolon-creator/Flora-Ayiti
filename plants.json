@@ -4456,7 +4456,130 @@
       "Comoclade dentée"
     ]
   }
-}
+},
+  [
+  {
+    "id": "musa-poban-bluggoe",
+    "name": {
+      "en": "Bluggoe banana",
+      "ht": "Bannann Poban",
+      "fr": "Banane Bluggoe"
+    },
+    "scientific": "Musa (ABB Group), Bluggoe subgroup",
+    "family": "Musaceae",
+    "local": [
+      "Bannann Poban",
+      "Bannann Gòsbòt",
+      "Bannann Masòk"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Cooking banana",
+        "Traditional food preparation",
+        "Flour production"
+      ],
+      "ht": [
+        "Bannann pou fè manje",
+        "Preparasyon manje tradisyonèl",
+        "Fabrikasyon farin"
+      ],
+      "fr": [
+        "Banane à cuire",
+        "Préparations culinaires traditionnelles",
+        "Production de farine"
+      ]
+    },
+    "description": {
+      "en": "Bannann Poban is a cooking banana known in Haiti by regional names that include Poban, Gòsbòt and Masòk, according to local knowledge shared for this entry. A Haitian agricultural report identifies Poban as the Bluggoe type, in the ABB banana group, and notes that it is drought-resistant and occurs in drier production areas. It is used in cooking; Haitian sources also document Poban for flour production.",
+      "ht": "Bannann Poban se yon bannann yo itilize pou fè manje. Dapre konesans lokal yo pataje pou fich sa a, non li ka varye selon rejyon an: Poban, Gòsbòt oswa Masòk. Yon rapò agrikòl sou Ayiti idantifye Poban kòm tip Bluggoe, nan gwoup bannann ABB a, epi li fè konnen li reziste ak sechrès e yo jwenn li nan zòn ki pi sèk yo. Yo sèvi avè l nan manje; sous ayisyen yo mansyone tou itilizasyon Poban pou fè farin.",
+      "fr": "La Bannann Poban est une banane à cuire. Selon les connaissances locales communiquées pour cette fiche, son nom varie selon les régions : Poban, Gòsbòt ou Masòk. Un rapport agricole consacré à Haïti identifie Poban au type Bluggoe, du groupe ABB, et indique qu'il résiste à la sécheresse et est présent dans les zones de production plus sèches. Il est utilisé en cuisine ; des sources haïtiennes documentent également l'utilisation de Poban pour produire de la farine."
+    },
+    "image": "",
+    "source": "R.H. Stover, Plant Disease Problems in Banana and Plantain in Haiti, Haiti Productive Land Use Systems Project, Report No. 26 (1994), identifies Poban as Bluggoe and describes its drought resistance: https://aurora.auburn.edu/handle/11200/49576. FEWS NET, Haiti Staple Food Market Fundamentals (2018), sections 8.1–8.2, documents Poban for flour production: https://fews.net/sites/default/files/documents/reports/Haiti%20MFR_final_20180326.pdf. Regional names Poban, Gòsbòt and Masòk recorded from local knowledge shared by the Flora Ayiti contributor; regional distribution of each name has not been independently verified. Image pending. Image pending: no photograph selected yet.",
+    "localNames": {
+      "en": [
+        "Bluggoe banana",
+        "Cooking banana"
+      ],
+      "ht": [
+        "Bannann Poban",
+        "Bannann Gòsbòt",
+        "Bannann Masòk"
+      ],
+      "fr": [
+        "Banane Bluggoe",
+        "Banane à cuire"
+      ]
+    }
+  },
+  {
+    "id": "musa-dessert-banana-fig",
+    "name": {
+      "en": "Dessert banana",
+      "ht": "Fig Bannann",
+      "fr": "Banane dessert"
+    },
+    "scientific": "Musa spp. (dessert banana; cultivar not confirmed)",
+    "family": "Musaceae",
+    "local": [
+      "Fig",
+      "Fig Mi",
+      "Fig Bannann"
+    ],
+    "region": {
+      "en": "Haiti",
+      "ht": "Ayiti",
+      "fr": "Haïti"
+    },
+    "uses": {
+      "en": [
+        "Unripe fruit boiled and eaten with sauces",
+        "Ripe fruit eaten, especially at breakfast",
+        "Juice preparation using ripe fruit",
+        "Ingredient in other recipes using ripe fruit"
+      ],
+      "ht": [
+        "Fwi ki poko mi a bouyi epi manje ak sòs",
+        "Fwi mi manje, sitou nan dejene",
+        "Preparasyon ji ak fwi mi",
+        "Itilizasyon fwi mi nan lòt resèt"
+      ],
+      "fr": [
+        "Fruit vert bouilli et consommé avec des sauces",
+        "Fruit mûr consommé, surtout au petit-déjeuner",
+        "Préparation de jus avec le fruit mûr",
+        "Utilisation du fruit mûr dans d'autres recettes"
+      ]
+    },
+    "description": {
+      "en": "In Haiti, this dessert banana is called Fig when it is unripe and Fig Mi when ripe, according to local knowledge shared for this entry. The unripe fruit is boiled and eaten with different sauces. When ripe, it is sweet and is eaten especially at breakfast; the ripe fruit is also used to prepare juice and in other recipes. The exact cultivar has not been confirmed, so this entry uses the broader botanical identification Musa spp.",
+      "ht": "Ann Ayiti, dapre konesans lokal yo pataje pou fich sa a, yo rele bannann sa a Fig lè li poko mi, epi Fig Mi lè li mi. Lè li poko mi, yo konn bouyi l epi manje l ak divès kalite sòs. Lè li mi, li dous epi moun manje l sitou nan dejene. Yo sèvi ak fwi mi an tou pou prepare ji ak lòt resèt. Nou poko konfime ki varyete egzak li ye; se poutèt sa fich sa a itilize non syantifik jeneral Musa spp.",
+      "fr": "En Haïti, selon les connaissances locales communiquées pour cette fiche, cette banane dessert est appelée Fig lorsqu'elle n'est pas mûre et Fig Mi lorsqu'elle est mûre. Le fruit vert est bouilli et consommé avec différentes sauces. À maturité, il devient sucré et se mange surtout au petit-déjeuner ; le fruit mûr sert également à préparer du jus et d'autres recettes. Le cultivar exact n'ayant pas été confirmé, cette fiche conserve l'identification botanique générale Musa spp."
+    },
+    "image": "assets/Fig-Mi.jpg",
+    "source": "R.H. Stover, Plant Disease Problems in Banana and Plantain in Haiti, Haiti Productive Land Use Systems Project, Report No. 26 (1994), lists Cavendish (Figue) among the main banana types grown in Haiti: https://aurora.auburn.edu/handle/11200/49576. FEWS NET, Haiti Staple Food Market Fundamentals (2018), sections 8.1–8.2, distinguishes figue (sweet/dessert banana) from plantain and Poban: https://fews.net/sites/default/files/documents/reports/Haiti%20MFR_final_20180326.pdf. The names Fig and Fig Mi and the described preparation and eating practices were supplied as local knowledge for this Flora Ayiti entry. The precise cultivar remains unconfirmed. Image pending. Photo: NiferO (Wikimedia Commons), A bunch of ripe banana, 4 April 2025. CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:A_bunch_of_ripe_banana.jpg",
+    "localNames": {
+      "en": [
+        "Dessert banana"
+      ],
+      "ht": [
+        "Fig Bannann",
+        "Fig",
+        "Fig Mi"
+      ],
+      "fr": [
+        "Banane dessert"
+      ]
+    }
+  }
+]
+
+
 
 
 
