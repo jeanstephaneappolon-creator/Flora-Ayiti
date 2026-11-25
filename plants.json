@@ -4351,7 +4351,62 @@
       "Pignon d'Inde"
     ]
   }
+},
+  {
+  "id": "solanum-torvum-sw",
+  "name": {
+    "en": "Turkey berry",
+    "ht": "Zanmorèt",
+    "fr": "Aubergine pois"
+  },
+  "scientific": "Solanum torvum Sw.",
+  "family": "Solanaceae",
+  "local": [
+    "Zanmorèt",
+    "Zanmorette",
+    "Zamorette"
+  ],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": [
+      "Traditional medicine"
+    ],
+    "ht": [
+      "Medsin tradisyonèl"
+    ],
+    "fr": [
+      "Médecine traditionnelle"
+    ]
+  },
+  "description": {
+    "en": "Turkey berry is a shrub with lobed leaves, small white star-shaped flowers, and clusters of round green berries. In Haiti, local reports describe drinking tea made from its leaves for infections. This is a report of traditional use, not a proven treatment. Do not rely on this tea to diagnose or treat an infection or replace medical care.",
+    "ht": "Zanmorèt se yon ti pyebwa ki gen fèy ki gen plizyè lob, ti flè blan ki gen fòm zetwal, ak ti fwi won vèt ki grandi an grap. Ann Ayiti, dapre sa moun rapòte, yo konn bwè te fèy Zanmorèt pou enfeksyon. Itilizasyon tradisyonèl sa a poko pwouve kòm yon tretman medikal. Pa konte sou te sa a pou dyagnostike oswa trete yon enfeksyon, ni pou ranplase swen medikal.",
+    "fr": "L'aubergine pois est un arbuste aux feuilles lobées, aux petites fleurs blanches en forme d'étoile et aux fruits ronds verts réunis en grappes. En Haïti, selon des témoignages locaux, on boit une infusion de ses feuilles contre les infections. Cet usage traditionnel ne constitue pas un traitement médical dont l'efficacité est démontrée. Cette préparation ne doit pas servir à remplacer une évaluation ou des soins médicaux."
+  },
+  "image": "assets/Zanmoret.jpg",
+  "source": "Botanical identification: Solanum torvum Sw. (Solanaceae). Haitian traditional-use information: local reports shared for Flora Ayiti; leaves are reportedly prepared as tea and consumed for infections. Specific infections, preparation details, dosage, and clinical effectiveness have not been established. Photo: Forest & Kim Starr, Solanum torvum (leaves and immature fruits), Haiku, Maui, 25 April 2001, via Wikimedia Commons, CC BY 3.0 (https://commons.wikimedia.org/wiki/File:Starr_010425-0090_Solanum_torvum.jpg).",
+  "localNames": {
+    "en": [
+      "Turkey berry",
+      "Pea eggplant"
+    ],
+    "ht": [
+      "Zanmorèt",
+      "Zanmorette",
+      "Zamorette"
+    ],
+    "fr": [
+      "Aubergine pois",
+      "Morelle de Java"
+    ]
+  }
 }
+
+
 
 
 
