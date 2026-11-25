@@ -4404,59 +4404,6 @@
       "Morelle de Java"
     ]
   }
-},
-  
-{
-  "id": "comocladia-dentata-jacq",
-  "name": {
-    "en": "Toothed-leaved maiden plum",
-    "ht": "Bouziyèt",
-    "fr": "Comoclade dentée"
-  },
-  "scientific": "Comocladia dentata Jacq.",
-  "family": "Anacardiaceae",
-  "local": [
-    "Bouziyèt",
-    "Bouziet"
-  ],
-  "region": {
-    "en": "Haiti",
-    "ht": "Ayiti",
-    "fr": "Haïti"
-  },
-  "uses": {
-    "en": [
-      "Traditional medicine",
-      "Land boundary marker"
-    ],
-    "ht": [
-      "Medsin tradisyonèl",
-      "Makè limit tè"
-    ],
-    "fr": [
-      "Médecine traditionnelle",
-      "Marquage des limites foncières"
-    ]
-  },
-  "description": {
-    "en": "Bouziyèt is a shrub or small tree with compound leaves whose leaflets have toothed edges. In Haiti, individual plants are traditionally placed at the ends of property boundaries to mark the separation between parcels of land. A study in Haiti's Central Plateau also documented traditional medicinal uses of its leaves for colds, coughs, flu and stomach pain. CAUTION: Its sap is caustic and can cause skin irritation.",
-    "ht": "Bouziyèt se yon ti pyebwa oswa yon ti pye bwa ki gen fèy konpoze ak ti fèy ki gen bò dan. Ann Ayiti, yo konn plante yon pye nan chak pwent limit yon tè pou make separasyon ant de oswa plizyè pwopriyete. Yon etid nan Plato Santral la te rapòte itilizasyon fèy li nan medsin tradisyonèl pou rim, tous, grip ak doulè nan lestomak. ATANSYON: Sèv plant lan ka boule oswa irite po a.",
-    "fr": "Le Bouziyèt est un arbuste ou un petit arbre aux feuilles composées dont les folioles présentent des bords dentés. En Haïti, on plante traditionnellement un individu à chaque extrémité d'une limite foncière pour marquer la séparation entre plusieurs parcelles. Une étude menée sur le Plateau central haïtien a également documenté l'utilisation traditionnelle de ses feuilles contre le rhume, la toux, la grippe et les douleurs gastriques. ATTENTION : Sa sève est caustique et peut provoquer des irritations cutanées."
-  },
-  "image": "assets/Bouziyet.jpg",
-  "source": "Royal Botanic Gardens, Kew, Plants of the World Online: Comocladia dentata Jacq. https://powo.science.kew.org/taxon/69455-1; Weniger, B. (1985), study of popular medicinal plants of Haiti's Central Plateau, p. 119 (Bouziet). Traditional land-boundary use reported by local Haitian knowledge. Safety: Flora of the Cayman Islands (2012), Royal Botanic Gardens, Kew.", Photo: Christian Pirkl, Comocladia dentata, Puerto Boniato, Santiago de Cuba, 2017. Wikimedia Commons, CC BY-SA 4.0. https://commons.wikimedia.org/wiki/File:Comocladia_dentata_CF9A3116.jpg
-  "localNames": {
-    "en": [
-      "Toothed-leaved maiden plum"
-    ],
-    "ht": [
-      "Bouziyèt",
-      "Bouziet"
-    ],
-    "fr": [
-      "Comoclade dentée"
-    ]
-  }
 }
 
 
