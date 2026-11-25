@@ -4296,7 +4296,64 @@
         "Dekoratif"
       ]
     }
+  },
+  {
+  "id": "jatropha-curcas-l",
+  "name": {
+    "en": "Physic nut",
+    "ht": "Medsiyen",
+    "fr": "Médicinier"
+  },
+  "scientific": "Jatropha curcas L.",
+  "family": "Euphorbiaceae",
+  "local": [
+    "Medsiyen",
+    "Medsinyen",
+    "Metsiyen",
+    "Gwo medsiyen"
+  ],
+  "region": {
+    "en": "Haiti",
+    "ht": "Ayiti",
+    "fr": "Haïti"
+  },
+  "uses": {
+    "en": [
+      "Medicinal"
+    ],
+    "ht": [
+      "Medsin"
+    ],
+    "fr": [
+      "Médicinal"
+    ]
+  },
+  "description": {
+    "en": "Medsiyen is a shrub or small tree with lobed leaves and milky latex. In Haiti, a survey recorded the traditional use of its fresh leaves for bathing. SAFETY: Do not ingest any part of this plant; it can be toxic.",
+    "ht": "Medsiyen se yon ti pye bwa ki gen fèy ki gen plizyè lob ak yon sèv lèt. Ann Ayiti, yon etid rapòte itilizasyon fèy fre li nan beny kòm pratik tradisyonèl. ATANSYON: Pa vale okenn pati nan plant sa a; li ka toksik.",
+    "fr": "Le médicinier est un arbuste ou un petit arbre aux feuilles lobées et au latex laiteux. En Haïti, une étude a rapporté l'utilisation traditionnelle de ses feuilles fraîches dans le bain. ATTENTION: N'ingérez aucune partie de cette plante; elle peut être toxique."
+  },
+  "image": "assets/Jatropha-cropped.jpeg",
+  "source": "TRAMIL, Jatropha curcas: https://tramil.net/en/plant/jatropha-curcas; Survey on the Traditional Use of Medicinal Herbs in Haiti (reports fresh leaves of Gwo medsiyen used for bathing). Photo: Jean Stéphane Appolon, Flora Ayiti.",
+  "localNames": {
+    "en": [
+      "Physic nut",
+      "Barbados nut"
+    ],
+    "ht": [
+      "Medsiyen",
+      "Medsinyen",
+      "Metsiyen",
+      "Gwo medsiyen"
+    ],
+    "fr": [
+      "Médicinier",
+      "Pignon d'Inde"
+    ]
   }
+}
+
+
 
 
 
